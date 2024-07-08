@@ -1,0 +1,12 @@
+Message_0_Page_0 A fresh face! Welcome! fill out these papers please.
+Message_1_Page_0 Hey! You can't be in here!
+Message_2_Page_0 <color=epic>Corporal Nicole</color> requires your aid on a mission.
+Message_3_Page_0 How can I help you?
+
+Response_0 <i>*用紙に書き込む*</i>
+Response_1 <i>*用紙に間違った情報を書き込む*</i>
+Response_2 おっと、ペンが何処かに…
+Response_3 階級は?
+Response_4 そのミッションとは?
+Response_5 ミッション完了しました
+Response_6 さようなら!

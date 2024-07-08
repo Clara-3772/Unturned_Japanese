@@ -1,0 +1,17 @@
+Cosmetics_Button コスメティクスを適応
+Cosmetics_Button_Tooltip コスメティクス(スキン)を表示
+Add_Button 現装備を追加 [{0}]
+Add_Button_Tooltip 手に持っているアイテムを追加
+Remove_Button 装備を取る [{0}]
+Remove_Button_Tooltip マネキンからアイテムを取る
+Swap_Button 交換
+Swap_Button_Tooltip マネキンとアイテムを交換
+Pose_Button_Tooltip 姿勢を変更
+Mirror_Button ミラー
+Mirror_Button_Tooltip 姿勢を反転
+Cancel_Button キャンセル
+Cancel_Button_Tooltip 変更を破棄
+
+T T ポーズ
+Classic クラシック ポーズ
+Lie リラックス ポーズ

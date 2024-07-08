@@ -1,0 +1,67 @@
+Play_Button プレイ
+Play_Button_Tooltip ゲームを開始する
+Browse_Servers_Label サーバーの閲覧
+Browse_Servers_Tooltip この地図を使用するサーバーを検索する。
+
+Any_Button ランダム
+Easy_Button Easy
+Normal_Button Normal
+Hard_Button Hard
+
+Config_Button 詳細…
+Config_Button_Tooltip ゲームプレイに関する詳細設定を変更
+
+Reset_Button ワールドのリセット
+Reset_Button_Tooltip 選択されたワールドのセーブデータをリセット
+Reset_Button_Confirm リセットする
+Reset_Button_Confirm_Tooltip # リセットした場合元に戻せません! #
+Reset_Button_Deny やめる
+Reset_Button_Deny_Tooltip 現在のセーブデータを保持する
+
+Maps_Official 公式マップ
+Maps_Official_Tooltip ネルソンによって作成されたマップ
+Maps_Curated キュレーテッド
+Maps_Curated_Tooltip コミュニティーが作成し選出されたマップ
+Maps_Workshop ワークショップ
+Maps_Workshop_Tooltip ワークショップからダウンロードしたマップ
+Maps_Misc その他
+Maps_Misc_Tooltip イベントやテスト用のマップ
+
+Retired_View_Label ワークショップで見る
+Retired_View_Tooltip Steam Workshopのマップを参照します。
+Retired_Manage_Sub 登録
+Retired_Manage_Unsub 登録解除
+Retired_Manage_Tooltip このマップの自動インストールまたはアンインストール
+
+Manage_Workshop_Label 登録内容の管理
+Manage_Workshop_Tooltip 登録ファイルの管理
+
+Tiny とても小さい
+Small 小さい
+Medium 普通
+Large 大きい
+Insane とても大きい
+
+Curated_Map_Timed 期間限定
+Curated_Map_Timestamp {0}
+Curated_Map_Timestamp_Format yy/MM/dd
+
+Cheats_Label チート
+
+Survival サバイバル
+Horde ホード [アルファ版]
+Arena アリーナ
+
+Info_WithVersion {0} - {1}
+
+Creators 製作者:
+Collaborators 協力:
+Thanks 協賛:
+Credits_Text この {0} が気に入ったら、 {1} も試してみて製作者をサポートしてください! Stockpileページで詳細を見ることができます｡
+Credits_Tooltip クリックして Stockpile ページを見る
+Timed_Text 期間限定のお勧めマップ: <color=#00FF00>{0}</color> まで (期間終了後はワークショップから導入することができます)
+
+Feedback_Button フィードバック & バグ報告
+Feedback_Button_Tooltip クリックしてディスカッションページを見る
+
+Overlay Steamオーバーレイを有効にする必要があります。 

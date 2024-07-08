@@ -1,0 +1,8 @@
+Name リレーレース
+Description <color=uncommon>"チットチャット" ウィンストン少尉</color> は<color=legendary>連合</color>と連絡を取るため助けが必要だ｡ Ailaniでビーコンを手に入れ、空港、Akoni北の灯台、Mauna Keaの天文台、Alika Baseに配置しろ｡
+
+Condition_0 ラジオリレーを手に入れる {0}/{1}
+Condition_1 空港 にリレーを配置する {0}/1
+Condition_2 灯台 にリレーを配置する {0}/1
+Condition_3 Mauna Kea にリレーを配置する {0}/1
+Condition_4 Alika Base にリレーを配置する {0}/1

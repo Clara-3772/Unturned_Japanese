@@ -1,0 +1,4 @@
+Name 花探し
+Description 花を見つけて Akoni　の西にある島へ持ってきて。
+
+Condition_0 花を探す {0}/1

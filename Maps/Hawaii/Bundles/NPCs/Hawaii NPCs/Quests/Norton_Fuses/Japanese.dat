@@ -1,0 +1,4 @@
+Name ヒューズを探せ!
+Description <color=legendary>ノートン大尉</color> はヒューズが必要だが、前哨基地を離れられない｡ 彼から Pahala 北東にある風車でヒューズボックスを見つけられると聞いた!
+
+Condition_0 ヒューズの箱を見つける {0}/1

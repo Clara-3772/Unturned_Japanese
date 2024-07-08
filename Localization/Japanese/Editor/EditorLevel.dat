@@ -1,0 +1,8 @@
+ObjectsButtonText オブジェクト
+ObjectsButtonTooltip オブジェクト(建物,街灯等)の配置
+VisibilityButtonText アイコン表示
+VisibilityButtonTooltip アイコンの表示/非表示の設定
+PlayersButtonText プレイヤー
+PlayersButtonTooltip プレイヤーのスポーンポイントの配置
+VolumesButtonText Volumes
+VolumesButtonTooltip Define 3D zones/areas.

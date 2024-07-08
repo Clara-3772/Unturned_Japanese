@@ -1,0 +1,4 @@
+Name The Secret Snack
+Description <color=epic>チーフ ブライアン</color>　はドーナッツが欲しくて堪らない｡ しかし、警察官のイメージに有っていないと考えているようだ｡ こっそりと渡して欲しいと彼は言う｡
+
+Condition_0 作る {0}/{1} {2}

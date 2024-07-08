@@ -1,0 +1,11 @@
+Message_0_Page_0 Hello, I'm <name_npc>! I have a few things you could help with, if you are up for it!
+Message_1_Page_0 Good, gonna need these fuses if we want to get communications back up and running!
+Message_2_Page_0 Anything to report?
+
+Response_0 探してきます
+Response_1 今はダメです
+Response_2 ヒューズを見つけてきました!
+Response_3 探してきます
+Response_4 今はダメです
+Response_5 バイオサンプルを見つけてきました!
+Response_6 何でもありません

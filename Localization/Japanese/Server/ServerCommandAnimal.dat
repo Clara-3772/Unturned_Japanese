@@ -1,0 +1,14 @@
+InvalidParameterErrorText フォーマット内のパラメータが見つかりません. [SteamID | Player]/[AnimalID].
+InvalidNumberErrorText {0} を数値に変換できませんでした。
+InvalidAnimalIDErrorText {0} をAnimalIDに変換できませんでした。
+
+NoAnimalIDErrorText {0} という動物が見つかりませんでした。
+NoPlayerErrorText {0} という名前が見つかりませんでした。
+NotRunningErrorText 走っていないプレイヤーに動物を与えることに失敗しました。
+CheatsErrorText チートが無効なので動物を与えることに失敗しました。
+
+AnimalCommandText Animal
+AnimalInfoText Animal [SteamID | Player]/[AnimalID]	
+AnimalHelpText これにより、プレイヤーは動物を手に入れることができます。
+
+AnimalText {0} を {1}に与えることに成功しました!

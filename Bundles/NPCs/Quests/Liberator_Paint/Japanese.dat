@@ -1,0 +1,5 @@
+Name ペンキの上塗り
+Description ラスティーは掠れてしまった空母名に何か修正が必要だと考えている｡ Saint Petersburg を訪問したなら、金物店 (Hardware Store) にまだ少し白いペンキが残っているかもしれないと、彼は言う｡
+
+Condition_0 白いペンキを探す {0}/1
+Condition_1 "Liberator" を修正する {0}/1

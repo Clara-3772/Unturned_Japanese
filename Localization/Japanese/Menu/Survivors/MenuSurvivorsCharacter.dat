@@ -1,0 +1,20 @@
+Name_Label {0}
+Nick_Label [{0}]
+
+Name_Field_Label パブリックネーム
+Nick_Field_Label プライベートネーム
+
+Skillset_0 一般人
+Skillset_1 消防士
+Skillset_2 警察官
+Skillset_3 特殊部隊員
+Skillset_4 農夫
+Skillset_5 釣り人
+Skillset_6 木こり
+Skillset_7 作業員
+Skillset_8 シェフ
+Skillset_9 盗賊
+Skillset_10 医者
+Skillset_Box_Label スキルセット:
+
+Overlay Steam オーバーレイを有効にする必要があります｡ 

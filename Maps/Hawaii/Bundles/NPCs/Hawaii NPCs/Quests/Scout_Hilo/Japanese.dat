@@ -1,0 +1,4 @@
+Name 都市の生活
+Description Hilo はこの島でも大きい都市だ｡ <color=uncommon>スチュアート少尉</color>は物資がないかこの場所を偵察してきて欲しいと言う｡ 特に医療品や食料品を!
+
+Condition_0 Hilo の <color=legendary>ホードビーコン</color> をクリアする {0}/{1}

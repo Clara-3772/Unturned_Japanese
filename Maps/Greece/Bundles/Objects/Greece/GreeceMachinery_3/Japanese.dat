@@ -1,0 +1,4 @@
+Name Greece Machinery 4
+
+Interactability_Condition_0 Already Carrying Machinery.
+Interact Pickup Machinery[{0}]

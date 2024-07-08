@@ -1,0 +1,5 @@
+Name スペアパーツ
+Description <color=uncommon>"チットチャット" ウィンストン少尉</color> はラジオを修理するために無線通信機からのスペアパーツが必要なようだ｡
+
+Condition_0 <color=rare>ウォーキートーキー</color> を集める {0}/{1}
+Condition_1 <color=rare>イヤーピース</color> を集める {0}/{1}

@@ -1,0 +1,4 @@
+Name <color=mythical>余震</color>
+Description ピーター が Yekativurg から逃げてくる最中、地震が起きるほど強く地面を叩きつけてくる巨大なゾンビをぎりぎり退けた｡ 彼の頭からそれが離れないようで、それが始末されたのが分かれば助かるという。
+
+Condition_0 <color=mythical>地震を起こすボス</color> を倒す {0}/{1}

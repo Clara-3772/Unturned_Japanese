@@ -1,0 +1,4 @@
+Name 偵察部隊 I
+Description サルベージ部隊の出発する準備ができた｡ <color=epic>ダミエン一等軍曹</color> は感染者たちを根こそぎ排除してほしいようだ｡
+
+Condition_0 Lamia の感染者たちを始末する {0}/{1}

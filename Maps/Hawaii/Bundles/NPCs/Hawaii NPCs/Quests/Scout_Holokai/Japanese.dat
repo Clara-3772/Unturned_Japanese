@@ -1,0 +1,4 @@
+Name サイエンス!
+Description <color=uncommon>スチュアート少尉</color> は Holokai Harbor で何が研究されているのか把握したい｡ 彼は全てのゾンビを片付け、ラボに残された研究がないかチェックして欲しいと言う!
+
+Condition_0 Holokai Harbor の <color=legendary>ホードビーコン</color> をクリアする {0}/{1}

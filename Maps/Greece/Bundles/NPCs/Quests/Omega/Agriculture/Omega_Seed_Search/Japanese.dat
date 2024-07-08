@@ -1,0 +1,7 @@
+Name Seed Search
+Description <color=uncommon>Farmer Pan</color> needs some more seeds to diversify the Greenhouse's crops.
+
+Condition_0 レタスの種を探す {0}/{1}
+Condition_1 ジャガイモの種を探す {0}/{1}
+Condition_2 ニンジンの種を探す {0}/{1}
+Condition_3 トマトの種を探す {0}/{1}

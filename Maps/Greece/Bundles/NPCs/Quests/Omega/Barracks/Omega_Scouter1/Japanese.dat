@@ -1,0 +1,5 @@
+Name 偵察部隊 I
+Description サルベージ部隊の出発する準備ができた｡ <color=epic>ニコル大佐</color> は感染者たちを根こそぎ排除してほしいようだ｡
+
+Condition_0 FARM #1 の感染者たちを始末する {0}/{1}
+Condition_1 FARM #2 の感染者たちを始末する {0}/{1}

@@ -1,0 +1,17 @@
+Capacity_Text {0}/{1}
+Capacity_Label 容量
+Wallet_Label 利用可能
+Amount_Label 現在のXP
+Transaction_Label タイプ
+Tax_Label 利用負担
+Net_Label 実質量
+
+Deposit 貯める
+Deposit_Label 経験値を本棚に貯める
+Withdraw 引き出す
+Withdraw_Label 経験値を本棚から引き出す
+
+Yes_Button 実行
+Yes_Button_Tooltip 変更を保存する
+No_Button キャンセル
+No_Button_Tooltip 変更を取り消す

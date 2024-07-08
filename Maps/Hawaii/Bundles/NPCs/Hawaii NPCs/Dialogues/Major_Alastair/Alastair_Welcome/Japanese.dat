@@ -1,0 +1,16 @@
+Message_0_Page_0 Greetings! You must be <name_char>, new survivors are a rare sight, word of your arrival spread quickly. I'm <color=epic><name_npc></color>, good to see a fresh face around here!
+Message_1_Page_0 Anything new to report, <name_char>?
+Message_2_Page_0 That plane has to be southwest of Kailua-Kona, I just know it.<pause> Could you take a look?
+
+Response_0 ユニフォームはどこで手に入れたんですか?
+Response_1 ありがとう! また後で
+Response_2 後で報告します
+Response_3 連合に参加できますか?
+Response_4 漂流して来たんですか?
+Response_5 何か手伝いますか?
+Response_6 上から下まで探しても飛行機は見つかりませんでした
+Response_7 了解!
+Response_8 今はだめです
+Response_9 ミッションを完了しました, sir!
+Response_10 ミッションを完了しました, sir!
+Response_11 エコー市長がウイルスに感染したようです

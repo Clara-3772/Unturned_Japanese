@@ -1,0 +1,73 @@
+FOV_Slider_LabelV2_Name 視野の広さ
+FOV_Slider_LabelV2_Value 画角 (FOV) [{0}°]
+Debug_Toggle_Label FPS/レイテンシ表示
+Splashscreen_Toggle_Label 起動時のスプラッシュスクリーン
+Timer_Toggle_Label アリーナのタイマー警告
+Physics_Toggle_Label 物理シミュレーション
+Gore_Toggle_Label 血痕の表示
+
+Filter_Toggle_Label 暴言フィルタを使用 [英語のみ]
+Filter_Toggle_Tooltip Note: hate speech is censored regardless of whether profanity filter is enabled.
+
+Chat_Text_Toggle_Label テキストチャットを使用
+Chat_Voice_In_Toggle_Label 他人のボイスチャット音声
+Chat_Voice_Out_Toggle_Label 自分のボイスチャット音声
+VoiceAlwaysRecording_Label Keep Microphone Ready
+VoiceAlwaysRecording_Tooltip Avoid hitches related to starting and stopping recording by muting rather than stopping.
+Hints_Toggle_Label ヒントを表示
+Streamer_Toggle_Label 配信者モード
+Featured_Workshop_Toggle_Label ワークショップ特集の表示
+Show_Hotbar_Toggle_Label ホットバーの表示
+Pause_When_Unfocused_Label Alt-Tabbing中の一時停止
+Nametag_Fade_Out_Label Fade Out Name Tags
+Nametag_Fade_Out_Tooltip Makes group member name labels more transparent near the center of your crosshair.
+ScreenshotSizeMultiplier_Label Screenshot Resolution Multiplier
+ScreenshotSizeMultiplier_Tooltip Higher values take significantly longer to render.
+ScreenshotSupersampling_Label Enable Screenshot Supersampling
+ScreenshotSupersampling_Tooltip Render screenshots with 2x supersampling to reduce aliasing.
+ScreenshotsWhileLoading_Label Show Screenshots on Loading Screen
+ScreenshotsWhileLoading_Tooltip Enable your own screenshots on the startup loading screen.
+
+UseStaticCrosshair_Label Enable Custom Sized Crosshair
+UseStaticCrosshair_Tooltip Use custom crosshair size rather than size calculated from spread.
+StaticCrosshairSize_Label Custom Crosshair Size
+CrosshairShape_Line Line
+CrosshairShape_Classic Classic
+CrosshairShape_Label Crosshair Shape
+
+Metric_On メートル (メートル法 )
+Metric_Off マイル (ヤードポンド法 )
+Metric_Tooltip 速度/重量単位
+Metric_Label Unit System
+
+Talk_On 会話を瞬時に表示
+Talk_Off 会話にアニメーションを使用
+Talk_Tooltip NPCテキストのアニメーション
+Talk_Label NPC Text Animation
+
+UI_Free 白いUI
+UI_Pro 黒いUI
+UI_Tooltip インターフェイスの色を変更します
+UI_Label Interface Theme
+
+Hitmarker_Static 静的ヒットマーカー
+Hitmarker_Dynamic ダイナミックヒットマーカー
+Hitmarker_Tooltip ヒットマーカーの位置
+Hitmarker_Label Hitmarker Positioning
+HitmarkerStyle_Animated Animated
+HitmarkerStyle_Classic Classic
+HitmarkerStyle_Label Hitmarker Style
+
+VehicleThirdPersonCameraMode_RotationDetached Rotation Detached
+VehicleThirdPersonCameraMode_RotationAttached Rotation Attached
+VehicleThirdPersonCameraMode_Label Vehicle Third-Person Camera Style
+
+Crosshair_Box クロスヘアの色
+Hitmarker_Box ヒットマーカーの色
+Critical_Hitmarker_Box クリティカルヒットマーカーの色
+Cursor_Box カーソルの色
+Background_Box インターフェイスの色 (背面)
+Foreground_Box インターフェイスの色 (前面)
+Font_Box フォントの色
+Shadow_Box 影の色
+Bad_Color_Box Negative Color

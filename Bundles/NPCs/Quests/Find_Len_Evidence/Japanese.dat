@@ -1,0 +1,8 @@
+Name コールドケース
+Description <color=epic>チーフ ブライアン</color> は手始めに ダレン - ハリーのルームメイト から調べることを提案してきた｡ ハリーの私物を探すのも価値が有るかもしれない｡ ナタリーも何か見たかもしれないし、ローマンも何かを聞きすぎたかもしれない… 彼は十分過ぎるほどの提案があるようだ。
+
+Condition_0 <color=rare>ハリー中尉</color> の宿舎を調べる {0}/1
+Condition_1 <color=uncommon>ダレン少尉</color> へ質問する {0}/1
+Condition_2 ナタリー と話す {0}/1
+Condition_3 ローマン副料理長 と話す {0}/1
+Condition_4 <color=epic>レン少佐</color> と話す {0}/1

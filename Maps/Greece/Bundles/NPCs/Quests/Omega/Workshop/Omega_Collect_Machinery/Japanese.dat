@@ -1,0 +1,4 @@
+Name Machinery Hunt
+Description <color=rare>Head Engineer Heitor</color> needs help find the spare machinery parts laying around the supply depot.
+
+Condition_0 機械のパーツを探す {0}/{1}

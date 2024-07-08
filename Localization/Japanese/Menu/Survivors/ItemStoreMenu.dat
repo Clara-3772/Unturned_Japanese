@@ -1,0 +1,24 @@
+ViewCart_Label 買い物かごを見る
+ViewCart_Tooltip ショッピングカート内の商品を表示します。
+AddToCart_Label 買い物かごに入れる
+AddToCart_Tooltip 商品を買い物かごに入れる
+RemoveFromCart_Label カートから取り出す
+RemoveFromCart_Tooltip ショッピングカートから商品を取り出す。
+TotalPrice_Label 推定合計:
+StartPurchase_Label 決済に進む
+StartPurchase_Tooltip Steamオーバーレイでの購入を開始.
+
+PurchaseResult_UnableToInitialize 購入手続きを開始できません
+PurchaseResult_Denied 購入を拒否されました。
+PurchaseResult_Authorized 購入を許可されました！
+
+FilterAllButton_Label すべて
+FilterAllButton_Tooltip 全てのアイテムを見る
+FilterBundlesButton_Label バンドル
+FilterBundlesButton_Tooltip アイテムパックを見る
+FilterSpecialsButton_Label スペシャル
+FilterSpecialsButton_Tooltip 割引商品を見る
+FilterNewButton_Label 新規
+FilterNewButton_Tooltip 新着アイテムを見る
+FilterFeaturedButton_Label 特集
+FilterFeaturedButton_Tooltip 人気アイテムを見る

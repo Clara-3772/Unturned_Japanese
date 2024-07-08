@@ -1,0 +1,19 @@
+SelectionBoxLabelText 選択中:
+
+WidthFieldLabelText 横
+HeightFieldLabelText 縦
+DepthFieldLabelText 道の高さ
+ConcreteToggleLabelText コンクリート
+
+BakeRoadsButtonText 道路の生成
+BakeRoadsButtonTooltip 道路を生成する
+
+ModeButtonTooltipText モード
+OffsetFieldLabelText オフセット
+IgnoreTerrainToggleLabelText 地形を無視
+LoopToggleLabelText ループ
+RoadIndexLabelText 道ID
+
+Mirror ミラー
+Aligned 整列
+Free フリー

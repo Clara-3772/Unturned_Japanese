@@ -1,0 +1,15 @@
+Search_Button 検索
+Search_Button_Tooltip サーバーを検索
+Info_Button 詳細
+Info_Button_Tooltip サーバーの詳細を表示
+Lucky_Button I'm Feeling Lucky
+Lucky_Button_Tooltip サーバーへ参加する
+
+Progress_Matches {0} の適したサーバーを発見/比較中...
+Progress_Best 最適なマッチ - {0}
+Match_No 不明
+Match_Yes プレイヤー数: {0}/{1} Ping: {2} 
+
+Easy_Button 簡単 (Easy)
+Normal_Button 普通 (Normal)
+Hard_Button 難しい (Hard)

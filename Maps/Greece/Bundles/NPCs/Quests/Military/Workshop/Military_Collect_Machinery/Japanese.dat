@@ -1,0 +1,4 @@
+Name Machinery Hunt
+Description <color=epic>Workshop Manager Hyperion</color> would like you to carry in the spare machinery parts from the hangar.
+
+Condition_0 機械のパーツを探す {0}/{1}

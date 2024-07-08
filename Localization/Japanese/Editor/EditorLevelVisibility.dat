@@ -1,0 +1,14 @@
+Roads_Label 道路 [F1]
+Navigation_Label ナビゲーション [F2]
+Nodes_Label ノード [F3]
+Items_Label アイテム [F4]
+Players_Label スポーン(プレイヤー) [F5]
+Zombies_Label スポーン(ゾンビ) [F6]
+Vehicles_Label 車両 [F7]
+Border_Label マップ範囲ボーダー [F8]
+Animals_Label 動物 [F9]
+Decals_Label Decals
+
+Point ({0}, {1})
+Objects {0} - {1}%
+Triangles {0}

@@ -1,0 +1,4 @@
+Name <color=mythical>帯電</color>
+Description <color=epic>リー大佐</color> の部隊が Pahala を通る途中、大きい帯電したゾンビからの攻撃を受け、メンバーが怪我を負ったらしい｡ 彼はそのゾンビを見つけ、他にけが人が出ないように殺害して欲しいと言う｡
+
+Condition_0 <color=mythical>雷撃してくるボス</color> を倒す　{0}/{1}

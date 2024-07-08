@@ -1,0 +1,31 @@
+Return_Button 戻る
+Return_Button_Tooltip 前の画面に戻ります
+
+Exit_Button 終了
+Exit_Button_Tooltip ゲームを終了します
+
+Support_Label Support
+Support_Tooltip Troubleshooting, FAQs, reports, and more.
+
+Trello_Button Trello Roadmap
+Trello_Button_Tooltip Trelloの開発ロードマップを開きます
+
+Twitter_Button  Twitter News
+Twitter_Button_Tooltip 開発者のツイッターを開きます
+
+Steam_Button Steam ニュース
+Steam_Button_Tooltip Steam上のリリースノート及びコメントを開きます
+
+Credits_Button クレジット
+Credits_Button_Tooltip Unturnedに関連したクレジットを表示します
+
+Forum_Button 掲示板
+Forum_Button_Tooltip 掲示板を開きます
+
+Blog_Button ブログ
+Blog_Button_Tooltip 開発チームのブログを開きます
+
+Wiki_Button Wiki
+Wiki_Button_Tooltip Wikiを開きます
+
+Overlay Steamオーバーレイを有効にする必要があります。 

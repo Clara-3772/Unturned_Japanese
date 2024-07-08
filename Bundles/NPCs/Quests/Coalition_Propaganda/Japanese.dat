@@ -1,0 +1,8 @@
+Name Getting the Word Out
+Description ラジオを持っていない生存者達のために <color=legendary>ローレンス司令官</color> はリベレーターへの道が記されたポスターを貼ろうと考えている｡ 彼は街に有る警察署・交番に貼り付けるよう提案している｡
+
+Condition_0 Jhavesk 警察署 {0}/1
+Condition_1 Yekativurg 警察署{0}/1
+Condition_2 St. Petersburg 警察署 {0}/1
+Condition_3 Moscow West 警察署 {0}/1
+Condition_4 Moscow South 警察署 {0}/1

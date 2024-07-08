@@ -1,0 +1,4 @@
+Name <color=mythical>焦げた地</color>
+Description　最近 ノーベルト が Novobirsk への収集任務に就いていた時、 炎を吹くゾンビと会敵した｡　残念だが、これはそのゾンビが倒されるまで収集活動が出来ないという事だ｡
+
+Condition_0 <color=mythical>火炎放射してくるボス</color> を倒す {0}/{1}

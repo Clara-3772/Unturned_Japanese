@@ -1,0 +1,4 @@
+Name Waikoloa
+Description 遠い北にまた港町がある｡ <color=uncommon>スチュアート少尉</color>はこの場所が物資を島中へ安全に輸送するのに適していると考えている!
+
+Condition_0 Waikoloa　の <color=legendary>ホードビーコン</color> をクリアする {0}/{1}

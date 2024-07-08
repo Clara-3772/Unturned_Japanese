@@ -1,0 +1,14 @@
+Message_0_Page_0 Hello, I'm <color=uncommon><name_npc></color>. I think <color=epic>Major Mac Alastair</color> would like to speak with you!
+Message_1_Page_0 Listen to this! <i>*Static*</i> <pause>. <pause>. Thi- . <pause> . This is Sergeant Hale, How co- <pause> <i>*Static*</i> <pause> Hello? Is anybody out there?
+Message_1_Page_1 <i>*Static*</i> <pause> . <pause> . <pause> . <i>*Static*</i> <pause> This is Operation Mahiole, <pause> code holo aku <pause> I repeat, code holo aku ...
+Message_1_Page_2 It seems very militarisic, which is odd as they have been overrun for a long while now. I'll try contacting him, go inform <color=epic>Major Mac Alastair's</color>
+Message_2_Page_0 Hello <name_char>!
+
+Response_0 了解
+Response_1 あなたの仕事は?
+Response_2 手伝う?
+Response_3 パーツを持ってきたよ
+Response_4 次は?
+Response_5 リレーは全部稼働してるよ
+Response_6 新しい <color=epic>ノイズメーカー</color> が必要なんだけど
+Response_7 やあ

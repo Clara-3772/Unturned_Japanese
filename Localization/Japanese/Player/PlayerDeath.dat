@@ -1,0 +1,42 @@
+Home_Button ホーム
+Home_Button_Timer ホーム [ {0}秒 ]
+Home_Button_Tooltip ベッドでリスポーンする｡ 
+Respawn_Button リスポーン
+Respawn_Button_Timer リスポーン [ {0}秒 ]
+Respawn_Button_Tooltip スポーンポイントでリスポーンする｡ 
+
+Leg 足
+Arm 腕
+Spine 胴体
+Skull 頭
+
+Bleeding 出血で死亡した!
+Bones 骨折で死亡した!
+Freezing 凍死した!
+Burning 焼死した!
+Food 空腹で死亡した!
+Water 脱水症状で死亡した!
+Gun {0} を撃たれて {1} [{2}] に殺害された!
+Melee {0} を殴られ {1} [{2}] に殺害された!
+Zombie ゾンビに切り裂かれた!
+Animal 動物に切り裂かれた!
+Suicide 自殺した! 皆落胆している!
+Kill 管理者に殺害された
+Infection 感染により死亡した!
+Punch {0} を殴られ {1} [{2}] に殺害された! 
+Breath 水死した!
+Roadkill {0} [{1}] に轢かれ殺害された! 
+Vehicle 車両の爆発で死亡した!
+Grenade {0} [{1}]　に手榴弾で爆破された!
+Shred こなごなになった!
+Landmine 地雷に吹き飛ばされた!
+Arena アリーナに殺害された!
+Missile {0} [{1}] にミサイルで吹き飛ばされた!
+Charge {0} [{1}] にリモート爆弾で吹き飛ばされた!
+Splash {0} [{1}] にフラグメンテーション弾で吹き飛ばされた!
+Sentry セントリーに射殺された!
+Acid ゾンビに吹き飛ばされた!
+Boulder ゾンビに押しつぶされた!
+Burner ゾンビに燃やされた!
+Spit ゾンビに溶かされた!
+Spark ゾンビに感電死させられた!

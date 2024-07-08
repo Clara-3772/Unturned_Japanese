@@ -1,0 +1,30 @@
+TableNameFieldLabelText テーブル
+AddTableButtonText 追加
+AddTableButtonTooltip テーブル追加
+RemoveTableButtonText 削除
+RemoveTableButtonTooltip テーブル削除
+
+SelectionBoxLabelText 選択中:
+
+TableIDFieldLabelText スポーンID
+
+TierNameFieldLabelText 出現レベル(Tier)
+AddTierButtonText 追加
+AddTierButtonTooltip レベル追加
+RemoveTierButtonText 削除
+RemoveTierButtonTooltip レベル削除
+
+VehicleIDFieldLabelText ID (車両)
+AddVehicleButtonText 追加
+AddVehicleButtonTooltip 車両を追加
+RemoveVehicleButtonText 削除
+RemoveVehicleButtonTooltip 車両を削除
+
+RadiusSliderLabelText 半径
+RotationSliderLabelText 角度
+
+AddButtonText 追加 [{0}]
+AddButtonTooltip スポーンポイント追加
+
+RemoveButtonText 削除 [{0}]
+RemoveButtonTooltip スポーンポイント削除

@@ -1,0 +1,4 @@
+Name Food Box #1
+
+Interactability_Condition_0 Already Carrying a Box.
+Interact Pick up Food Box[{0}]

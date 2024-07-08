@@ -1,0 +1,198 @@
+Speciality_0_Tooltip 攻撃
+Speciality_1_Tooltip 防御
+Speciality_2_Tooltip 支援
+
+Speciality_0_Skill_0 オーバーキル (Overkill)
+Speciality_0_Skill_0_Tooltip 物理攻撃(パンチや鈍器)のダメージを増加させる。 
+Speciality_0_Skill_0_Level_1 +7% パンチ/打撃ダメージ
+Speciality_0_Skill_0_Level_2 +14% パンチ/打撃ダメージ
+Speciality_0_Skill_0_Level_3 +21% パンチ/打撃ダメージ
+Speciality_0_Skill_0_Level_4 +29% パンチ/打撃ダメージ
+Speciality_0_Skill_0_Level_5 +36% パンチ/打撃ダメージ
+Speciality_0_Skill_0_Level_6 +43% パンチ/打撃ダメージ
+Speciality_0_Skill_0_Level_7 +50% パンチ/打撃ダメージ
+Speciality_0_Skill_1 シャープシューター (Sharpshooter)
+Speciality_0_Skill_1_Tooltip 射撃のリコイルを緩和し精度を向上させる。 
+Speciality_0_Skill_1_Level_1 +7% リコイル緩和/精度
+Speciality_0_Skill_1_Level_2 +14% リコイル緩和/精度
+Speciality_0_Skill_1_Level_3 +21% リコイル緩和/精度
+Speciality_0_Skill_1_Level_4 +29% リコイル緩和/精度
+Speciality_0_Skill_1_Level_5 +36% リコイル緩和/精度
+Speciality_0_Skill_1_Level_6 +43% リコイル緩和/精度
+Speciality_0_Skill_1_Level_7 +50% リコイル緩和/精度
+Speciality_0_Skill_2 デクステリティ (Dexterity)
+Speciality_0_Skill_2_Tooltip リロード速度を向上させる。
+Speciality_0_Skill_2_Level_1 +10% リロード/打ち金の速度
+Speciality_0_Skill_2_Level_2 +20% リロード/打ち金の速度
+Speciality_0_Skill_2_Level_3 +30% リロード/打ち金の速度
+Speciality_0_Skill_2_Level_4 +40% リロード/打ち金の速度
+Speciality_0_Skill_2_Level_5 +50% リロード/打ち金の速度
+Speciality_0_Skill_3 カーディオ (Cardio)
+Speciality_0_Skill_3_Tooltip スタミナと酸素の回復速度を向上させる。 
+Speciality_0_Skill_3_Level_1 +10% 回復速度
+Speciality_0_Skill_3_Level_2 +20% 回復速度
+Speciality_0_Skill_3_Level_3 +30% 回復速度
+Speciality_0_Skill_3_Level_4 +40% 回復速度
+Speciality_0_Skill_3_Level_5 +50% 回復速度
+Speciality_0_Skill_4 エクササイズ (Exercise)
+Speciality_0_Skill_4_Tooltip スタミナ消費量を減少させる。 
+Speciality_0_Skill_4_Level_1 +5% 移動速度, +50% スタミナ持続時間
+Speciality_0_Skill_4_Level_2 +10% 移動速度,  +100% スタミナ持続時間
+Speciality_0_Skill_4_Level_3 +15% 移動速度,  +150% スタミナ持続時間
+Speciality_0_Skill_4_Level_4 +20% 移動速度,  +200% スタミナ持続時間
+Speciality_0_Skill_4_Level_5 +25% 移動速度,  +250% スタミナ持続時間
+Speciality_0_Skill_5 ダイビング (Diving)
+Speciality_0_Skill_5_Tooltip 酸素の使用量を減少, 泳ぐ速度を向上,　スコープのブレを減少させる。 
+Speciality_0_Skill_5_Level_1 +5% 泳ぐ速度, +50% 酸素持続時間, +10% スコープの安定性
+Speciality_0_Skill_5_Level_2 +10% 泳ぐ速度, +100% 酸素持続時間, +20% スコープの安定性
+Speciality_0_Skill_5_Level_3 +15% 泳ぐ速度, +150% 酸素持続時間, +30% スコープの安定性
+Speciality_0_Skill_5_Level_4 +20% 泳ぐ速度, +200% 酸素持続時間, +40% スコープの安定性
+Speciality_0_Skill_5_Level_5 +25% 泳ぐ速度, +250% 酸素持続時間, +50% スコープの安定性
+Speciality_0_Skill_6 パルクール (Parkour)
+Speciality_0_Skill_6_Tooltip ジャンプの高さを向上し、スタミナ減少を緩和する。
+Speciality_0_Skill_6_Level_1 +5% ジャンプ高, +10% スタミナ消費減少
+Speciality_0_Skill_6_Level_2 +10% ジャンプ高, +20% スタミナ消費減少
+Speciality_0_Skill_6_Level_3 +15% ジャンプ高, +30% スタミナ消費減少
+Speciality_0_Skill_6_Level_4 +20% ジャンプ高, +40% スタミナ消費減少
+Speciality_0_Skill_6_Level_5 +25% ジャンプ高, +50% スタミナ消費減少
+
+Speciality_1_Skill_0 スニーキービーキー (Sneakybeaky)
+Speciality_1_Skill_0_Tooltip 移動時の音を軽減し、伏せ/しゃがみ時にゾンビに見つかりづらくなる。 
+Speciality_1_Skill_0_Level_1 +11% ステルス
+Speciality_1_Skill_0_Level_2 +21% ステルス
+Speciality_1_Skill_0_Level_3 +32% ステルス
+Speciality_1_Skill_0_Level_4 +43% ステルス
+Speciality_1_Skill_0_Level_5 +54% ステルス
+Speciality_1_Skill_0_Level_6 +64% ステルス 
+Speciality_1_Skill_0_Level_7 +75% ステルス
+Speciality_1_Skill_1 バイタリティ (Vitality)
+Speciality_1_Skill_1_Tooltip 食事/水が100%時の体力回復速度を向上させる。 
+Speciality_1_Skill_1_Level_1 +10% 体力回復速度
+Speciality_1_Skill_1_Level_2 +20% 体力回復速度
+Speciality_1_Skill_1_Level_3 +30% 体力回復速度
+Speciality_1_Skill_1_Level_4 +40% 体力回復速度
+Speciality_1_Skill_1_Level_5 +50% 体力回復速度
+Speciality_1_Skill_2 イミュニティ (Immunity)
+Speciality_1_Skill_2_Tooltip バクテリア、ゾンビ、幻覚を無効化する。 
+Speciality_1_Skill_2_Level_1 +10% ウィルス耐性
+Speciality_1_Skill_2_Level_2 +20% ウィルス耐性
+Speciality_1_Skill_2_Level_3 +30% ウィルス耐性
+Speciality_1_Skill_2_Level_4 +40% ウィルス耐性
+Speciality_1_Skill_2_Level_5 +50% ウィルス耐性
+Speciality_1_Skill_3 タフネス (Toughness)
+Speciality_1_Skill_3_Tooltip 怯みや痛みを軽減する。 
+Speciality_1_Skill_3_Level_1 +15% 怯み/暗転時間軽減
+Speciality_1_Skill_3_Level_2 +30% 怯み/暗転時間軽減
+Speciality_1_Skill_3_Level_3 +45% 怯み/暗転時間軽減
+Speciality_1_Skill_3_Level_4 +60% 怯み/暗転時間軽減
+Speciality_1_Skill_3_Level_5 +75% 怯み/暗転時間軽減
+Speciality_1_Skill_4 ストレングス (Strength)
+Speciality_1_Skill_4_Tooltip 出血と骨折の回復速度を向上させ、落下ダメージを軽減する。 
+Speciality_1_Skill_4_Level_1 +10% 出血/骨折回復速度, +15% 落下ダメージ軽減
+Speciality_1_Skill_4_Level_2 +20% 出血/骨折回復速度, +30% 落下ダメージ軽減
+Speciality_1_Skill_4_Level_3 +30% 出血/骨折回復速度, +45% 落下ダメージ軽減
+Speciality_1_Skill_4_Level_4 +40% 出血/骨折回復速度, +60% 落下ダメージ軽減
+Speciality_1_Skill_4_Level_5 +50% 出血/骨折回復速度, +75% 落下ダメージ軽減
+Speciality_1_Skill_5 ウォームブラッデッド (Warmblooded)
+Speciality_1_Skill_5_Tooltip 寒さによるダメージを軽減する。 カロリーの消費量を抑える。 
+Speciality_1_Skill_5_Level_1 +20% 寒さ耐性
+Speciality_1_Skill_5_Level_2 +40% 寒さ耐性
+Speciality_1_Skill_5_Level_3 +60% 寒さ耐性
+Speciality_1_Skill_5_Level_4 +80% 寒さ耐性
+Speciality_1_Skill_5_Level_5 +100% 寒さ耐性
+Speciality_1_Skill_6 サバイバル (Survival)
+Speciality_1_Skill_6_Tooltip 食料/水の消費を抑える。
+Speciality_1_Skill_6_Level_1 +5% 食料/水消費量低減
+Speciality_1_Skill_6_Level_2 +10% 食料/水消費量低減
+Speciality_1_Skill_6_Level_3 +15% 食料/水消費量低減
+Speciality_1_Skill_6_Level_4 +20% 食料/水消費量低減
+Speciality_1_Skill_6_Level_5 +25% 食料/水消費量低減
+
+Speciality_2_Skill_0 ヒーリング (Healing)
+Speciality_2_Skill_0_Tooltip 回復アイテムの回復効率を上げる。 
+Speciality_2_Skill_0_Level_1 +7% 回復効率
+Speciality_2_Skill_0_Level_2 +14% 回復効率
+Speciality_2_Skill_0_Level_3 +21% 回復効率
+Speciality_2_Skill_0_Level_4 +29% 回復効率
+Speciality_2_Skill_0_Level_5 +36% 回復効率
+Speciality_2_Skill_0_Level_6 +43% 回復効率
+Speciality_2_Skill_0_Level_7 +50% 回復効率
+Speciality_2_Skill_1 クラフティング (Crafting)
+Speciality_2_Skill_1_Tooltip 複雑なアイテムを作成できるようになる。 
+Speciality_2_Skill_1_Level_1 手作りのアイテム
+Speciality_2_Skill_1_Level_2 手作りのアイテム, 基本的な建築資材
+Speciality_2_Skill_1_Level_3 手作りのアイテム, 基本的な建築資材, 複雑なバリケード
+Speciality_2_Skill_2 アウトドア (Outdoors)
+Speciality_2_Skill_2_Tooltip 木を早く切れるようになる。 
+Speciality_2_Skill_2_Level_1 +10% リソースへのダメージ
+Speciality_2_Skill_2_Level_2 +20% リソースへのダメージ
+Speciality_2_Skill_2_Level_3 +30% リソースへのダメージ
+Speciality_2_Skill_2_Level_4 +40% リソースへのダメージ
+Speciality_2_Skill_2_Level_5 +50% リソースへのダメージ
+Speciality_2_Skill_3 クッキング (Cooking)
+Speciality_2_Skill_3_Tooltip 品質の高い料理を作れるようになる。
+Speciality_2_Skill_3_Level_1 食材
+Speciality_2_Skill_3_Level_2 食材, 軽いスナック
+Speciality_2_Skill_3_Level_3 食材, 軽いスナック, 普通の食事
+Speciality_2_Skill_4 フィッシング (Fishing)
+Speciality_2_Skill_4_Tooltip 魚が釣れやすくなる。 
+Speciality_2_Skill_4_Level_1 +20% ヒットまでの早さ
+Speciality_2_Skill_4_Level_2 +40% ヒットまでの早さ
+Speciality_2_Skill_4_Level_3 +60% ヒットまでの早さ
+Speciality_2_Skill_4_Level_4 +80% ヒットまでの早さ
+Speciality_2_Skill_4_Level_5 +100% ヒットまでの早さ
+Speciality_2_Skill_5 アグリカルチャー (Agriculture)
+Speciality_2_Skill_5_Tooltip 作物の収穫効率を上げる。 
+Speciality_2_Skill_5_Level_1 14% 収穫確率, +3% 初期成長ボーナス
+Speciality_2_Skill_5_Level_2 29% 収穫確率, +7% 初期成長ボーナス
+Speciality_2_Skill_5_Level_3 43% 収穫確率, +10% 初期成長ボーナス
+Speciality_2_Skill_5_Level_4 57% 収穫確率, +14% 初期成長ボーナス
+Speciality_2_Skill_5_Level_5 71% 収穫確率, +18% 初期成長ボーナス
+Speciality_2_Skill_5_Level_6 86% 収穫確率, +21% 初期成長ボーナス
+Speciality_2_Skill_5_Level_7 100% 収穫確率, +25% 初期成長ボーナス
+Speciality_2_Skill_6 メカニック (Mechanic)
+Speciality_2_Skill_6_Tooltip 車両やアイテムの修理効率を上げる。
+Speciality_2_Skill_6_Level_1 +20% 修理速度
+Speciality_2_Skill_6_Level_2 +40% 修理速度
+Speciality_2_Skill_6_Level_3 +60% 修理速度
+Speciality_2_Skill_6_Level_4 +80% 修理速度
+Speciality_2_Skill_6_Level_5 +100% 修理速度
+Speciality_2_Skill_7 エンジニア (Engineer)
+Speciality_2_Skill_7_Tooltip 複雑なアイテムを修理できるようになる。
+Speciality_2_Skill_7_Level_1 手作りのアイテム
+Speciality_2_Skill_7_Level_2 手作りのアイテム, 普通のアイテム
+Speciality_2_Skill_7_Level_3 手作りのアイテム, 普通のアイテム, 複雑なアイテム
+
+Boost_0 ランダムブースト (Random Boost)
+Boost_0_Tooltip ランダムで効果を得ます。 
+Boost_1 ハーデンド (Hardened)
+Boost_1_Tooltip ゾンビからのダメージを減少させる。 
+Boost_1_Bonus +25% ゾンビからのダメージ軽減
+Boost_2 スプラッタリフィック (Splatterific)
+Boost_2_Tooltip 更に血が舞うようになる。 
+Boost_2_Bonus +700% 血が舞う量
+Boost_3 フライト (Flight)
+Boost_3_Tooltip 敵を倒すとよく吹き飛ぶようになる。 
+Boost_3_Bonus +700% ラグドール/ジャッキの初速
+Boost_4 オリンピック (Olympic)
+Boost_4_Tooltip 物を遠くまで投げられるようになる。 
+Boost_4_Bonus +100% 投擲物の初速
+
+Skill {0} [{1}]
+Bonus_Current 現在のボーナス: {0}
+Bonus_Next 次のボーナス: {0}
+Cost 必要経験値: {0}
+Full レベル最大
+Experience 経験値: {0}
+
+Level_0 -
+Level_1 I
+Level_2 II
+Level_3 III
+Level_4 IV
+Level_5 V
+Level_6 VI
+Level_7 VII
+Level_8 VIII
+Level_9 IX
+Level_10 X

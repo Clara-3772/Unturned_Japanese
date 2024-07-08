@@ -1,0 +1,45 @@
+Return_Button_Text 戻る
+Return_Button_Tooltip ゲームへ戻る
+Options_Button_Text ゲーム設定
+Options_Button_Tooltip ゲームに関する設定
+Graphics_Button_Text グラフィック設定
+Graphics_Button_Tooltip 描画クオリティに関する設定
+Display_Button_Text ディスプレイ設定
+Display_Button_Tooltip 画面に関する設定
+Controls_Button_Text 操作設定
+Controls_Button_Tooltip キーボード /マウス操作に関する設定
+Audio_Button_Text サウンド
+Audio_Button_Tooltip サウンド
+Exit_Button_Text マルチを終了
+Exit_Button_Timer マルチを終了 [{0}秒]
+Exit_Button_Tooltip メニューへ戻る
+Quit_Button ゲームをやめる
+Quit_Button_Timer ゲームをやめる [{0}秒]
+Quit_Button_Tooltip デスクトップに戻る(ゲームが終了します)
+Suicide_Button_Text 自殺する
+Suicide_Button_Tooltip 自殺し何処かへリスポーンします
+Suicide_Button_Confirm はい
+Suicide_Button_Confirm_Tooltip 自殺する
+Suicide_Button_Deny いいえ
+Suicide_Button_Deny_Tooltip 自殺しない
+Suicide_Disabled 無効
+
+Spy_Refresh_Button_Text スパイ
+Spy_Refresh_Button_Tooltip 更新
+Spy_Slay_Button_Text Slay
+Spy_Slay_Button_Tooltip プレイヤーを殺害 + 恒久Ban
+
+Server_WithVersion {0} v{1} on {2} [{3}]
+VAC_Secure VAC保護 有効 
+VAC_Insecure VAC保護 無効
+BattlEye_Secure BattlEye 有効
+BattlEye_Insecure BattlEye 無効
+Streamer 配信者モード
+Offline Offline
+
+Favorite_On_Button_Text お気に入りに追加する
+Favorite_Off_Button_Text お気に入りから削除する
+Favorite_Button_Tooltip お気に入りリストに追加します
+
+Quicksave_Button クイックセーブ
+Quicksave_Button_Tooltip 手動でセーブ（ただし、終了時にオートセーブされます）。

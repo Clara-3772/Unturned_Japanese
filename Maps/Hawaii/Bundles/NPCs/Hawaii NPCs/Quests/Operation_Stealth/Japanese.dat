@@ -1,0 +1,8 @@
+Name <color=mythical>危険な陽動</color>
+Description 救援が必用な軍の隊員たちが Kailua-Kona で発見された｡ 不運ながら、ゾンビの群れがとても多く、安全に救助するのは難しいだろう｡ これは隠密策だ｡ 5個のデコイビーコンをゾンビに見つからないように配置せよ｡　1匹でもゾンビを殺害すると発見され、ビーコンは破壊されるだろう｡
+
+Condition_0 ゾンビを <color=mythical>殺害しない</color>
+Condition_1 ホテルにデコイを設置 {0}/1
+Condition_2 親水公園にデコイを設置 {0}/1
+Condition_3 家にデコイを配置 {0}/1
+Condition_4 食堂にデコイを配置 {0}/1

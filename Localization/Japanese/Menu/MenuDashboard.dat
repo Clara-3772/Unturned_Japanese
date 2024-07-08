@@ -1,0 +1,210 @@
+PlayButtonText プレイ
+PlayButtonTooltip ゲームを開始する
+SurvivorsButtonText キャラクター
+SurvivorsButtonTooltip キャラクターの切り替え/カスタマイズ
+ConfigurationButtonText 設定
+ConfigurationButtonTooltip ゲーム設定の変更
+WorkshopButtonText ワークショップ
+WorkshopButtonTooltip マップエディタ/Steamワークショップ
+ExitButtonText 終了
+ExitButtonTooltip ゲームを終了する
+BackButtonText 戻る
+BackButtonTooltip 前の画面に戻る
+NewsTooltip ニュースの詳細を見る
+
+Curated_Workshop_Title Curated: {0}
+Highlighted_Workshop_Title 特集: {0}
+Featured_Workshop_Title 人気: {0}
+Featured_Workshop_Dismiss 却下
+ReadMore_Link_On [ 詳細を開く ]
+ReadMore_Link_Off [ 閉じる ]
+Featured_Workshop_Link ワークショップのアイテムを見る
+Featured_Workshop_Sub 登録
+Featured_Workshop_Unsub 登録解除
+Subscribe_Tooltip Subscribe to {0}
+Unsubscribe_Tooltip Unsubscribe from {0}
+Featured_Workshop_Stockpile_Link Stockpileで {0} を見る
+News_Author {0} - {1}
+News_Comments_Link コメントを見る
+
+Banned サーバーから追放されました。 {0} 理由: {1}
+Kicked サーバーからキックされました。 理由: {0}
+Whitelisted ホワイトリストに追加されていません。 
+Password パスワードが間違っています。 
+Full このサーバーは満員です。 
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12230991951124
+Hash_Level このサーバーはカスタムされたマップを使用しています。 
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233096287124
+Hash_Assembly このサーバーはカスタムされたコードを使用しています。 
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/20343153432468
+Hash_Resources Built-in resources mismatch. Verifying game files should repair this.
+
+SkinColorWithinThresholdOfTerrainColor Your character's skin color is too similar to one of the level's terrain colors. Please change your character's skin color or switch to a different character.
+
+Version このサーバーは別バージョンのゲームを使用しています。 
+Pro_Server このサーバーに接続するにはゴールドアカウントが必要です｡
+Pro_Character 有効なキャラクターを選択してください｡
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12112937823764
+Pro_Desync クライアント/サーバー間での同期に失敗しました｡
+
+Pro_Appearance 有効な顔、髪型、髭、肌・髪の色を選択してください｡
+Auth_Verification 認証チケットの確認に失敗しました。
+Auth_No_Steam Steamに接続されていません。
+Auth_License_Expired 認証チケットの期限が切れています。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12237672383892
+Auth_VAC_Ban VACに保護されたサーバーから追放されています。(VAC ban)
+
+Auth_Elsewhere 既に別なサーバーでプレイしています。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233657269140
+Auth_Timed_Out VACサーバーからの応答がありません。
+
+Auth_Used 認証チケットが既に使用されています。
+Auth_No_User アカウントと接続されていません。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233962470548
+Auth_Pub_Ban マルチプレイヤーサーバーから追放されました。(Public ban)
+
+Auth_Network_Identity_Failure Failed to authenticate because server Steam ID has changed. It may have been restarted or the Game Server Login Token may have changed. Refreshing the server list should fix this.
+
+Auth_Econ_Serialize Steamエコノミー チケットのシリアル化に失敗しました｡
+Auth_Econ_Deserialize Steamエコノミー チケットのシリアル複合化に失敗しました｡
+Auth_Econ_Verify Steamエコノミー チケットの確認に失敗しました｡
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12238777357716
+Auth_Empty The Steam認証サーバーからの応答がありません。
+
+Already_Connected 既にこのサーバーに接続しています｡
+Already_Pending 既にこのサーバーに接続しようとしています｡
+Late_Pending 接続待ちの順位を失いました｡
+Not_Pending このサーバーでプレイしていません｡
+Name_Player_Short Steamのユーザー名が短すぎます。 
+Name_Player_Long Steamのユーザー名が長すぎます。 
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/13452208765716
+Name_Player_Invalid Steamのユーザー名に不正な文字が含まれています。 
+
+Name_Player_Number 数字だけのSteamユーザー名ではプレイできません。 
+Name_Character_Short キャラクター名が短すぎます。 
+Name_Character_Long キャラクター名が長すぎます。 
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/13452208765716
+Name_Character_Invalid キャラクター名に不正な文字が含まれています。 
+
+Name_Character_Number 数字だけのキャラクター名ではプレイできません。 
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12236562526228
+Timed_Out 接続がタイムアウトしました。 
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12236323445396
+Timed_Out_Login This server did not respond after accepting you from the queue. Probably either a server/plugin bug or a network issue.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12230327880980
+Map このサーバーはカスタムマップを使用しています。 
+
+Shutdown このサーバーはシャットダウンされました。 
+Shutdown_Reason このサーバーは以下の理由でシャットダウンされました。: {0}
+PingV2 検出されたping ({0}ms) がサーバーの最大値 {1}msを超えたため切断されました。
+Plugin このサーバーではあなたをフィルタするプラグインを使用しています｡
+Plugin_Reason Plugin: {0}
+Barricade バリケードのカスタムアセットファイルが見つかりません｡
+Structure 構造物のカスタムアセットファイルが見つかりません｡
+Vehicle 車両のカスタムアセットファイルが見つかりません｡
+Client_Module_Desync サーバーはクライアントが使用しているモジュールを使用していません｡
+Server_Module_Desync サーバーで使用しているモジュールがクライアントにありません｡
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12113364891796
+BattlEye_Broken BattlEye: サービスがインストールされていないか、正しく実行されていません｡ ランチャーから再起動してください｡ BattlEyeをアンインストールまたはインストールをしなかった場合、 Unturned/BattlEye フォルダにある Install_BattlEye.bat を実行することによって再インストールが可能です｡
+# https://support.smartlydressedgames.com/hc/en-us/articles/12113364891796
+BattlEye_Update BattlEye: サービスのアップデートが必要です｡ ランチャーから再起動してください｡
+# https://support.smartlydressedgames.com/hc/en-us/articles/12113364891796
+BattlEye_Unknown BattlEye: 不明なリクエストです｡ ランチャーから再起動してください｡
+
+Level_Version このサーバーには {1} のバージョン {0} がインストールされていますが、あなたにはバージョン {2} がインストールされています。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12235019853844
+Econ_Hash このサーバーでは、インベントリのバージョンが異なります。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12235744541588
+Master_Bundle_Hash アセットバンドルエラー: {0}
+
+Failure_Unknown 不明な不具合: {0} 理由: {1}
+Reject_Unknown 理由は不明だが拒否された: {0}
+Workshop_Download_Restriction サーバーは、{0} 制作者からコンテンツの使用を許可されていませんでした。
+Workshop_Advertisement_Mismatch Server was listed without workshop items, but requested workshop downloads.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12234373472660
+Late_Pending_Steam_Auth ゲームサーバーがSteam認証サーバーからの応答を受信しなかった。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12234695640596
+Late_Pending_Steam_Econ ゲームサーバーがSteamのエコノミーサーバーからaを受信しなかった。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12233488033172
+Late_Pending_Steam_Groups ゲームサーバーは、Steamグループのサーバーからの応答を受け取れませんでした。
+
+Name_Private_Long 友達限定のプライベートニックネームが長すぎます。
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/13452208765716
+Name_Private_Invalid 友達限定のプライベートなニックネームに無効な文字が含まれています。
+
+Name_Private_Number 友達限定のプライベートニックネームは、単なる数字ではありません。
+
+Server_Map_Advertisement_Mismatch Server advertised a different map than the one it requested to load.
+Server_VAC_Advertisement_Mismatch Server advertised a different VAC-protected status than what is currently active.
+Server_BattlEye_Advertisement_Mismatch Server advertised a different BattlEye-protected status than what is currently active.
+Server_MaxPlayers_Advertisement_Mismatch Server advertised a different max player count than what it is currently set to.
+Server_CameraMode_Advertisement_Mismatch Server advertised a different camera mode than what it is currently set to.
+Server_PvP_Advertisement_Mismatch Server advertised a different PvP or PvE combat mode than what it is currently set to.
+
+SteamNetworkingSockets_Unavailable_CannotTry Steamネットワーク認証の初期化ができない。
+SteamNetworkingSockets_Unavailable_Failed Steamネットワーク認証の初期化に失敗しました。
+SteamNetworkingSockets_Unavailable_Previously Steamネットワーク認証の初期化が一時的にできない。
+SteamNetworkingSockets_EndReason_App_1001 プレイヤーのスロット、キューのスロット、保留中の接続のスロットがすべて満杯です。
+SteamNetworkingSockets_EndReason_App_1002 サーバーが停止している状態です。
+SteamNetworkingSockets_EndReason_App_Unknown ゲームが原因不明の接続終了: {0}
+SteamNetworkingSockets_EndReason_AppException_Generic ゲームは異常な形で接続を終了した。
+SteamNetworkingSockets_EndReason_AppException_Unknown 不明な理由でゲームの接続が終了した: {0}
+SteamNetworkingSockets_EndReason_Local_OfflineMode オフラインモードで実行中に接続できない。
+SteamNetworkingSockets_EndReason_Local_RelayConnectivity Steamリレーネットワークへの接続ができません。
+SteamNetworkingSockets_EndReason_Local_NetworkConfig Steamのネットワーク設定を取得できませんでした。
+SteamNetworkingSockets_EndReason_Local_Rights 権限が不足しているため、Steamに拒否されました。
+SteamNetworkingSockets_EndReason_Local_Unknown 不明なローカル接続エラー: {0}
+SteamNetworkingSockets_EndReason_Remote_Timeout ホストとの接続が切れました。
+SteamNetworkingSockets_EndReason_Remote_BadCrypt ホストとの暗号化の確立ができない。
+SteamNetworkingSockets_EndReason_Remote_BadCert ホストの暗号化証明書を信頼できません。
+SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion ホストが別のSteamネットワークプロトコルを実行している。
+SteamNetworkingSockets_EndReason_Remote_Unknown 不明なリモート接続エラー: {0}
+SteamNetworkingSockets_EndReason_Misc_InternalError スチームネットワークの内部エラー.
+
+# https://support.smartlydressedgames.com/hc/en-us/articles/12174787513236
+SteamNetworkingSockets_EndReason_Misc_Timeout ホストまたはSteamネットワークへの接続が失われました。
+
+SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steamに接続の問題が発生しています。
+SteamNetworkingSockets_EndReason_Misc_Unknown 不明な雑多な接続エラー: {0}
+SteamNetworkingSockets_EndReason_Unknown 原因不明の接続終了: {0}
+
+UGC_NeedsToAcceptWorkshopLegalAgreement Failed to create or update item because you need to accept the newest Steam Workshop legal agreement.
+UGC_UnknownResult Failed to create or update item. Steam error code: {0}
+UGC_IOError Failed to create or update item because of an unknown I/O issue.
+UGC_Success Successfully submitted to Steam!
+
+Pro_Title ゴールドアカウントアップグレード
+Pro_Button ゴールドアカウントへアップグレードしてキャラクタースロットや専用カスタマイズ、プレミアムサーバー使用権を手に入れましょう! [ここをクリックしてストアページへ]
+Pro_Button_Tooltip Steamストアページ を開く
+
+BattlEye_Header 警告: BattlEye 無効
+BattlEye_Body BattlEye アンチチートが実行されていないため、BattlEyeに保護されたサーバーへ参加できません。 BattlEyeをアンインストールまたはインストールをしなかった場合、 Unturned/BattlEye フォルダにある Install_BattlEye.bat を実行することによって再インストールが可能です｡
+
+UpdateAvailable An update to version {0} is available! If you have automatic updates enabled it will download and install after you close the game.
+RollbackAvailable Sorry for the hassle, but a rollback to version {0} has been detected. Usually this means a game-breaking bug has been found and some time is needed to properly fix it.<br>If you have automatic updates enabled it will download and install after you close the game. Apologies again - precautions will be taken to avoid the same problem in the future!
+
+Overlay Steamオーバーレイを有効にする必要があります。 
+Dismiss_Notification_Label 確認
+Dismiss_Notification_Tooltip 通知を解除します。
+Copy_Notification_Label Copy to Clipboard
+Copy_Notification_Tooltip Copy message to system clipboard.

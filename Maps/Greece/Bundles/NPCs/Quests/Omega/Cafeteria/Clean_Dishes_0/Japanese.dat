@@ -1,0 +1,4 @@
+Name Dishes Duty
+Description <color=epic>Head Chef Pekka</color> would like you to clean up the mess on the tables.
+
+Condition_0 皿を洗う {0}/{1}

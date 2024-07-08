@@ -1,0 +1,18 @@
+TerrainButtonText 地形
+TerrainButtonTooltip 地形 /リソース(木や石 )の変更
+
+EnvironmentButtonText 環境
+EnvironmentButtonTooltip 天気 /道路 /ナビゲーションの追加と変更
+
+SpawnsButtonText スポーン
+SpawnsButtonTooltip プレイヤー /アイテム等の出現位置の変更
+
+LevelButtonText レベル
+LevelButtonTooltip 建物等の配置 /可視化の設定
+
+Heights ブラシの高さに合わせる [{0}]
+Roads 分割 [{0}] 移動 [{1}]
+Navigation 移動 [{0}]
+Objects スナップ [{0}] 移動 [{1}] 作成 [{2}]
+Nodes 移動 [{0}]
+Visibility 表示 /非表示 [F1-F8]

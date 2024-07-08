@@ -1,0 +1,11 @@
+LightingButtonText 光源
+LightingButtonTooltip 昼夜の詳細設定
+
+RoadsButtonText 道路
+RoadsButtonTooltip 道路の作成/変更
+
+NavigationButtonText ナビゲーション
+NavigationButtonTooltip ゾンビ等のパスファインディング設定
+
+NodesButtonText ノード
+NodesButtonTooltip 採取ノード(木や石)の追加と削除

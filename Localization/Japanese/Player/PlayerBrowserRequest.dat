@@ -1,0 +1,6 @@
+Request サーバーは Steam オーバーレイでこのページを確認するように要求しています:
+
+Yes_Button 承諾
+Yes_Button_Tooltip ページを見る
+No_Button 拒否
+No_Button_Tooltip 要求を拒否

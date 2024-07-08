@@ -1,0 +1,4 @@
+Name 全部ピカピカ
+Description ここに落としてから、リングの光沢が無くなった様に見えるんだ｡ <color=uncommon>薬品</color>があれば綺麗に出来るから、探してきてくれないかな?
+
+Condition_0 <color=uncommon>薬品</color> を探す {0}/1

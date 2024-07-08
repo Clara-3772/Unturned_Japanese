@@ -1,0 +1,23 @@
+Type_0_Tooltip ツール
+Type_1_Tooltip 衣類
+Type_2_Tooltip 医療/素材
+Type_3_Tooltip 装備
+Type_4_Tooltip 弾薬
+Type_5_Tooltip バリケード
+Type_6_Tooltip 建物
+Type_7_Tooltip ユーティリティー
+Type_8_Tooltip 家具
+Type_9_Tooltip 修理
+
+Skill_1 必要スキル: クラフティング {0}
+Skill_2 必要スキル: クッキング {0} + 熱源
+Skill_3 必要スキル: エンジニア {0}
+
+Search_Field_Hint アイテム名…
+Search 検索
+Search_Tooltip アイテム名で作成できる物を検索
+Hide_Uncraftable_Toggle_Label 作成不可のアイテムを非表示
+No_Blueprints 作成できるアイテムが見つかりません｡ 
+
+Craft クラフト
+Craft_All すべてクラフト

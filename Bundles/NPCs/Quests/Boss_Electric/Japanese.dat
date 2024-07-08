@@ -1,0 +1,4 @@
+Name <color=mythical>火花</color>
+Description Jhavesk の南側上空を飛行中、 <color=uncommon>クリフ少尉</color> の小隊のヘリコプターは大きな電気を帯びたゾンビから電撃を数回受けた｡ 彼はそれがこれ以上問題を起こす前に、倒してくれたら助かるという｡
+
+Condition_0 <color=mythical>電撃してくるボス</color> を倒す {0}/{1}

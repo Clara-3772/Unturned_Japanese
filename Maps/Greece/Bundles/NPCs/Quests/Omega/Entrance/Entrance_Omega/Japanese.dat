@@ -1,0 +1,6 @@
+Name Omega Right of Passage
+Description To join the Omega's you'll have to prove your worth. A simple task, but seperates the strong from the weak. Find the supplies to make a uniform and gain some field experience.
+
+Condition_0 布を探す {0}/{1}
+Condition_1 金属スクラップを探す {0}/{1}
+Condition_2 経験値を得る {0}/{1}

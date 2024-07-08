@@ -1,0 +1,10 @@
+Options_Button_Text ゲーム設定
+Options_Button_Tooltip ゲームに関する設定
+Graphics_Button_Text グラフィック設定
+Graphics_Button_Tooltip 描画クオリティに関する設定
+Display_Button_Text 画面設定
+Display_Button_Tooltip 画面に関する設定
+Controls_Button_Text 操作設定
+Controls_Button_Tooltip キーボード/マウス操作に関する設定
+Audio_Button_Text サウンド
+Audio_Button_Tooltip サウンド

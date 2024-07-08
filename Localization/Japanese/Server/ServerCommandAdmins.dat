@@ -1,0 +1,9 @@
+NoAdminsErrorText 管理者の検索に失敗しました
+
+AdminsCommandText Admins
+AdminsInfoText Admins
+AdminsHelpText 現在の管理者の一覧を表示します。
+
+AdminsText Admins:
+AdminNameText PlayerID: {0}
+AdminJudgeText JudgeID: {0}

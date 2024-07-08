@@ -1,0 +1,12 @@
+Buffer_Toggle_Label 垂直同期を使用する
+User_Interface_Scale_Field_Label UIの大きさ
+UseTargetFrameRate_Toggle_Label フレームレートの制限
+TargetFrameRate_Field_Label 最大フレームレート
+UseUnfocusedTargetFrameRate_Toggle_Label Limit Framerate While Alt-Tabbing
+UnfocusedTargetFrameRate_Field_Label Max Framerate While Alt-Tabbing
+
+Fullscreen_Mode_Label フルスクリーンモード
+Fullscreen_Mode_Tooltip 画面の表示方法
+Fullscreen_Mode_Exclusive 排他表示
+Fullscreen_Mode_Borderless フチなし
+Fullscreen_Mode_Windowed ウィンドウ

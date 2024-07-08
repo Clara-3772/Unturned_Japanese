@@ -1,0 +1,27 @@
+Equip_Text 着る
+Equip_Tooltip キャラクターへ装備します。
+
+Dequip_Text 外す
+Dequip_Tooltip キャラクターから装備を外します。
+
+Target_Item_Text 使う
+Target_Item_Tooltip どのアイテムに使用するか選択します｡
+
+Contents_Text 調べる
+Contents_Tooltip 箱に何が入っているか調べます。
+
+Inspect_Text 装備を見る
+Inspect_Tooltip アイテムを確認します。
+
+Market_Text マーケット
+Market_Tooltip マーケットのページを開きます。
+
+Delete_Text 削除
+Delete_Tooltip インベントリから恒久的に削除します。
+
+Scrap_Text スクラップ
+Scrap_Tooltip 基本的なクラフティングマテリアルに変換します。
+
+Overlay Steamオーバーレイを有効にする必要があります。 
+
+Unknown 古いバージョンのゲームが使用されているか、何か酷いことが起きました!

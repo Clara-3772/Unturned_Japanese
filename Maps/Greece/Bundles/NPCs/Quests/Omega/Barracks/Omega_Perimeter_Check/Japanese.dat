@@ -1,0 +1,7 @@
+Name 周辺警備
+Description <color=legendary>ニコル大佐</color> はあなたを軽いパトロールに向かわせた｡　4つの近距離無線用の塔を見回り、基地へ連絡しろ｡
+
+Condition_0 北の無線塔から連絡する
+Condition_1 東の無線塔から連絡する
+Condition_2 南の無線塔から連絡する
+Condition_3 西の無線塔から連絡する

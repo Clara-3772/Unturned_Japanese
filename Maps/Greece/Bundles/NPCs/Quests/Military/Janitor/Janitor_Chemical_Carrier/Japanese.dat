@@ -1,0 +1,4 @@
+Name Chemical Carrier
+Description <color=rare>Obelius the Janitor</color>'s cleaning supplies are running low. He has sent you out on a mission to find some more.
+
+Condition_0 薬品を見つける {0}/{1}

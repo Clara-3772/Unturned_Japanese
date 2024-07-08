@@ -1,0 +1,28 @@
+Name_Field_Label マップ名
+
+Add_Button 追加
+Add_Button_Tooltip マップを追加する
+
+Remove_Button 削除
+Remove_Button_Tooltip マップを削除する
+Remove_Button_Confirm はい
+Remove_Button_Confirm_Tooltip 削除
+Remove_Button_Deny いいえ
+Remove_Button_Deny_Tooltip キャンセル
+
+Edit_Button エディタで開く
+Edit_Button_Tooltip 選択しているマップを編集
+Edit2_Button エディタで開く (Devkit)
+Edit2_Button_Tooltip 開発中の Devkit を使用する
+
+BrowseFiles_Label Browse Files
+
+Tiny とても小さい
+Small 小さい
+Medium 普通
+Large 大きい
+Insane とても大きい
+
+VR_Label VRルームスケール
+VR_Hint_0 "-VR" を使用してVRメニューで起動
+VR_Hint_1 デスクトップシアターを無効にすること!

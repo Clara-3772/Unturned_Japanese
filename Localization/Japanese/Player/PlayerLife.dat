@@ -1,0 +1,165 @@
+Space インベントリに空きがありません
+Item {0} を拾う [{1}]
+Vehicle_Enter_Locked Enter {0} [{1}] [Locked]
+Vehicle_Enter_Unlocked Enter {0} [{1}] [Not Locked]
+Vehicle_Exit 降りる [{0}]
+Vehicle_Swap シートを移す [F1-F{0}]
+Reload リロード [{0}]
+Safety セーフティ [{0}]
+Light ライトを付ける/消す [{0}]
+Laser レーザーを付ける/消す [{0}]
+Rangefinder レンジファインダーを付ける/消す [{0}]
+Enemy {0}
+Door_Open 開ける [{0}]
+Door_Close 閉める [{0}]
+Locked ロックされています
+Blocked 配置できません
+Pillar 柱がありません
+Post 杭がありません
+Roof 床がありません
+Wall 壁がありません
+Corner 角がありません
+Ground 地面がありません
+Doorway 戸口がありません
+Garage ガレージがありません
+Window 窓がありません
+Bed_On 利用する [{0}]
+Bed_Off 開放する [{0}]
+Bed_Claimed 他人のベッドです
+Bounds 遠すぎます
+Experience 経験値 +{0}
+Storage 調べる [{0}] 
+Farm 収穫する [{0}]
+Grow 成長中
+Soil 土壌がありません
+Fire_On 火をつける [{0}]
+Fire_Off 消す [{0}]
+Forage 採集する [{0}]
+Generator_On 動かす [{0}]
+Generator_Off 止める [{0}]
+Spot_On 付ける [{0}]
+Spot_Off 消す [{0}]
+Empty 空
+Full 満杯
+Moon_On 満月が上り始めた!
+Moon_Off 満月が沈んだ!
+Safezone_On 安全地帯に入った!
+Safezone_Off 安全地帯から出た!
+Deadzone_On 死の地帯に入った!
+Deadzone_Off 死の地帯から出た!
+Purchase {0} - {1} 経験値 [{2}]
+Wave_On ゾンビの大群が襲ってきた!
+Wave_Off ゾンビの大群は去っていった!
+Power 電源がありません
+Use 使う [{0}]
+Salvage 取り壊す [長押し {0}]
+Tutorial_Move やあ! 生きてるみたいだね? [{0}, {1}, {2}, {3}] キーで動いて、ちょっと体を温めよう!
+Tutorial_Look オッケー! 試しに角にあるカメラを見てくれないかな? [マウスで視点を移動] (見たら先へ進もう)
+Tutorial_Jump 目の前にある障害物をジャンプ [{0}] で乗り越えてみよう!
+Tutorial_Perspective とても良いじゃないか! [{0}] で視点を切り替えてみよう｡
+Tutorial_Run [{0}] で走ってみよう｡ 襲撃から逃げるにはベストだからね!
+Tutorial_Inventory 似合う衣服を用意しておいたよ! [{0}] で自動的に装備して、持ち歩けるアイテムを増やせるよ｡
+Tutorial_Survival 生活に必要な基本なアイテム! インベントリ [{0}] からアイテムを装備したり落としたり出来るよ｡
+Tutorial_Gun お待ちかねの銃火器! ゾンビを [{0}] で狙って [{1}] で撃って倒してみよう｡ 
+Tutorial_Ladder ナイスシューティング! 梯子を上るにはそのまま直進してみよう｡
+Tutorial_Craft [{0}] でマガジンを外して、そして クラフティング [{1}] で弾薬を補充してみよう｡
+Tutorial_Skills ゾンビを倒して得た経験値でスキル [{0}] をレベルアップしよう!
+Tutorial_Swim 水中を泳いで [{0} で浮く] 逆側に行ってみよう｡ 
+Tutorial_Medical もしケガをしたら、医療品を使おう! 注:私は医療品でケガをしても責任を負いません｡
+Tutorial_Vehicle 右奥にある燃料タンクから、手前の燃料缶を使って車に燃料を入れよう｡ そして車を走らせて逆側まで行ってみよう!
+Tutorial_Crouch しゃがむ [{0}] と小さい隙間を通ったりできるよ!
+Tutorial_Prone 伏せ [{0}] るとさらに小さい隙間を通れるし、見つかりづらくなるよ!
+Tutorial_Educated 基本のトレーニングはこれで終わり! ポーズ [{0}] でチュートリアルを終了できるよ!
+Tutorial_Harvest 木の実を摘んで、木を切って、動物を狩って生き残ろう!
+Tutorial_Fish 釣りは忍耐と深い水が必要｡ 糸を垂らして浮きが沈んだらリールを巻いてみよう｡
+Tutorial_Build 基地を作ることは生き残るための鍵｡ 手作りの車両も作れる!
+Tutorial_Horn ホーン [{0}] で気を引こう!
+Tutorial_Lights ヘッドライト [{0}] で暗闇の中をもっと遠くまで見渡そう!
+Tutorial_Sirens サイレン[{0}] で盗賊共をビビらせてやろう!
+Tutorial_Farm 栽培は持続的に食料を得られる｡
+Tutorial_Power 発電機は対ゾンビ機器やライトなどの電化製品を動かせる｡
+Tutorial_Fire キャンプファイアは寒さをしのいだり調理に使用できる｡
+Claim エリア確保済み
+Underwater 水中では使えません
+Nav 町から遠すぎます
+Spawn スポーンエリアに近すぎます
+Mobile Not Mobile
+Oil 燃料がありません
+Volume_Water 水の残量: {0}
+Volume_Fuel 燃料の残量
+Busy 他人が使用中
+Trapdoor トラップドアがありません
+Fuel 燃料: {0}%
+Clean きれいな
+Salty 塩辛い
+Dirty 汚れた
+Talk {1} と話す [{0}]
+Reputation 評判: {0}
+Safezone セーフゾーンに近すぎます
+Bayonet バヨネット [{0}]
+Vehicle_Locked Locked [{0}]
+Vehicle_Unlocked Unlocked [{0}]
+Build_On_Occupied_Vehicle 車両の使用状況
+Not_Allowed_Here ここでは許可されていない
+Cannot_Build_On_Vehicle 車両上に構築することはできない
+Too_Far_From_Hull 車体から遠く離れている
+Cannot_Build_While_Seated 座ったままでは組み立てられない
+Climb Climb [{0}]
+HousingPlannerTutorial Select Item [{0}]
+PlacementObstructedBy Blocked by: {0}
+PlacementObstructedByGround Cannot Build Underground
+FreeformBuildableNotAllowed Freeform Buildables Not Allowed
+NotPaintable Not Paintable
+
+VehicleGear_Reverse R
+VehicleGear_Neutral N
+VehicleEngineStatus Gear: {0} RPM: {1}
+
+Chat_Global [全体] {0}: {1}
+Chat_Local [エリア] {0}: {1}
+Chat_Group [グループ] {0}: {1}
+Chat_Welcome [Welcome] {0}: {1}
+Chat_Say [Alert] {0}: {1}
+SendChat_Tooltip メッセージを送信 [{0}]
+
+Vote_Kick {0} [{1}] が {2} [{3}] をキックする投票をしました
+Votes_Needed 投票可決の必要数: {0}
+Vote_Yes 賛成 [{0}]
+Vote_No 反対 [{0}]
+Vote_Off このサーバーでは投票が無効化されています
+Vote_Delay 次の投票を行うには間隔を開ける必要があります
+Vote_Players 投票を行うには人数が足りません
+Vote_Pass 投票は可決されました!
+Vote_Fail 投票は否決されました!
+
+List_Joint_0 , 
+List_Joint_1  と 
+
+Arena_Lobby プレイヤーを待っています...
+Arena_Warm_Up Get ready...
+Arena_Play 戦闘開始!
+Arena_Died {0} は死亡した!
+Arena_Abandoned {0} はゲームを放棄した!
+Arena_Win {0} が勝利した!
+Arena_Lose ゲーム終了!
+Arena_Intermission 休憩時間...
+
+Mode_Global [全体]
+Mode_Global_Tooltip すべてのプレイヤーに送信 [{0}]
+Mode_Local [エリア]
+Mode_Local_Tooltip 近くのプレイヤーに送信 [{0}]
+Mode_Group [グループ]
+Mode_Group_Tooltip グループ内のメンバーに送信 [{0}]
+
+Surrender 降伏
+Point 指をさす
+Wave 手を振る
+Salute 敬礼
+Rest 休憩
+Facepalm フェイスパーム
+
+Round ウェーブ : {0}
+Score スコア : {0}
+
+Stat_Tracker_Total_Kills キル: [{0}]
+Stat_Tracker_Player_Kills プレイヤーキル: [{0}]

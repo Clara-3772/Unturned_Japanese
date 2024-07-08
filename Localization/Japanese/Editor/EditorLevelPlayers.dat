@@ -1,0 +1,10 @@
+RadiusSliderLabelText 半径
+RotationSliderLabelText 角度
+
+AddButtonText 追加 [{0}]
+AddButtonTooltip ポイント作成
+
+RemoveButtonText 削除 [{0}]
+RemoveButtonTooltip ポイント削除
+
+AltLabelText Alt

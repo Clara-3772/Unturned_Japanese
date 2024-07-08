@@ -1,0 +1,11 @@
+Width_Label 横
+Height_Label 縦
+Nav_Label ナビ
+Difficulty_GUID_Field_Label 難易度GUID
+Max_Zombies_Field_Label ゾンビ数 (最大)
+Max_Boss_Zombies_Field_Label Max Boss Zombies
+Spawn_Zombies_Toggle_Label ゾンビの出現
+Hyper_Agro_Label Infinite Agro Range
+
+Bake_Navigation ナビゲーションを生成
+Bake_Navigation_Tooltip ナビゲーションを作成

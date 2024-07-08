@@ -1,0 +1,4 @@
+Name Dirty Dishes Cleaner
+
+Interactability_Condition_0 Not Carrying any dishes.
+Interact Clean Dishes[{0}]

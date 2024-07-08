@@ -1,0 +1,11 @@
+Message_0_Page_0 Greetings <name_char>! <name_npc> at your service! I have a task for you if you are interested!
+Message_1_Page_0 Now that you have defeated that zombie, I've got another mission for you if you'll take it.
+Message_2_Page_0 Anything to report?
+
+Response_0 見てきます
+Response_1 今はダメです
+Response_2 大きなゾンビを倒してきました!
+Response_3 見てきます
+Response_4 今はダメです
+Response_5 ゾンビを倒してきました!
+Response_6 何でもありません

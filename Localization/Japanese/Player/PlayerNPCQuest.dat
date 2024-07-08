@@ -1,0 +1,40 @@
+Conditions ゴール:
+Rewards 報酬:
+
+Condition_Experience {0}/{1} 経験値
+Condition_Reputation {0}/{1} 評判
+Condition_Item {0}/{1} {2}
+Condition_Currency {0} Currency
+
+Condition_AnimalKills {0}/{1} 体の動物を殺す
+Condition_HordeKills {0}/{1} Horde Kills
+Condition_ObjectKills {0}/{1} 個のオブジェクトを壊す
+Condition_PlayerKills {0}/{1} 人のゾンビを殺す
+Condition_TreeKills {0}/{1} {2}
+Condition_ZombieKills {0}/{1} 体のゾンビを殺す
+
+Reward_Experience {0} 経験値
+Reward_Reputation {0} 評判
+Reward_Item {1} x{0}
+Reward_Item_Random ランダムなアイテム x{0}
+Reward_Vehicle {0} x1
+Reward_Currency {0} Currency
+Reward_Health 体力を {0} 回復 
+Reward_Food {0} 個の食べ物
+Reward_Water {0} 個の水
+Reward_Virus {0} Immunity
+Reward_Stamina スタミナを {0} 
+
+Accept 引き受ける
+Accept_Tooltip クエストを引き受ける
+Decline 断る
+Decline_Tooltip クエストを無視する
+Continue 続ける
+Continue_Tooltip クエストを続ける
+Track_On 表示
+Track_Off 非表示
+Track_Tooltip 詳細の表示/非表示
+Abandon 放棄する
+Abandon_Tooltip クエストを放棄する
+Return 戻る
+Return_Tooltip クエスト画面から戻る

@@ -1,0 +1,5 @@
+Name Medicine Search
+Description <color=epic>Doctor Jace</color> is in need of more medicines to treat the wounded. He'd go and get it himself but he isn't trained in combat. The nearby town of Lamia likely has some supplies laying around.
+
+Condition_0 防腐剤を探す {0}/{1}
+Condition_1 包帯を集める {0}/{1}

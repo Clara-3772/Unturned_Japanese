@@ -1,0 +1,4 @@
+Name 軍用基地
+Description <color=uncommon>スチュアート少尉</color>はハワイの沿岸警備隊本部とは何かを偵察してきて欲しいらしい。簡単だろう?
+
+Condition_0 Alika Base の　<color=legendary>ホードビーコン</color> をクリアする {0}/{1}

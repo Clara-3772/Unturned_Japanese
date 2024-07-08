@@ -1,0 +1,267 @@
+Rarity_0 コモン
+Rarity_1 アンコモン
+Rarity_2 レア
+Rarity_3 エピック
+Rarity_4 レジェンダリ
+Rarity_5 ミシカル
+
+Type_0 ぼうし
+Type_1 ズボン(パンツ)
+Type_2 シャツ
+Type_3 マスク
+Type_4 バックパック
+Type_5 ベスト
+Type_6 めがね
+Type_7 遠距離武器
+Type_8 アタッチメント (サイト)
+Type_9 アタッチメント (タクティカル)
+Type_10 アタッチメント (グリップ)
+Type_11 アタッチメント (バレル)
+Type_12 アタッチメント (マガジン)
+Type_13 食べ物
+Type_14 飲み物
+Type_15 医薬品
+Type_16 打撃武器
+Type_17 燃料缶
+Type_18 ツール
+Type_19 バリケード
+Type_20 ストレージ
+Type_21 ビーコン
+Type_22 作物
+Type_23 罠
+Type_24 建築物
+Type_25 クラフティング用材料
+Type_26 投擲武器
+Type_27 肥料
+Type_28 光学機器
+Type_29 水筒
+Type_30 釣り竿
+Type_31 パラシュート
+Type_32 地図
+Type_33 鍵
+Type_34 箱
+Type_35 キャッチャー
+Type_36 リリーサー
+Type_37 ストレージ
+Type_38 発電機
+Type_39 リモコン
+Type_40 リモコン爆弾
+Type_41 経験値ストレージ
+Type_42 放射能フィルタ
+Type_43 自立型タレット
+Type_44 ツール
+Type_45 ツール
+Type_46 コンパス
+Type_47 オイルポンプ
+Type_48 ペンキ
+
+Hotkey_Set ホットキー: {0}
+Hotkey_Unset ホットキー: [3-9]
+
+Rarity_Type_Label {0} {1}
+Quality クオリティ: {0}%
+Amount 数: {0}
+
+Refill 水: {0}
+Empty 空
+Full 満杯
+Clean きれいな水
+Salty 塩水
+Dirty 汚れた水
+
+Ammo 弾薬: {0} {1}/{2}
+None なし
+
+ItemDescription_AmountWithCapacity 残弾: {0}/{1}
+ItemDescription_SightAttachment サイト: {0}
+ItemDescription_TacticalAttachment タクティカル: {0}
+ItemDescription_GripAttachment グリップ: {0}
+ItemDescription_BarrelAttachment バレル: {0}
+ItemDescription_Clothing_Armor アーマー: {0}
+ItemDescription_Clothing_ExplosionArmor 対爆アーマー: {0}
+ItemDescription_Clothing_FireProof 爆発から身を守ります。
+ItemDescription_Clothing_RadiationProof Protects against radiation.
+ItemDescription_Clothing_FallingBoneBreakingProof Protects against breaking bones from long falls.
+ItemDescription_ClothingMovementSpeedModifier Wearing Movement Speed: {0}
+ItemDescription_FallingDamageModifier Falling Damage: {0}
+ItemDescription_EquipableMovementSpeedModifier Equipped Movement Speed: {0}
+ItemDescription_PelletCount Pellets: {0}
+ItemDescription_BulletDamageModifier Bullet Damage: {0}
+ItemDescription_RecoilModifier_X 水平反動: {0}
+ItemDescription_RecoilModifier_Y 垂直反動: {0}
+ItemDescription_RecoilModifier_Aiming Aiming Recoil Control: {0}
+ItemDescription_AimDurationModifier 照準速度: {0}
+ItemDescription_AimingMovementSpeedModifier 照準時の足の速さ: {0}
+ItemDescription_SpreadModifier 精度: {0}
+ItemDescription_SwayModifier Scope Sway: {0}
+ItemDescription_AimingSpreadModifier Aiming Accuracy: {0}
+ItemDescription_ZoomFactor 倍率: {0}x
+ItemDescription_ThirdPersonZoomFactor 倍率 (三人称視点): {0}x
+ItemDescription_BulletGravityModifier Bullet Gravity: {0}
+ItemDescription_InvulnerableModifier Upgrades gun to Heavy Weapon: Can damage Tough entities.
+ItemDescription_Consumeable_Explosive Explodes when consumed.
+ItemDescription_Consumeable_HealthPositive Restores Health: {0}
+ItemDescription_Consumeable_HealthNegative Damages Health: {0}
+ItemDescription_Consumeable_FoodPositive Restores Food: {0}
+ItemDescription_Consumeable_FoodNegative Depletes Food: {0}
+ItemDescription_Consumeable_WaterPositive Restores Water: {0}
+ItemDescription_Consumeable_WaterNegative Depletes Water: {0}
+ItemDescription_Consumeable_VirusPositive Restores Immunity: {0}
+ItemDescription_Consumeable_VirusNegative Infection Damage: {0}
+ItemDescription_Consumeable_StaminaPositive Restores Stamina: {0}
+ItemDescription_Consumeable_StaminaNegative Depletes Stamina: {0}
+ItemDescription_Consumeable_OxygenPositive Restores Oxygen: {0}
+ItemDescription_Consumeable_OxygenNegative Depletes Oxygen: {0}
+ItemDescription_Consumeable_WarmthPositive Provides Warmth: {0}
+ItemDescription_ConsumeableBleeding_Heal Stops bleeding.
+ItemDescription_ConsumeableBleeding_Cut Causes bleeding.
+ItemDescription_ConsumeableBones_Heal Fixes bones.
+ItemDescription_ConsumeableBones_Break Breaks bones.
+ItemDescription_ConsumeableMoldy Low quality indicates spoiling/mold and will hurt immunity.
+ItemDescription_Firerate 発射レート: 毎分 {0} 発
+ItemDescription_Spread Spread (Hipfire): {0} °
+ItemDescription_Spread_Aim Spread (Aiming): {0} °
+ItemDescription_DamageFalloff Damage falloff begins at {0} down to {2} at {1}.
+ItemDescription_WeaponRange Range: {0}
+ItemDescription_WeaponDamage_Player_Head 対人ヘッドダメージ: {0}
+ItemDescription_WeaponDamage_Player_Body 対人ボディダメージ: {0}
+ItemDescription_WeaponDamage_Player_Arm 対人アームダメージ: {0}
+ItemDescription_WeaponDamage_Player_Leg 対人レッグダメージ: {0}
+ItemDescription_WeaponDamage_Player_FoodPositive Impact Restores Food: {0}
+ItemDescription_WeaponDamage_Player_FoodNegative Hunger Damage: {0}
+ItemDescription_WeaponDamage_Player_WaterPositive Impact Restores Water: {0}
+ItemDescription_WeaponDamage_Player_WaterNegative Thirst Damage: {0}
+ItemDescription_WeaponDamage_Player_VirusPositive Impact Restores Immunity: {0}
+ItemDescription_WeaponDamage_Player_VirusNegative Infection Damage: {0}
+ItemDescription_WeaponDamage_Player_HallucinationPositive Damage Causes Hallucinations: {0}
+ItemDescription_WeaponDamage_Player_HallucinationNegative Impact Heals Hallucinations: {0}
+ItemDescription_WeaponBleeding_Always Damage always causes bleeding.
+ItemDescription_WeaponBleeding_Heal Impact stops bleeding.
+ItemDescription_WeaponBones_Always Damage breaks bones.
+ItemDescription_WeaponBones_Heal Impact fixes bones.
+ItemDescription_WeaponDamage_Zombie_Head Zombie Headshot Damage: {0}
+ItemDescription_WeaponDamage_Zombie_Body Zombie Body Damage: {0}
+ItemDescription_WeaponDamage_Zombie_Arm Zombie Arm Damage: {0}
+ItemDescription_WeaponDamage_Zombie_Leg Zombie Leg Damage: {0}
+ItemDescription_WeaponDamage_Animal_Head Animal Headshot Damage: {0}
+ItemDescription_WeaponDamage_Animal_Body Animal Body Damage: {0}
+ItemDescription_WeaponDamage_Animal_Limb Animal Limb Damage: {0}
+ItemDescription_WeaponDamage_Barricade Barricade Damage: {0}
+ItemDescription_WeaponDamage_Structure Structure Damage: {0}
+ItemDescription_WeaponDamage_Vehicle Vehicle Damage: {0}
+ItemDescription_WeaponDamage_Resource Resource Damage: {0}
+ItemDescription_WeaponDamage_Object Object Damage: {0}
+ItemDescription_WeaponDamage_Invulnerable Heavy Weapon: Can damage Tough entities.
+ItemDescription_ExplosiveBullet Explodes on impact.
+ItemDescription_ExplosionBlastRadius Explosion Radius: {0}
+ItemDescription_ExplosionPlayerDamage Player Damage (Explosion): {0}
+ItemDescription_ExplosionZombieDamage Zombie Damage (Explosion): {0}
+ItemDescription_ExplosionAnimalDamage Animal Damage (Explosion): {0}
+ItemDescription_ExplosionBarricadeDamage Barricade Damage (Explosion): {0}
+ItemDescription_ExplosionStructureDamage Structure Damage (Explosion): {0}
+ItemDescription_ExplosionVehicleDamage Vehicle Damage (Explosion): {0}
+ItemDescription_ExplosionResourceDamage Resource Damage (Explosion): {0}
+ItemDescription_ExplosionObjectDamage Object Damage (Explosion): {0}
+ItemDescription_Buildable_ArmorTier_Low Armor Tier: Low
+ItemDescription_Buildable_ArmorTier_High Armor Tier: High
+ItemDescription_Buildable_CannotPickup Cannot be picked up after placement.
+ItemDescription_Buildable_CannotSalvage Cannot be salvaged when damaged.
+ItemDescription_Buildable_CannotRepair Cannot be repaired when damaged.
+ItemDescription_Buildable_Health Health: {0}
+ItemDescription_Buildable_ExplosionProof Cannot be damaged by explosions.
+ItemDescription_Buildable_Lockable Locked for players outside your group.
+ItemDescription_Buildable_Invulnerable Tough: Can only be damaged by Heavy Weapons.
+ItemDescription_Farmable_GrowSpecificItem Produces: {0}
+ItemDescription_Farmable_RequiresSoil Must be planted in arable terrain.
+ItemDescription_Farmable_CanFertilize Growth can be expedited with fertilizer.
+ItemDescription_Farmable_AffectedByAgricultureSkill Yield is affected by your Agriculture skill level.
+ItemDescription_Farmable_AffectedByRain Growth can be expedited by rainy weather.
+ItemDescription_Trap_BreaksBones Trap breaks bones.
+ItemDescription_Trap_DamagesTires Trap pierces tires.
+ItemDescription_Trap_PlayerDamage Player Damage: {0}
+ItemDescription_Trap_ZombieDamage Zombie Damage: {0}
+ItemDescription_Trap_AnimalDamage Animal Damage: {0}
+ItemDescription_StorageDimensions Storage: {0} x {1}
+ItemDescription_Throwable_Flash Blinds nearby players looking into the explosion.
+ItemDescription_Throwable_Sticky Sticks to surface on impact.
+ItemDescription_Throwable_ExplodeOnImpact Explodes on impact.
+ItemDescription_Throwable_FuseLength Fuse Length: {0}
+ItemDescription_Melee_StrongAttackModifier Strong Attack Damage: {0}
+ItemDescription_Melee_StrongAttackStamina Strong Attack Stamina Cost: {0}
+ItemDescription_ArrestEnd_UnlocksItem Unlocks: {0}
+ItemDescription_FuelAmountWithCapacity Fuel: {0}/{1} ({2})
+ItemDescription_FuelCapacity Fuel Capacity: {0}
+ItemDescription_WaterCapacity Water Capacity: {0}
+ItemDescription_FuelBurnRate Fuel Burned: {0}/hour
+ItemDescription_FuelMaxRuntime Max Runtime: {0} hour(s)
+
+
+Equip_Button 装備する
+Equip_Button_Tooltip アイテムを手に装備する
+Dequip_Button 解除する
+Dequip_Button_Tooltip 手に持っているアイテムを外す
+Drop_Button 落とす
+Drop_Button_Tooltip アイテムを地面に落とす
+Pickup_Button 拾う
+Pickup_Button_Tooltip 落ちているアイテムを拾う
+
+Take_Button 取り出す
+Take_Button_Tooltip ストレージから取り出す
+Store_Button しまう
+Store_Button_Tooltip ストレージへしまう
+
+Repair_Button 修理
+Repair_Button_Tooltip 100%に修理する
+Salvage_Button 分解
+Salvage_Button_Tooltip アイテムをクラフティング材料に分解する
+Refill_Button 再装填
+Refill_Button_Tooltip 弾薬を再装填する
+
+Attachments_Button 取り外す
+Attachments_Button_Tooltip アタッチメントを取り外す
+
+Craft_Rag_Button ガーゼを作る
+Craft_Rag_Button_Tooltip ガーゼへアップグレードする
+Craft_Bandage_Button 包帯を作る
+Craft_Bandage_Button_Tooltip 包帯へアップグレードする
+Craft_Dressing_Button 医療用包帯を作る
+Craft_Dressing_Button_Tooltip 医療用包帯へアップグレードする
+Craft_Seed_Button 種を取り出す
+Craft_Seed_Button_Tooltip 種を取り出す
+
+Swap_Cosmetics_Tooltip コスメティクスを切り替え
+Swap_Skins_Tooltip スキンを切り替え
+Swap_Mythics_Tooltip ミシックを切り替え
+
+Vehicle_Lock_On ロック [{0}]
+Vehicle_Lock_Off ロック解除 [{0}]
+Vehicle_Lock_Tooltip 車泥棒から守る｡
+Vehicle_Horn ホーン [{0}]
+Vehicle_Horn_Tooltip 警笛｡ クラクション｡
+Vehicle_Headlights_On ヘッドライト オン [{0}]
+Vehicle_Headlights_Off ヘッドライト オフ [{0}]
+Vehicle_Headlights_Tooltip 夜間の運転用の明かり｡
+Vehicle_Sirens_On サイレン オン [{0}]
+Vehicle_Sirens_Off サイレン オフ [{0}]
+Vehicle_Sirens_Tooltip 緊急用サイレン｡
+Vehicle_Blimp_On 上昇 [{0}]
+Vehicle_Blimp_Off 下降 [{0}]
+Vehicle_Blimp_Tooltip 飛行船のバラストを変更｡
+Vehicle_Hook 牽引ケーブル [{0}]
+Vehicle_Hook_Tooltip 付近の車両を牽引｡
+Vehicle_Seat_Empty 空き
+Vehicle_Seat_Slot {0} [{1}]
+Vehicle_Steal_Battery バッテリーを盗む
+Vehicle_Steal_Battery_Tooltip エンジンからバッテリーを取り外す
+Vehicle_Skin_On ペイントを適用
+Vehicle_Skin_Off ペイントをクリア
+Vehicle_Skin_Tooltip 現在の車両スキンを使用する
+
+Hands 手
+Storage ストレージ
+Storage_Trunk {0} トランク
+Area 付近のアイテム(地面)
+
+Rot_X X++
+Rot_Y Y++
+Rot_Z Z++

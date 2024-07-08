@@ -1,0 +1,5 @@
+Name クラッシュダウン
+Description <color=epic>マック アラステア大佐</color> の部隊は搭乗していた飛行機が Holokai Harbor 北西に墜落する前に脱出した｡ 沈んでしまった軍需品を回収する前に、港のゾンビを片付けろ｡
+
+Condition_0 Holokai Harbor の <color=legendary>ホードビーコン</color> を使用する {0}/{1}
+Condition_1 沈んでいる <color=rare>軍需品の箱</color> を回収する {0}/{1}

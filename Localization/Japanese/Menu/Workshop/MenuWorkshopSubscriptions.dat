@@ -1,0 +1,24 @@
+Header 登録済みのファイル
+Enable_Warning なお、ファイルの有効化・無効化は、ゲームを再起動した後に反映されます。
+No_Subscriptions どのファイルにも登録されていません。
+
+Manage_Label Steam オーバーレイで見る
+Manage_Tooltip Steam Workshopの管理画面に移動します。
+
+BrowseFiles_Label Browse Files
+BrowseFiles_Tooltip Open {0} install folder.
+NotInstalledLabel Not Installed
+
+ItemState_NeedsUpdate Needs Update
+
+LocalTimestampLabel Local Timestamp
+RemoteTimestampLabel Remote Timestamp
+
+View_Label 詳細を見る
+View_Tooltip {0} をSteam Workshopで見る
+
+Subscribe_Label 再登録
+Subscribe_Tooltip {0} に再登録
+
+Unsubscribe_Label 登録解除
+Unsubscribe_Tooltip {0} からの登録を解除

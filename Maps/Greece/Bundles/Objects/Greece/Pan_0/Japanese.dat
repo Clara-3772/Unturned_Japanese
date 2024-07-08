@@ -1,0 +1,4 @@
+Name Pans #1
+
+//Interactability_Condition_0 Not Carrying any dishes.
+Interact Collect Cooking Pot[{0}]

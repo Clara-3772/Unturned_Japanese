@@ -1,0 +1,7 @@
+Name 物資ミッション
+Description <color=rare>ヘクター工兵長</color> は作業場に物資が必要なようだ｡
+
+Condition_0 シラカバの丸太を集める {0}/{1}
+Condition_1 カエデの丸太を集める {0}/{1}
+Condition_2 マツの丸太を集める {0}/{1}
+Condition_3 金属スクラップを集める {0}/{1}

@@ -1,0 +1,18 @@
+BrowseButtonText 探す
+BrowseButtonTooltip ワークショップのアイテムを閲覧します
+SubmitButtonText 投稿する
+SubmitButtonTooltip ワークショップへアイテムを投稿します
+EditorButtonText エディタ
+EditorButtonTooltip マップエディタを開きます
+ErrorButtonText ログ
+ErrorButtonTooltip ログを開きます
+LocalizationButtonText 翻訳チェック
+LocalizationButtonTooltip 翻訳ファイルに異常がないか確認します
+SpawnsButtonText スポーンテーブル
+SpawnsButtonTooltip ドロップアイテムのレートをチェックします
+SubscriptionsButtonText 管理
+SubscriptionsButtonTooltip 登録ファイルの管理
+DocsButtonText ドキュメント
+DocsButtonTooltip 開発者向けドキュメントを読む
+
+Overlay Steamオーバーレイを有効にする必要があります。 

@@ -1,0 +1,7 @@
+Name Seed Search
+Description <color=epic>ダフニー</color> はグリーンルームに植えるための種を農場から探してきてもらえると助かるという｡
+
+Condition_0 小麦の種を探す {0}/{1}
+Condition_1 ジャガイモの種を探す {0}/{1}
+Condition_2 トウモロコシの種を探す {0}/{1}
+Condition_3 トマトの種を探す {0}/{1}

@@ -1,0 +1,4 @@
+Name Puddle Problems
+Description The hallways are a mess. <color=rare>Obelius the Janitor</color> has handed you a mop with one goal, clean it up. You'll have to clean out your mop after every use.
+
+Condition_0 水溜りを拭く {0}/{1}

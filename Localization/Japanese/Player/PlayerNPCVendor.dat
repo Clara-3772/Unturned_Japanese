@@ -1,0 +1,11 @@
+Experience 経験値: {0}
+Return 戻る
+Return_Tooltip 売買を終了
+
+Buying 売る:
+Selling 買う:
+
+Amount_Buy {0}/{1}個
+Amount_Sell x{0}個
+Price 値段: {0}
+Cost 売値: {0}

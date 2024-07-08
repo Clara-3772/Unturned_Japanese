@@ -1,0 +1,16 @@
+Sight_Hook_Tooltip サイト
+Tactical_Hook_Tooltip タクティカル
+Grip_Hook_Tooltip グリップ
+Barrel_Hook_Tooltip バレル
+Magazine_Hook_Tooltip マガジン
+
+Ammo {0}/{1}
+Firemode {0} [{1}]
+Attach {0} [{1}]
+
+None 空
+
+Safety セーフティ
+Semi セミオート
+Auto フルオート
+Burst バースト

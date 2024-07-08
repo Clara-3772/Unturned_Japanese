@@ -1,0 +1,213 @@
+Items アイテム
+Vehicles 車両
+Zombies ゾンビ
+Animals 動物
+Barricades バリケード
+Structures 構造物
+Players プレイヤー
+Objects オブジェクト
+Events イベント
+Gameplay ゲームプレイ
+
+Spawn_Chance 出現確率 [0-1]
+Respawn_Time リスポーン時間
+Unlocked_After_Seconds_In_Safezone セーフゾーン効果無効までの時間
+Decay_Time ディケイ時間
+Damage_Multiplier ダメージ倍率
+Armor_Multiplier 耐久度倍率
+NonHeadshot_Armor_Multiplier ヘッドショット以外のアーマー倍率
+Child_Explosion_Armor_Multiplier Child Explosion Armor Multiplier
+Backstab_Multiplier Backstab Multiplier
+Armor_Lowtier_Multiplier 低Tireアーマーの倍率
+Armor_Hightier_Multiplier 高Tireアーマーの倍率
+Gun_Lowcal_Damage_Multiplier Gun Lowcal Damage Multiplier
+Gun_Highcal_Damage_Multiplier Gun Highcal Damage Multiplier
+Melee_Damage_Multiplier Melee Damage Multiplier
+
+Max_Instances_Tiny インスタンス数 (とても小さい/Tiny)
+Max_Instances_Small インスタンス数 (小さい/Small)
+Max_Instances_Medium インスタンス数 (普通/Medium)
+Max_Instances_Large インスタンス数 (大きい/Large)
+Max_Instances_Insane インスタンス数 (とても大きい/Insane)
+
+Despawn_Dropped_Time 落としたアイテムの保持時間
+Despawn_Natural_Time アイテムの保持時間
+Has_Durability 耐久度の有無
+
+Quality_Full_Chance 品質100% の確率 [0-1]
+Quality_Multiplier 品質の倍率
+
+Gun_Bullets_Full_Chance 銃内 弾薬数100% の確率 [0-1]
+Gun_Bullets_Multiplier 銃内 弾薬数の倍率
+Magazine_Bullets_Full_Chance マガジン内 弾薬100% の確率 [0-1]
+Magazine_Bullets_Multiplier マガジン内 弾薬数の倍率
+Crate_Bullets_Full_Chance 弾薬箱内 弾薬数100% の確率 [0-1]
+Crate_Bullets_Multiplier 弾薬箱内 弾薬数の倍率
+
+Loot_Chance アイテムドロップ確率 [0-1]
+Crawler_Chance クローラー 出現確率 [0-0.5]
+Sprinter_Chance スプリンター 出現確率 [0-0.5]
+Flanker_Chance フランカー 出現確率 [0-0.5]
+Burner_Chance バーナー 出現確率 [0-0.5]
+Acid_Chance アシッド 出現確率 [0-0.5]
+Boss_Electric_Chance 電気ボス 出現確率 [0-0.5]
+Boss_Wind_Chance 風ボス 出現確率 [0-0.5]
+Boss_Fire_Chance 炎ボス 出現確率 [0-0.5]
+Spirit_Chance スピリット 出現確率 [0-0.5]
+DL_Red_Volatile_Chance Dying Light Red Volatile Chance
+DL_Blue_Volatile_Chance Dying Light Blue Volatile Chance
+Boss_Elver_Stomper_Chance Elver Stomper Boss Chance
+Respawn_Day_Time 日中のリスポーン時間
+Respawn_Night_Time 夜のリスポーン時間
+Respawn_Beacon_Time ビーコンのリスポーン時間
+Quest_Boss_Respawn_Interval Quest Boss Respawn Interval
+Beacon_Experience_Multiplier ビーコンの経験値倍率
+Full_Moon_Experience_Multiplier 満月時の経験値倍率
+Min_Drops ドロップ (最小)
+Max_Drops ドロップ (最大)
+Min_Mega_Drops メガゾンビドロップ (最小)
+Max_Mega_Drops メガゾンビドロップ (最大)
+Min_Boss_Drops ボスドロップ (最小)
+Max_Boss_Drops ボスドロップ (最大)
+Slow_Movement 移動の減速
+Can_Stun スタンの有無
+Weapons_Use_Player_Damage Weapons Use Player Damage
+Only_Critical_Stuns Only Critical Stuns
+
+Can_Target_Barricades Can Target Barricades
+Can_Target_Structures Can Target Structures
+Can_Target_Vehicles Can Target Vehicles
+
+Beacon_Max_Rewards Beacon Max Reward Item Drops
+Beacon_Max_Participants Beacon Max Reward Participants
+Beacon_Rewards_Multiplier Beacon Rewards Multiplier
+
+Has_Battery_Chance バッテリーの残量の有無確率
+Min_Battery_Charge バッテリー残量 (最小)
+Max_Battery_Charge バッテリー残量 (最大)
+Has_Tire_Chance タイヤの有無確率
+
+Experience_Multiplier 経験値の倍率
+Detect_Radius_Multiplier NPC認識範囲の倍率
+Ray_Aggressor_Distance Bullet/Damage Ray Aggressor Distance
+
+Health_Regen_Min_Food 食事での体力回復下限
+Health_Regen_Min_Water 水分補給での体力回復下限 
+Health_Regen_Ticks 体力回復の周期 (Tick)
+
+Food_Use_Ticks 食事ゲージの減少周期 (Tick)
+Food_Damage_Ticks 空腹ダメージの周期 (Tick)
+
+Water_Use_Ticks 水分ゲージの減少周期 (Tick)
+Water_Damage_Ticks 脱水ダメージの周期 (Tick)
+
+Virus_Infect ウィルスの感染下限
+Virus_Use_Ticks 感染拡大の周期 (Tick)
+Virus_Damage_Ticks 病気ダメージの周期 (Tick)
+
+Leg_Regen_Ticks 骨折の自然治癒までの周期 (Tick)
+Bleed_Damage_Ticks 出血ダメージの周期 (Tick)
+Bleed_Regen_Ticks 出血の自然治癒までの周期 (Tick)
+
+Lose_Skills_PvP 死亡時のスキルペナルティ (対プレイヤー)
+Lose_Skills_PvE 死亡時のスキルペナルティ (PvE)
+Lose_Experience_PvP Lose Experience On Combat Death
+Lose_Experience_PvE Lose Experience On Environment Death
+Lose_Items_PvP 死亡時のアイテムペナルティ (対プレイヤー)
+Lose_Items_PvE 死亡時のアイテムペナルティ (PvE)
+Lose_Clothes_PvP 死亡時の服装ペナルティ　(対プレイヤー)
+Lose_Clothes_PvE 死亡時の服装ペナルティ　(PvE)
+Lose_Weapons_PvP Lose Weapons On Combat Death
+Lose_Weapons_PvE Lose Weapons On Environment Death
+
+Can_Hurt_Legs 足の怪我の有無
+Can_Break_Legs 骨折の有無
+Can_Fix_Legs 骨折の自然治癒
+Can_Start_Bleeding 出血の有無
+Can_Stop_Bleeding 出血の自然治癒
+
+Spawn_With_Max_Skills Spawn With Max Skills
+Spawn_With_Stamina_Skills Spawn With Stamina Skills
+Allow_Instakill_Headshots Allow Instakill Headshots
+Allow_Per_Character_Saves Allow Per-Character Saves
+
+Rain_Frequency_Min 雨の頻度 (最小)
+Rain_Frequency_Max 雨の頻度 (最大)
+Rain_Duration_Min 降雨の長さ (最小)
+Rain_Duration_Max 降雨の長さ (最大)
+
+Snow_Frequency_Min 雪の頻度 (最小)
+Snow_Frequency_Max 雪の頻度 (最大)
+Snow_Duration_Min 降雪の長さ (最小)
+Snow_Duration_Max 降雪の長さ (最大)
+
+Weather_Frequency_Multiplier Weather Frequency Multiplier
+Weather_Duration_Multiplier Weather Duration Multiplier
+
+Binary_State_Reset_Multiplier バイナリステートリセット時間倍率
+Fuel_Reset_Multiplier 燃料 リスポーン時間倍率
+Water_Reset_Multiplier 水 リスポーン時間倍率
+Resource_Reset_Multiplier リソース リスポーン時間倍率
+Resource_Drops_Multiplier Resource Drops Multiplier
+Rubble_Reset_Multiplier 瓦礫 リスポーン時間倍率
+Allow_Holiday_Drops Allow Holiday Drops
+
+Airdrop_Frequency_Min エアドロップの周期 (最小)
+Airdrop_Frequency_Max エアドロップの周期 (最大)
+Airdrop_Speed エアドロップの速度
+Airdrop_Force エアドロップの射出力
+
+Arena_Min_Players アリーナ: 最小プレイヤー数
+Arena_Compactor_Damage アリーナ: コンパクターのダメージ
+
+Arena_Clear_Timer アリーナ: クリアタイマー
+Arena_Finale_Timer アリーナ: フィナーレタイマー
+Arena_Restart_Timer アリーナ: フ再スタートタイマー
+
+Use_Airdrops エアドロップの有無
+Arena_Use_Compactor_Pause アリーナ: コンパクターの一時停止
+
+Arena_Compactor_Delay_Timer アリーナ: コンパクターの遅延時間
+Arena_Compactor_Pause_Timer アリーナ: コンパクターの一時停止時間
+
+Arena_Compactor_Speed_Tiny アリーナ: コンパクター速度 (とても小さい/Tiny)
+Arena_Compactor_Speed_Small アリーナ: コンパクター速度 (小さい/Small)
+Arena_Compactor_Speed_Medium アリーナ: コンパクター速度 (普通/Medium)
+Arena_Compactor_Speed_Large アリーナ: コンパクター速度 (大きい/Large)
+Arena_Compactor_Speed_Insane アリーナ: コンパクター速度 (とても大きい/Insane)
+Arena_Compactor_Shrink_Factor アリーナ: コンパクター縮小率
+
+Repair_Level_Max 修理レベルリミット
+Hitmarkers ヒットマーカー
+Crosshair クロスヘア
+Ballistics 弾道の重力
+Chart 地図
+Satellite GPS
+Compass コンパス
+Group_Map マップ上にグループを表示
+Group_HUD HUD上にグループを表示
+Group_Player_List Show Groups In Player List
+Allow_Static_Groups 静的グループの許可
+Allow_Dynamic_Groups ダイナミックグループの許可
+Allow_Shoulder_Camera ショルダーカメラの許可
+Can_Suicide 自殺の許可
+Friendly_Fire Friendly Fire
+Bypass_Buildable_Mobility Sentry Guns & Beds On Vehicles
+Allow_Freeform_Buildables Allow Freeform Buildables
+
+Timer_Exit 終了時のロック時間
+Timer_Respawn リスポーンのロック時間
+Timer_Home ホームのロック時間
+Timer_Leave_Group Leave Group Timer
+Max_Group_Members 最大グループ数
+
+Default デフォルトへ戻す
+Default_Tooltip 設定を初期状態に戻す
+
+Allow_Item_Placement_On_Vehicle Allow Item Placement On Vehicle
+Allow_Trap_Placement_On_Vehicle Allow Trap Placement On Vehicle
+Max_Item_Distance_From_Hull Max Item Distance From Hull
+Max_Trap_Distance_From_Hull Max Trap Distance From Hull
+
+ThirdPerson_RecoilMultiplier Third-Person Recoil Multiplier
+ThirdPerson_SpreadMultiplier Third-Person Spread Multiplier

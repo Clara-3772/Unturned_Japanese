@@ -1,0 +1,4 @@
+Name 再補給 I
+Description <color=uncommon>ジュリアン調理師</color> は格納庫から物資を運んでほしいようだ｡
+
+Condition_0 箱を運ぶ {0}/{1}

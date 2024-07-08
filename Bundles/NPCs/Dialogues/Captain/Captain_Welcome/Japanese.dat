@@ -1,0 +1,14 @@
+Message_0_Page_0 Ah hello! I heard there was someone new on-board. I'm <name_npc>, in charge of this vessel and aiding any survivors we come across. You're one of the first we've met, what's your name?
+Message_1_Page_0 By all accounts you've shown yourself to be the embodiment of what we look for in an <color=uncommon>Ensign</color>. The rank is yours if you want it!
+Message_2_Page_0 You've been an exemplary <color=uncommon>Ensign</color>, and it's about time you were promoted! If you're ready I'm prepared to make you a <color=rare>Lieutenant</color>!
+Message_3_Page_0 I'm very proud of you <name_char>... <pause>You've done a stellar job and I think you're ready to lead a squad of your own as a <color=epic>Major</color>. What do you say?
+Message_4_Page_0 Anything to report?
+
+Response_0 私は <name_char> です
+Response_1 いつでも準備は出来ています
+Response_2 ありがとうございます、失望はさせません
+Response_3 I'm honored, I'll stand by your side <color=legendary>Captain</color>
+Response_4 少し時間をください
+Response_5 連合に参加できますか?
+Response_6 どんな階級があるのですか?
+Response_7 何でもありません

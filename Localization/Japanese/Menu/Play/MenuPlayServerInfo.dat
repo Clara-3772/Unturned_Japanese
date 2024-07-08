@@ -1,0 +1,83 @@
+Password_Field_Label パスワード
+Password_Field_Replace #
+
+Join_Button 参加
+Join_Button_Tooltip 接続する
+Refresh_Button 更新
+Refresh_Button_Tooltip データを更新
+Cancel_Button キャンセル
+Cancel_Button_Tooltip 戻る
+
+Favorite_On_Button お気に入りに追加
+Favorite_Off_Button お気に入りから削除
+Favorite_Button_Tooltip お気に入りから追加/削除
+Bookmark_On_Button Add Bookmark
+Bookmark_Off_Button Remove Bookmark
+Bookmark_Button_Tooltip Toggle bookmark for quickly joining from Bookmarks menu.
+
+Players プレイヤー数: {0}/{1}
+Details 詳細
+Map マップ: {0}
+
+Workshop ワークショップ: {0}
+Combat 戦闘: {0}
+Perspective 視点: {0}
+Security セキュリティー: {0}
+Mode モード: {0}
+Cheats チート: {0}
+GameMode ゲーム: {0}
+QueryPing Ping: {0}ms
+
+Monetization_None Monetization: なし
+Monetization_NonGameplay Monetization: 非ゲーム性
+Monetization_Monetized Monetization: Affects Gameplay
+HostBan_MonetizationWarning 警告：このサーバーは、2021年6月11日に施行された収益化規約に違反しています。詳細はこちらをご覧ください。
+HostBan_WorkshopWarning 警告：このサーバーで使用されているワークショップファイルは禁止されています。
+HostBan_QueryPingWarning Warning: this server is using an "anycast" proxy and may have much higher in-game ping than shown.
+HostBan_IncorrectMonetizationTagWarning Warning: this server has the monetization tag incorrectly set. "None" is for unmonetized or donation-only servers, and "NonGameplay" is for servers with purchases that do not provide a gameplay advantage.
+HostBan_HostingProvider This warning might apply to the hosting provider, not your specific server. For example if the hosting provider has been allowing a server to evade a ban by changing the ports multiple times.
+HostBan_Apology ゲーム開発者からのメッセージ：あなたのサーバーに誤ってフラグを立ててしまったことをお詫びします。ご迷惑をおかけして申し訳ありませんが、今後このようなことが起こらないように最善を尽くしてまいります。
+NotLoggedInMessage This server cannot be joined over the internet because it is not logged in with a Game Server Login Token. Click here for more information.
+
+Yes 有効
+No 無効
+
+PvP プレイヤー 対 プレイヤー
+PvE プレイヤー 対 NPC
+
+First 一人称
+Third 三人称
+Both 一/三人称
+Vehicle 車両のみ三人称
+
+VAC_Secure VAC保護 有効
+VAC_Insecure VAC保護 無効
+
+BattlEye_Secure BattlEye 有効
+BattlEye_Insecure BattlEye 無効
+
+Subscribe +
+Subscribe_Tooltip {0} に登録します
+Unsubscribe -
+Unsubscribe_Tooltip {0} の登録解除
+
+Easy 簡単 (Easy)
+Normal 普通 (Normal)
+Hard 難しい (Hard)
+
+Server サーバー:
+UGC ワークショップ:
+Config 設定:
+Rule {0}: {1}
+Plugins_Rocket Rocketプラグイン:
+Plugins_OpenMod OpenMod プラグイン:
+Plugins_Unknown プラグイン:
+
+ServerNewerVersion_Label 新しいバージョンのサーバー: {0}
+ServerNewerVersion_Tooltip このサーバーではゲームの新しいバージョンが実行されているため、参加できません。クライアントを再起動してアップデートしてください.
+ServerOlderVersion_Label 旧バージョンのサーバー: {0}
+ServerOlderVersion_Tooltip このサーバーは古いバージョンのゲームを実行しているため、参加できません。ホストがアップデートする必要があります。
+ServerBlacklisted_Label このサーバーは使用禁止です。
+ServerBlacklisted_Tooltip サーバーがBanされているため、参加できません。
+NotLoggedInBlock_Label This server is not logged in.
+NotLoggedInBlock_Tooltip Cannot join over the internet because GSLT is not set.

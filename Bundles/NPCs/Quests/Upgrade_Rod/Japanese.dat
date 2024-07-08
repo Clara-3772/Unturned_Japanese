@@ -1,0 +1,4 @@
+Name The Ultimate Fishing Rod
+Description ウォレスは光る巨大なイカを釣るため、強化された釣り竿が必要らしい｡ 彼は普通の釣り竿を改良するための設計図を渡してきた｡
+
+Condition_0 作る {0}/{1} {2}

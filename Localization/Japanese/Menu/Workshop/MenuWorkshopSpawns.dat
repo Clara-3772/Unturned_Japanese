@@ -1,0 +1,36 @@
+Type_Tooltip アセットタイプ
+Type_Item アイテム
+Type_Vehicle 車両
+Type_Animal 動物
+
+View_Button 見る
+View_Button_Tooltip スポーンIDを検索
+Raw_Button 直接表示
+Raw_Button_Tooltip クリップボードへ出力
+New_Button 新規
+New_Button_Tooltip スポーンアセットを作成
+Write_Button 書き込み
+Write_Button_Tooltip アセットファイルへ変更を書き込む
+Add_Root_Spawn_Button 追加
+Add_Root_Spawn_Button_Tooltip ドロップを追加
+Remove_Root_Button 削除
+Remove_Root_Button_Tooltip ドロップを削除
+Add_Table_Asset_Button 追加
+Add_Table_Asset_Button_Tooltip 新規テーブルを作成
+Add_Table_Spawn_Button 追加
+Add_Table_Spawn_Button_Tooltip 新規テーブルを作成
+Remove_Table_Button 削除
+Remove_Table_Button_Tooltip テーブルを削除
+Apply_Weights_Button 確率を設定
+Apply_Weights_Button_Tooltip 確率を計算
+
+ID_Field_Hint ID or GUID
+
+Roots_Box {0} - 親テーブルID
+Roots_Box_Tooltip 親のスポーンテーブル
+
+Tables_Box {0} - テーブル
+Tables_Box_Tooltip 子のスポーンテーブル
+
+Weight_Tooltip ウェイト
+Chance_Tooltip 確率

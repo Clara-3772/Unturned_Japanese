@@ -1,0 +1,38 @@
+AzimuthSliderLabelText 自転の角度
+BiasSliderLabelText 日照比率
+FadeSliderLabelText フェード率
+Sea_Level_Slider_Label 海の高さ
+Snow_Level_Slider_Label 降雪の高さ
+Rain_Freq_Label 雨の頻度倍率
+Rain_Dur_Label 雨の降水時間倍率
+Snow_Freq_Label 雪の頻度倍率
+Snow_Dur_Label 雪の降雪時間倍率
+WeatherPreview_Label Preview Weather
+Rain_Toggle_Label 降雨の可否
+Snow_Toggle_Label 雪
+MoonSliderLabelText 月相
+TimeSliderLabelText 時間
+
+Time_0 日の出
+Time_1 日中
+Time_2 日没
+Time_3 深夜
+
+Color_0 太陽
+Color_1 海
+Color_2 霧
+Color_3 空 (上部分)
+Color_4 空 (中心部分)
+Color_5 空 (下部分)
+Color_6 アンビエント (上部分)
+Color_7 アンビエント (中心部分)
+Color_8 アンビエント (下部分)
+Color_9 雲
+Color_10 光
+Color_11 パーティクルライティング
+
+Single_0 日照量
+Single_1 霧の密度
+Single_2 雲の密度
+Single_3 影の濃さ
+Single_4 光

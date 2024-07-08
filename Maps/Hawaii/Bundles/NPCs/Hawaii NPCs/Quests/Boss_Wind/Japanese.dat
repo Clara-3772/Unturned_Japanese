@@ -1,0 +1,4 @@
+Name <color=mythical>それは地震?</color>
+Description ここへ来る途中、 <color=legendary>バーロウ司令官</color> とその他何人かが大きな地震を感じた。 火山の噴火だと思っていたようだが、化物のようなゾンビを見つけた｡ 彼は Keokea へ向かって欲しいようだが、奴は地面を裂いたり物を投げたりするのを躊躇しないらしく、注意したほうが良いらしい｡
+
+Condition_0 <color=mythical>地面を引き裂くボス</color> を倒す　{0}/{1}

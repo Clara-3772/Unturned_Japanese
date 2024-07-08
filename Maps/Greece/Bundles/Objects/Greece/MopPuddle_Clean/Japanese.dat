@@ -1,0 +1,4 @@
+Name Mop Puddle Cleaner
+
+Interactability_Condition_0 Mop isn't dirty.
+Interact Clean Mop[{0}]

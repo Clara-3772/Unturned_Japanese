@@ -1,0 +1,4 @@
+Name 狼の住処
+Description ヴォルク - ロシア語で狼という意味｡ <color=rare>オズワルド中尉</color> はあなたに北西にあるロシア最大の軍事基地とは一体何なのか潜入して欲しいらしい｡ 簡単だろう?
+
+Condition_0 <color=legendary>ホードビーコン</color> で軍事基地の安全を確保 {0}/{1}

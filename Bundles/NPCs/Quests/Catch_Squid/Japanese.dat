@@ -1,0 +1,4 @@
+Name The One That Got Away
+Description もしウォレスの天敵 - 大きなイカを釣ることが出来たら、彼は喜ぶだろう｡
+
+Condition_0 釣る {0}/{1} {2}

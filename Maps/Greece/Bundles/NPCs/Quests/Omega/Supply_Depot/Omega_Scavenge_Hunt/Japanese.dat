@@ -1,0 +1,4 @@
+Name Scavenge Hunt
+Description <color=epic>Supply Manager Milos</color> is sending you out on a supply run to find some more Civillian Ammo.
+
+Condition_0 民間用弾薬を探す {0}/{1}

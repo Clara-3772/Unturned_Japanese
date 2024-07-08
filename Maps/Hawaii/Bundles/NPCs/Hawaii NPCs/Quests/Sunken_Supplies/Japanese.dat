@@ -1,0 +1,4 @@
+Name 沈んだ物資
+Description <color=epic>マック アラステア大佐</color> は飛行機が Kailua-Kona 南西の海中へ沈んでいったのは確実だと考えている｡ もし見つけることが出来たら、10個の弾薬箱を回収してきて欲しいという｡ 弾薬を分ける予定も有るらしい｡
+
+Condition_0 <color=rare>弾薬箱</color> を回収する {0}/{10}

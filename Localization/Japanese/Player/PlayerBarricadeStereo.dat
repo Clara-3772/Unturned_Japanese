@@ -1,0 +1,6 @@
+Stop_Button 停止
+Stop_Button_Tooltip 再生を停止
+Close_Button 閉じる
+Close_Button_Tooltip 画面を閉じる
+
+Volume_Slider_Label ボリューム: {0}%

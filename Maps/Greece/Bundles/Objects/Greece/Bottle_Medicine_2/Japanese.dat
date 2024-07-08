@@ -1,0 +1,4 @@
+Name Bottled Medicine #3
+
+//Interactability_Condition_0 Not Carrying any dishes.
+Interact Collect Bottled Antiseptic[{0}]

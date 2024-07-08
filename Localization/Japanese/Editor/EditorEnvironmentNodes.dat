@@ -1,0 +1,30 @@
+Name_Label 場所の名前
+Radius_Label 半径
+Width_Label 幅
+Height_Label 高度
+Length_Label 長さ
+Item_ID_Label アイテムID
+Cost_Label コスト
+Spawn_ID_Label 出現ID
+Effect_ID_Label エフェクトID
+No_Water_Label 水なし
+No_Lighting_Label ライティングなし
+No_Weapons_Label 武器使用禁止
+No_Buildables_Label 建築禁止
+
+Shape_Tooltip 形
+Sphere 球形
+Box 箱
+
+DeadzoneType_DefaultRadiation デフォルト
+DeadzoneType_FullSuitRadiation 全身装備
+DeadzoneType_Tooltip デッドゾーンの種類
+
+Type_Tooltip 種類
+Location 場所
+Safezone 安全地帯
+Purchase 購入地帯
+Arena アリーナ地帯
+Deadzone デッドゾーン
+Airdrop エアドロップ (救援物資)
+Effect エフェクト

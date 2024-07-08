@@ -1,0 +1,29 @@
+Host_Field_Label Host or Server Code
+Host_Field_Tooltip Can be a server code shared with you, domain name, or IP address.
+Port_Field_Label ポート番号
+Port_Field_Tooltip Automatically set if ":####" is present in host address.
+Password_Field_Label パスワード
+Password_Field_Replace #
+
+Connect_Button 接続
+Connect_Button_Tooltip 接続する
+
+Cancel_Attempt_Label キャンセル
+Cancel_Attempt_Tooltip 接続試行を停止します。
+
+Connecting 接続中… [試行回数 #{0}]
+Pro_Server このサーバーはゴールドアカウントが必要です｡ 
+Password このサーバーはパスワードが必要です｡ 
+Full サーバーが満員です｡ 
+Timed_Out サーバーが見つかりませんでした｡ 
+
+Address_Loopback_Label This Machine
+Address_Loopback_Tooltip This address refers to a server on your computer.
+Address_LocalPrivate_Label LAN
+Address_LocalPrivate_Tooltip This address refers to a server on your local network.
+
+ServerCode_Valid_Label Server Code
+ServerCode_Valid_Tooltip This code refers to a game server.
+ServerCode_Invalid_Label Invalid Server Code
+ServerCode_Invalid_Tooltip This appears to be a server code, but does not refer to a game server.
+ServerCode_Friend_Tooltip This is a Steam friend code, not a server code.

@@ -1,0 +1,4 @@
+Name クラッシュダウン
+Description <color=epic>マック アラステア大佐</color>の部隊は飛行機が墜落する前に脱出できた｡ その飛行機は脱出する際 Mauna Kea より南西へ向かって行ったので、その付近の Kaliua-Kona から探し始めるのが良いだろう｡
+
+Condition_0 Kailua-Kona の <color=legendary>ホードビーコン</color> をクリアする {0}/{1}

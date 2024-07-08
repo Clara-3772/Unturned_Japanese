@@ -1,0 +1,11 @@
+HeightButtonText 地形
+HeightButtonTooltip 地形の変更 (Heightmaps)
+
+MaterialsButtonText 環境
+MaterialsButtonTooltip 地面色/種類の変更 (Alphamaps)
+
+DetailsButtonText Foliage
+DetailsButtonTooltip Grass, rocks, trees, etc.
+
+TilesButton_Label Tiles
+TilesButton_Tooltip Manage terrain chunks.

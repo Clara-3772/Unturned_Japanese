@@ -1,0 +1,4 @@
+Name Military Perimeter #4 Off
+
+//Interactability_Condition_0 Not Carrying any dishes.
+Interact Radio In[{0}]

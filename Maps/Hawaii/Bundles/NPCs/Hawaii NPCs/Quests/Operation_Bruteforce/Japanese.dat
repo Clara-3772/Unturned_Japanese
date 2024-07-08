@@ -1,0 +1,7 @@
+Name <color=mythical>クリーン スイープ</color>
+Description 救援が必用な軍の隊員たちが Kailua-Kona で発見された｡ 不運ながら、ゾンビの群れがとても多く、安全に救助するのは難しいだろう｡ これは強行策だ｡ 特別な大型ゾンビを含んだ大量のゾンビの群れを対処せよ｡
+
+Condition_0 Kailua-Kona のゾンビを倒す {0}/1
+Condition_1 <color=mythical>地震ゾンビ</color> を殺害 {0}/1
+Condition_2 <color=mythical>炎ゾンビ</color> を殺害 {0}/1
+Condition_3 <color=mythical>雷ゾンビ</color> を殺害 {0}/1

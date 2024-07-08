@@ -1,0 +1,7 @@
+Name Material Mission
+Description <color=epic>Workshop Manager Hyperion</color> needs some more materials for the workshop.
+
+Condition_0 シラカバの丸太を集める {0}/{1}
+Condition_1 カエデの丸太を集める {0}/{1}
+Condition_2 マツの丸太を集める {0}/{1}
+Condition_3 金属スクラップを集める {0}/{1}

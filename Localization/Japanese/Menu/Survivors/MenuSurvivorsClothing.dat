@@ -1,0 +1,67 @@
+Page {0} / {1} ページ
+
+Search_Field_Hint アイテム名
+Search 検索
+Search_Tooltip アイテム検索
+Advanced_Options_Tooltip 詳細オプション
+Search_Descriptions_Label 検索内容
+Filter_Item_Target アイテムを検索中: {0}
+Cancel_Filter キャンセル
+Cancel_Filter_Tooltip キャンセルします
+Left_Tooltip 左
+Right_Tooltip 右
+Swap_Tooltip 切り替え
+Refresh_Tooltip 更新
+
+Sort_Mode_Date 日付
+Sort_Mode_Rarity レアリティ
+Sort_Mode_Name Name A-Z
+Sort_Mode_Type Type A-Z
+Sort_Mode_Label 並べ替えモード
+Sort_Mode_Tooltip 在庫整理の方法
+Reverse_Sort_Order_Label 逆順
+Filter_Equipped_Label 装備のみ
+
+Origin_Drop アイテムを見つけました!
+
+Mystery_-1_Text 超レアアイテム
+Mystery_-2_Text 激レア ホーンテッド アイテム
+Mystery_-3_Text 激レア ホリデースピリットア イテム
+Mystery_-4_Text 超レア コンフェッティ アイテム
+Mystery_-5_Text 超レア ブラッドサッカー アイテム
+Mystery_Tooltip ???
+
+Itemstore ストックパイル
+Itemstore_Tooltip クリックでゲーム内アイテムのショップを閲覧します
+Itemstore_Sale SALE
+Itemstore_Region_Box_Disabled 注：{0}地域ではボックスとキーは使用できません。
+Crafting クラフティング
+Crafting_Tooltip クリックで使用できるブループリントを閲覧します
+Backpack バックパック
+Backpack_Tooltip クリックでバックパックへ戻ります
+Featured_Tooltip クリックでこのアイテムを閲覧します
+
+Craft_Available 使用できる <color=#D2BF22>クラフティングマテリアル</color>: {0}個
+Alert_Crafting クラフト中...
+Craft_Entry {0} を作製 - <color=#D2BF22>クラフティングマテリアル</color> x{1}個
+Craft_Common_Cosmetic <color=#ffffff>低ティアドロップ: コスメティック</color>
+Craft_Common_Skin <color=#ffffff>低ティアドロップ: スキン</color>
+Craft_Uncommon_Cosmetic <color=#ffffff>高ティアドロップ: コスメティック</color>
+Craft_Uncommon_Skin <color=#ffffff>高ティアドロップ: スキン</color>
+Craft_Stat_Tracker_Total_Kills <color=#ff7f00>トータルキルカウンタ</color>
+Craft_Stat_Tracker_Player_Kills <color=#ff0000>プレイヤーキルカウンタ</color>
+Craft_Ragdoll_Effect_Zero_Kelvin <color=#00ffff>ゼロケルビン武器キット</color>
+Craft_Ragdoll_Effect_Jaded <color=gold>Jaded Weapon Kit</color>
+Craft_Mythical_Skin <color=mythical>ランダムな神話のスキン</color>
+Craft_Stat_Tracker_Removal_Tool <color=#909090>キルカウンター除去ツール</color>
+Craft_Ragdoll_Effect_Removal_Tool <color=#909090>ラグドール・エフェクト削除ツール</color>
+Craft_ProgressPridePin <color=rare>Progress Pride Pin</color> (Pride Month)
+Craft_ProgressPrideJersey <color=rare>Progress Pride Jersey</color> (Pride Month)
+Craft_AnniversaryTophat <color=gold>10th Anniversary Mystery Tophat</color>
+
+Origin_Craft アイテムを作製しました!
+Origin_Purchase 購入成功!
+
+No_Items Steam インベントリの応答を待っています...
+
+Overlay Steamオーバーレイを有効にする必要があります。 

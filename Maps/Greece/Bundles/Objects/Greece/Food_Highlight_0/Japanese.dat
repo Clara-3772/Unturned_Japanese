@@ -1,0 +1,4 @@
+Name Food Box Highlight #1
+
+Interactability_Condition_0 Not Carrying a Box.
+Interact Put Down Food Box[{0}]

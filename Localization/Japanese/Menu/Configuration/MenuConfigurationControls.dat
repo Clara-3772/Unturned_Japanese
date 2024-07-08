@@ -1,0 +1,111 @@
+Sensitivity_Field_Label マウス感度  [{0}]
+Invert_Toggle_Label 上下の反転
+Invert_Flight_Toggle_Label 上下の反転(飛行時)
+Aiming_Label サイト覗き込み
+Crouching_Label しゃがみ
+Proning_Label 伏せ
+Sprinting_Label 走り
+Leaning_Label リーン(左右覗き込み)
+
+SensitivityScalingMode_Label Sensitivity Scaling Mode
+SensitivityScalingMode_ProjectionRatio Focal Length
+SensitivityScalingMode_ProjectionRatio_Tooltip Scale by ratio between active FOV projected onto screen and configured FOV projected onto screen.
+SensitivityScalingMode_ZoomFactor Zoom Factor
+SensitivityScalingMode_ZoomFactor_Tooltip Multiply sensitivity according to scope/optic zoom. For example an 8x zoom has 1/8th sensitivity.
+SensitivityScalingMode_Legacy Legacy
+SensitivityScalingMode_Legacy_Tooltip Preserve how sensitivity felt prior to 3.22.8.0 update.
+SensitivityScalingMode_None Disabled
+SensitivityScalingMode_None_Tooltip Sensitivity is unmodified while aiming. Not recommended.
+
+ProjectionRatioCoefficient_Label Projection Ratio Coefficient
+ProjectionRatioCoefficient_Tooltip Multiplier for "Focal Length" sensitivity scaling.
+
+Hold ホールド
+Toggle 切り替え
+
+Layout_0 プレイヤー操作
+Layout_1 姿勢
+Layout_2 動作
+Layout_3 アイテム
+Layout_4 コミュニケーション
+Layout_5 インターフェイス
+Layout_6 車両
+Layout_7 エディタ
+Layout_8 モッド/プラグイン
+Layout_9 ホットバー
+
+Key_0_Button 左 [{0}]
+Key_1_Button 右 [{0}]
+Key_2_Button 上 [{0}]
+Key_3_Button 下 [{0}]
+Key_4_Button ジャンプ [{0}]
+Key_5_Button リーン (左) [{0}]
+Key_6_Button リーン (右) [{0}]
+Key_7_Button プライマリ攻撃 [{0}]
+Key_8_Button セカンダリ攻撃 [{0}]
+Key_9_Button 使う [{0}]
+Key_10_Button しゃがむ [{0}]
+Key_11_Button 伏せる [{0}]
+Key_12_Button 走る [{0}]
+Key_13_Button リロード [{0}]
+Key_14_Button アタッチメントメニュー [{0}]
+Key_15_Button 射撃モード切り替え [{0}]
+Key_16_Button ダッシュボード を開く [{0}]
+Key_17_Button 持ち物 を開く [{0}]
+Key_18_Button クラフティングメニュー を開く [{0}]
+Key_19_Button スキルツリー を開く [{0}]
+Key_20_Button マップ を開く [{0}]
+Key_21_Button プレイヤーリスト を開く [{0}]
+Key_22_Button VoIP [{0}] 
+Key_23_Button 変更 [{0}]
+Key_24_Button スナップ [{0}]
+Key_25_Button フォーカス [{0}]
+Key_26_Button ツール #1 [{0}]
+Key_27_Button ツール #2 [{0}]
+Key_28_Button ツール #3 [{0}]
+Key_29_Button HUD切り替え [{0}]
+Key_30_Button その他 [{0}]
+Key_31_Button ワールドチャット [{0}]
+Key_32_Button エリアチャット [{0}]
+Key_33_Button グループチャット [{0}]
+Key_34_Button ジェスチャー [{0}]
+Key_35_Button ナイトビジョン [{0}]
+Key_36_Button アタッチメント オン/オフ [{0}]
+Key_37_Button 一人称/三人称 視点切り替え [{0}]
+Key_38_Button 装備をしまう [{0}]
+Key_39_Button 姿勢の切り替え [{0}]
+Key_40_Button ロール (左) [{0}]
+Key_41_Button ロール (右) [{0}]
+Key_42_Button ピッチ (上) [{0}]
+Key_43_Button ピッチ (下) [{0}]
+Key_44_Button ヨー (左) [{0}]
+Key_45_Button ヨー (右) [{0}]
+Key_46_Button スロットル (増加) [{0}]
+Key_47_Button スロットル (減少) [{0}]
+Key_48_Button 調べる [{0}]
+Key_49_Button アイテムを回転 [{0}]
+Key_50_Button ツール #4 [{0}]
+Key_51_Button 視点を上昇 [{0}]
+Key_52_Button 視点を下降 [{0}]
+Key_53_Button ロックする [{0}]
+Key_54_Button クエストリスト [{0}]
+Key_55_Button Devkit [{0}]
+Key_56_Button スクリーンショット [{0}]
+Key_57_Button アセットの再読み込み [{0}]
+Key_58_Button クリップボードデバッグ [{0}]
+Key_59_Button ホットキーコード #1 [{0}]
+Key_60_Button ホットキーコード #2 [{0}]
+Key_61_Button ホットキーコード #3 [{0}]
+Key_62_Button ホットキーコード #4 [{0}]
+Key_63_Button ホットキーコード #5 [{0}]
+Key_64_Button アイテム #1 [{0}]
+Key_65_Button アイテム #2 [{0}]
+Key_66_Button アイテム #3 [{0}]
+Key_67_Button アイテム #4 [{0}]
+Key_68_Button アイテム #5 [{0}]
+Key_69_Button アイテム #6 [{0}]
+Key_70_Button アイテム #7 [{0}]
+Key_71_Button アイテム #8 [{0}]
+Key_72_Button アイテム #9 [{0}]
+Key_73_Button アイテム #10 [{0}]
+Key_74_Button カーソルを戻す [{0}]

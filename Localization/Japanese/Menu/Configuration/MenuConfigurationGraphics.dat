@@ -1,0 +1,115 @@
+Ambient_Occlusion_Label 環境遮蔽
+Ambient_Occlusion_Tooltip 角や接点付近にソフトな陰影を付けます。
+Bloom_Toggle_Label ブルーム効果
+Bloom_Tooltip 明るい光の周りにある光の輪をぼかします。
+Chromatic_Aberration_Toggle_Label クロマチック収差
+Chromatic_Aberration_Tooltip レンズの不完全さはスクリーンショットには有効かもしれません。
+Film_Grain_Toggle_Label フィルムグレイン
+Film_Grain_Tooltip 微妙な視覚ノイズを加えて、カラーバンディングを軽減する。
+Terrain_Toggle_Label マップ外の地形
+Blend_Toggle_Label 地域の境界色をブレンド
+Blend_Tooltip 基本的なリニアブレンドではなく、マテリアルごとのハイトマップに従って地形のテクスチャをブレンドします。
+Fog_Toggle_Label 霧の表示
+Nice_Foliage_Toggle_Label 草木のアニメーション
+Grass_Displacement_Toggle_Label 草の変位
+Grass_Displacement_Tooltip プレイヤーの足を中心とした基本的な頂点変位。
+Foliage_Focus_Toggle_Label スコープ内の草木
+Foliage_Focus_Tooltip 拡大した状態でフォーカルポイントの周囲に葉を流す。
+Ragdolls_Toggle_Label ラグドール(死亡アニメーション)
+Ragdolls_Tooltip エンティティの死体を物理的にシミュレートします。
+Debris_Toggle_Label デブリ
+Debris_Tooltip オブジェクトが破壊されたときのデブリの物理をシミュレートします。
+Blast_Toggle_Label ブラストマーク
+Blast_Toggle_Tooltip 爆発時に3Dデカールを生成します。パフォーマンスは、画面上で重なっているピクセルの数に影響されます。
+Puddle_Toggle_Label 水溜り
+Puddle_Tooltip 雨粒の水たまりや波紋の効果。
+Glitter_Toggle_Label 雪のちらつき
+Glitter_Tooltip 雪面に浮かぶキラキラした輝き。
+Triplanar_Toggle_Label 三平面マッピング
+Triplanar_Tooltip 1ピクセルあたり1つのテクスチャではなく、3つのテクスチャをサンプリングすることで、ボルダーのテクスチャを地形に合わせて配置します。
+Skybox_Reflection_Label スカイボックス反射
+Skybox_Reflection_Tooltip ダイナミックな空背景をキューブマップに描画し、環境光と反射を実現。
+Item_Icon_Anti_Aliasing_Label アイテム アイコン アンチ エイリアス
+Item_Icon_Anti_Aliasing_Tooltip インベントリアイコンのピクセルエッジのギザギザを防止します。
+
+Far_Clip_Slider_Label Max Draw Distance [{0}%]
+Distance_Slider_Label 付近 描画距離 [{0}%]
+Landmark_Slider_Label 遠距離の建物 描画距離 [{0}%]
+
+Anti_Aliasing_Button_Label アンチエイリアス
+Anti_Aliasing_Button_Tooltip ピクセルのギザギザを減少させます。
+Anisotropic_Filtering_Button_Label 異方性フィルタリング
+Anisotropic_Filtering_Button_Tooltip テクスチャのボケを減少させます｡
+Effect_Button_Label デブリの品質
+Effect_Button_Tooltip ゴミ等の消滅までの時間を変更します。
+Foliage_Button_Label 草/葉の密度
+Foliage_Button_Tooltip 視界内に有る草木の葉っぱの密度を変更します。
+Sun_Shafts_Button_Label サンシャフト効果の品質
+Sun_Shafts_Button_Tooltip サンシャフト効果の解像度を変更します。
+Lighting_Button_Label 影の解像度
+Lighting_Button_Tooltip 影の解像度及び光源の数を変更します。
+Reflection_Button_Label 反射の品質
+Reflection_Button_Tooltip スクリーンスペース反射の解像度
+Planar_Reflection_Button_Label 平面反射の品質
+Planar_Reflection_Button_Tooltip 水の反射品質を変更します。
+Water_Button_Label 水の品質
+Water_Button_Tooltip 水の透明度、形、波や反射の品質を変更します。
+Scope_Button_Label スコープの解像度
+Scope_Button_Tooltip スコープ内の解像度を変更します。
+Outline_Button_Label アウトラインの品質
+Outline_Button_Tooltip ハイライト（アウトライン）の解像度とブラー効果を変更します。
+Terrain_Button_Label 地形の品質
+Terrain_Button_Tooltip 地形ジオメトリの解像度を変更します。
+Wind_Button_Label 風エフェクトの品質
+Wind_Button_Tooltip 風の計算の細かさを変更します｡ 低 より高い場合エフェクトが強くなります。
+Tree_Mode_Button_Label 木の品質 [再起動必須]
+Tree_Mode_Button_Tooltip 使用する木のモデルを変更します｡ クライアントの再起動が必要です｡
+Render_Mode_Button_Label レンダーモード
+Render_Mode_Button_Tooltip フォワード は古いビデオカードを使用している場合 パフォーマンスが向上するかもしれません｡ デファード はデカールや反射をサポートします。
+Landmark_Button_Label ランドマーク
+Landmark_Button_Tooltip 遠景用の低ディティールモデルの表示設定を変更します。
+
+Effect_Off {0}: 血痕のみ
+Effect_Tier {0}: {1} 秒
+
+Planar_Reflection_Low {0}: 風景のみ
+Planar_Reflection_Medium {0}: 空, 木, 構造物, 大きいオブジェクト
+Planar_Reflection_High {0}: 車両, バリケード, オブジェクト
+Planar_Reflection_Ultra {0}: プレイヤー, AI, エフェクト
+
+Wind_Low {0}: 通常の風
+Wind_Medium {0}+: 
+
+Landmark_Low {0}: オフ
+Landmark_Medium {0}: 重要な物のみ
+Landmark_High {0}: 選択したオブジェクト
+Landmark_Ultra {0}: 道路
+
+FXAA FXAA
+TAA TAA
+MSAA2 2xMSAA
+MSAA4 4xMSAA
+MSAA8 8xMSAA
+AA_Hint Deferred レンダーとMSAAは使用できません｡
+
+AF_Disabled 無効
+AF_Per_Texture テクスチャ毎
+AF_Forced_On 強制的に有効
+
+TM_Legacy 古い木のモデル [旧式]
+TM_SpeedTree_Fade_None 新しい木のモデル - ブレンディング オフ
+TM_SpeedTree_Fade_SpeedTree 新しい木のモデル - ブレンディング オン
+
+Forward フォワード [旧方式]
+Deferred デファード [推奨]
+
+Off オフ
+Low 低
+Medium 中
+High 高
+Ultra 最高
+
+Perf_Foliage_Instancing_Not_Supported お使いのGPUは、木の葉のインスタンス化をサポートしていません。これはパフォーマンスに大きく影響します。
+Perf_Water_Reflections Ultraは平面的な反射を可能にします。この場合、シーンを上下逆に描き直す必要があり、パフォーマンスが半減します。
+Perf_Dual_Render_Scope デュアルレンダースコープでは、拡大した状態で再度シーンを描く必要があり、パフォーマンスが半減します。
+Perf_SpeedTrees SpeedTreeはパフォーマンスに大きく影響します。ほとんどのハードウェアにはベーシックモデルを推奨します。

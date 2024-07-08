@@ -1,0 +1,35 @@
+TableNameFieldLabelText テーブル
+AddTableButtonText 追加
+AddTableButtonTooltip テーブル追加
+RemoveTableButtonText 削除
+RemoveTableButtonTooltip テーブル削除
+
+SelectionBoxLabelText 選択中:
+
+MegaToggleLabelText メガゾンビ
+HealthFieldLabelText 体力
+DamageFieldLabelText ダメージ
+LootIndexFieldLabelText ドロップインデックス
+LootIDFieldLabelText ドロップID
+XPFieldLabelText 経験値
+RegenFieldLabelText 回復速度
+DifficultyGUIDFieldLabelText 難易度GUID
+
+ItemIDFieldLabelText ID (アイテム)
+AddItemButtonText 追加
+AddItemButtonTooltip アイテム追加
+RemoveItemButtonText 削除
+RemoveItemButtonTooltip アイテム削除
+
+RadiusSliderLabelText 半径
+
+AddButtonText 追加 [{0}]
+AddButtonTooltip スポーンポイント追加
+
+RemoveButtonText 削除 [{0}]
+RemoveButtonTooltip スポーンポイント削除
+
+Slot_0 シャツ
+Slot_1 ズボン
+Slot_2 ぼうし
+Slot_3 装備

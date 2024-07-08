@@ -1,0 +1,141 @@
+Name_Field_Label 名前
+Description_Field_Label 説明コメント
+Path_Field_Label ファイルパス (絶対パス)
+Preview_Field_Label プレビュー画像 (絶対パス ,PNG等)
+Change_Field_Label 更新の詳細
+Allowed_IPs_Label 許可されたIPアドレス
+Allowed_IPs_Hint コンマで区切られている 例：127.0.0.1,192.168.0.0 ホワイトリスト-ブラックリスト
+Allowed_IPs_Tooltip 設定されている場合、これらのサーバーIPのみがこのアイテムの自動ダウンロードを許可されます。カスタムコンテンツを持つサーバーネットワークで要求されます。
+
+Create_Button 作成
+Create_Button_Tooltip 作成
+
+Legal_Button アイテムをアップロードすることで、規約に同意したことになります!
+Legal_Button_Tooltip 利用規約を開く
+
+Map マップ
+Localization 翻訳
+Object オブジェクト
+Item アイテム
+Vehicle 車両
+Skin スキン
+
+Map_Type_Survival サバイバル
+Map_Type_Horde ホード
+Map_Type_Arena アリーナ
+Map_Type_Custom カスタムゲーム
+
+Item_Type_Backpack バックバック
+Item_Type_Barrel バレル
+Item_Type_Barricade バリケード
+Item_Type_Fisher 釣り竿
+Item_Type_Food 食べ物
+Item_Type_Fuel 燃料
+Item_Type_Glasses メガネ
+Item_Type_Grip グリップ
+Item_Type_Grower 肥料
+Item_Type_Gun 銃
+Item_Type_Hat 帽子
+Item_Type_Magazine マガジン
+Item_Type_Mask マスク
+Item_Type_Medical 衣料品
+Item_Type_Melee 物理武器 /鈍器
+Item_Type_Optic 光学アタッチメント
+Item_Type_Shirt シャツ
+Item_Type_Sight サイト
+Item_Type_Structure 構造物
+Item_Type_Supply 補給品
+Item_Type_Tactical タクティカルアタッチメント
+Item_Type_Throwable 手投げ武器
+Item_Type_Tool 道具
+Item_Type_Vest ベスト
+Item_Type_Water 水/水筒
+
+Vehicle_Type_Wheels_2 2輪
+Vehicle_Type_Wheels_4 4輪
+Vehicle_Type_Plane 飛行機
+Vehicle_Type_Helicopter ヘリコプター
+Vehicle_Type_Boat ボート
+Vehicle_Type_Train 列車
+
+Skin_Type_Generic_Pattern 汎用
+Skin_Type_Ace エース
+Skin_Type_Augewehr アウゲヴェーア
+Skin_Type_Avenger アヴェンジャー
+Skin_Type_Bluntforce ブラントフォース
+Skin_Type_Bulldog ブルドッグ
+Skin_Type_Butterfly_Knife バタフライナイフ
+Skin_Type_Calling_Card コーリングカード
+Skin_Type_Cobra コブラ
+Skin_Type_Colt コルト
+Skin_Type_Compound_Bow コンパウンドボウ
+Skin_Type_Crossbow クロスボウ
+Skin_Type_Desert_Falcon デザートファルコン
+Skin_Type_Dragonfang ドラゴンファング
+Skin_Type_Eaglefire イーグルファイア
+Skin_Type_Ekho エコー
+Skin_Type_Fusilaut フューシラート
+Skin_Type_Grizzly グリズリー
+Skin_Type_Hawkhound ホークハウンド
+Skin_Type_Heartbreaker ハートブレイカー
+Skin_Type_Hell_Fury ヘルズ フューリー
+Skin_Type_Honeybadger ハニーバジャー
+Skin_Type_Katana 刀
+Skin_Type_Kryzkarek クリズカレック
+Skin_Type_Machete マシェット
+Skin_Type_Maplestrike メイプルストライク
+Skin_Type_Maschinengewehr Maschinengewehr
+Skin_Type_Masterkey マスターキー
+Skin_Type_Matamorez Matamorez
+Skin_Type_Military_Knife ミリタリーナイフ
+Skin_Type_Nightraider ナイトレイダー
+Skin_Type_Nykorev ナイコレフ
+Skin_Type_Peacemaker ピースメーカー
+Skin_Type_Rocket_Launcher ロケットランチャー
+Skin_Type_Sabertooth セイバートゥース
+Skin_Type_Scalar スカラー
+Skin_Type_Schofield スコフィールド
+Skin_Type_Shadowstalker シャドーストーカー
+Skin_Type_Snayperskya スナイパースカヤ
+Skin_Type_Sportshot スポートショット
+Skin_Type_Timberwolf ティンバーウルフ
+Skin_Type_Teklowvka テクロフカ
+Skin_Type_Viper ヴァイパー
+Skin_Type_Vonya ヴォンヤ
+Skin_Type_Yuri ユリ
+Skin_Type_Zubeknakov ズベツナコフ
+
+Object_Type_Model モデル
+Object_Type_Resource リソース
+Object_Type_Effect 効果
+Object_Type_Animal 動物
+
+Public 公開
+Friends_Only フレンドのみ
+Private 非公開
+Unlisted 未発表
+
+Community Ready-To-Use
+Review キュレーテッド
+
+Overlay Steamオーバーレイを有効にする必要があります。 
+
+Alert_Name 名前を入力してください
+Alert_Preview プレビューイメージ [.PNG か.JPG] を指定してください
+Alert_Path アップロードするファイルのパスを入力してください
+Alert_Map 有効なマップを指定してください
+Alert_Localization 有効な翻訳を指定してください
+Alert_Object 有効なオブジェクト /アイテム /車両を指定してください
+Alert_Curated Curated カテゴリには視覚的アイテム(衣装など) のみアップロードできます。
+
+PathFieldNotification_Empty 空にはできません。
+PathFieldNotification_MissingFolder 指定されたディレクトリが存在しません。
+PathFieldNotification_Map ディレクトリには、マップのフォルダのみを配置してください。
+PathFieldNotification_Localization ディレクトリには、Editor、Menu、Playerなどのフォルダがあります。
+PathFieldNotification_Bundle ディレクトリには少なくとも1つのサブフォルダが必要です。
+PathFieldNotification_NoWritePermission アクセス許可が拒否されています。
+
+PreviewFieldNotification_Empty 空にはできません。
+PreviewFieldNotification_MissingFile 指定されたファイルが存在しません。
+PreviewFieldNotification_Extension 画像は、.pngまたは.jpgを使用してください。
+PreviewFieldNotification_FileSize 画像のファイルサイズが大きすぎます。

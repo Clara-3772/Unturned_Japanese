@@ -1,0 +1,1462 @@
+"Metadata"
+{
+	"Language" "japanese"
+	"Namespace" "randomeel"
+}
+"Translation"
+{
+	"Asset"
+	{
+		"AssetReference"
+		{
+			"GUID"
+			{
+				"Name"
+				{
+					"Text" "アセットGUID"
+					"Version" "1"
+				}
+			}
+		}
+		"ContentReference"
+		{
+			"Name"
+			{
+				"Name"
+				{
+					"Text" "コンテンツ名"
+					"Version" "1"
+				}
+			}
+			"Path"
+			{
+				"Name"
+				{
+					"Text" "コンテンツパス"
+					"Version" "1"
+				}
+			}
+		}
+		"Asset"
+		{
+			"GUID"
+			{
+				"Name"
+				{
+					"Text" "GUID"
+					"Version" "1"
+				}
+				"Tooltip"
+				{
+					"Text" "128ビット ユニークID"
+					"Version" "1"
+				}
+			}
+			"ID"
+			{
+				"Name"
+				{
+					"Text" "ID"
+					"Version" "2"
+				}
+			}
+		}
+		"Item"
+		{
+			"Gun"
+			{
+				"Ammo_Min"
+				{
+					"Name"
+					{
+						"Text" "最小弾薬"
+						"Version" "1"
+					}
+				}
+				"Ammo_Max"
+				{
+					"Name"
+					{
+						"Text" "最大弾薬"
+						"Version" "1"
+					}
+				}
+			}
+		}
+		"Landscape"
+		{
+			"Material"
+			{
+				"Texture"
+				{
+					"Name"
+					{
+						"Text" "テクスチャ"
+						"Version" "1"
+					}
+				}
+				"Mask"
+				{
+					"Name"
+					{
+						"Text" "マスク"
+						"Version" "1"
+					}
+				}
+				"Physics_Material"
+				{
+					"Name"
+					{
+						"Text" "物理マテリアル"
+						"Version" "1"
+					}
+				}
+				"Auto_Ray_Mask"
+				{
+					"Text" "レイマスク"
+					"Version" "2"
+				}
+				"Auto_Ray_Radius"
+				{
+					"Text" "光線 半径"
+					"Version" "2"
+				}
+				"Auto_Max_Angle_End"
+				{
+					"Text" "最大角度 (終点)"
+					"Version" "2"
+				}
+				"Auto_Ray_Length"
+				{
+					"Text" "光線 長さ"
+					"Version" "1"
+				}
+				"Use_Auto_Foundation"
+				{
+					"Text" "起点の自動化"
+					"Version" "1"
+				}
+				"Auto_Max_Angle_Begin"
+				{
+					"Text" "最大角度 (始点)"
+					"Version" "1"
+				}
+				"Auto_Min_Angle_End"
+				{
+					"Text" "最小角度 (終点)"
+					"Version" "1"
+				}
+				"Auto_Min_Angle_Begin"
+				{
+					"Text" "最小角度 (始点)"
+					"Version" "1"
+				}
+				"Use_Auto_Slope"
+				{
+					"Text" "傾斜の自動化"
+					"Version" "1"
+				}
+			}
+			"Material_Set"
+			{
+				"Materials"
+				{
+					"Name"
+					{
+						"Text" "マテリアル"
+						"Version" "1"
+					}
+				}
+			}
+			"Foliage"
+			{
+				"Name"
+				{
+					"Text" "草木"
+					"Version" "1"
+				}
+			}
+		}
+		"Stereo_Song"
+		{
+			"Title"
+			{
+				"Name"
+				{
+					"Text" "タイトル"
+					"Version" "1"
+				}
+			}
+			"Song"
+			{
+				"Name"
+				{
+					"Text" "曲"
+					"Version" "1"
+				}
+			}
+		}
+	}
+	"Devkit"
+	{
+		"Landscape_Tool"
+		{
+			"Heightmap_Brush_Radius_Var"
+			{
+				"Text" "Heightmap_Brush_Radius をセット: {0}"
+				"Version" "1"
+			}
+			"Heightmap_Brush_Falloff_Var"
+			{
+				"Text" "Heightmap_Brush_Falloff をセット: {0}"
+				"Version" "1"
+			}
+			"Heightmap_Brush_Strength_Var"
+			{
+				"Text" "Heightmap_Brush_Strength をセット: {0}"
+				"Version" "1"
+			}
+			"Heightmap_Flatten_Target_Var"
+			{
+				"Text" "Heightmap_Flatten_Target をセット: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Radius_Var"
+			{
+				"Text" "Splatmap_Brush_Radius をセット: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Falloff_Var"
+			{
+				"Text" "Splatmap_Brush_Falloff をセット: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Brush_Strength_Var"
+			{
+				"Text" "Splatmap_Brush_Strength をセット: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Use_Weight_Target_Var"
+			{
+				"Text" "Splatmap_Use_Weight_Target をセット: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Weight_Target_Var"
+			{
+				"Text" "Splatmap_Weight_Target をセット: {0}"
+				"Version" "1"
+			}
+			"Splatmap_Layer_Target_Var"
+			{
+				"Text" "Splatmap_Layer_Target をセット: {0}"
+				"Version" "1"
+			}
+			"Heightmap"
+			{
+				"Brush"
+				{
+					"Radius"
+					{
+						"Text" "半径"
+						"Version" "1"
+					}
+					"Falloff"
+					{
+						"Text" "フォールオフ"
+						"Version" "1"
+					}
+					"Strength"
+					{
+						"Text" "強さ"
+						"Version" "1"
+					}
+				}
+				"Flatten_Target"
+				{
+					"Text" "ターゲットを平坦化"
+					"Version" "1"
+				}
+				"Max_Preview_Samples"
+				{
+					"Text" "最大プレビューサンプル"
+					"Version" "1"
+				}
+				"Smooth_Method"
+				{
+					"Text" "スムーズ化方法"
+					"Version" "1"
+				}
+			}
+			"Splatmap"
+			{
+				"Brush"
+				{
+					"Radius"
+					{
+						"Text" "半径"
+						"Version" "1"
+					}
+					"Falloff"
+					{
+						"Text" "フォールオフ"
+						"Version" "1"
+					}
+					"Strength"
+					{
+						"Text" "強さ"
+						"Version" "1"
+					}
+				}
+				"Use_Weight_Target"
+				{
+					"Text" "ウェイトターゲットを使用"
+					"Version" "1"
+				}
+				"Weight_Target"
+				{
+					"Text" "ウェイトターゲット"
+					"Version" "1"
+				}
+				"Max_Preview_Samples"
+				{
+					"Text" "最大プレビューサンプル"
+					"Version" "1"
+				}
+				"Smooth_Method"
+				{
+					"Text" "スムーズ化方法"
+					"Version" "1"
+				}
+				"Use_Auto_Slope"
+				{
+					"Text" "傾斜の自動化"
+					"Version" "1"
+				}
+				"Auto_Min_Angle_Begin"
+				{
+					"Text" "最小角度 (始点)"
+					"Version" "1"
+				}
+				"Auto_Min_Angle_End"
+				{
+					"Text" "最小角度 (終点)"
+					"Version" "1"
+				}
+				"Auto_Max_Angle_Begin"
+				{
+					"Text" "最大角度 (始点)"
+					"Version" "1"
+				}
+				"Auto_Max_Angle_End"
+				{
+					"Text" "最小角度 (終点)"
+					"Version" "1"
+				}
+				"Use_Auto_Foundation"
+				{
+					"Text" "起点の自動化"
+					"Version" "1"
+				}
+				"Auto_Ray_Radius"
+				{
+					"Text" "光線 半径"
+					"Version" "2"
+				}
+				"Auto_Ray_Length"
+				{
+					"Text" "光線 長さ"
+					"Version" "1"
+				}
+				"Auto_Ray_Mask"
+				{
+					"Text" "レイマスク"
+					"Version" "1"
+				}
+				"Preview_Method"
+				{
+					"Text" "プレビューモード"
+					"Version" "1"
+				}
+			}
+		}
+		"Toolbar"
+		{
+			"File"
+			{
+				"Exit"
+				{
+					"Text" "終了"
+					"Version" "1"
+				}
+			}
+			"Edit"
+			{
+				"Undo"
+				{
+					"Text" "元に戻す"
+					"Version" "1"
+				}
+				"Redo"
+				{
+					"Text" "やり直し"
+					"Version" "1"
+				}
+			}
+		}
+		"Transactions"
+		{
+			"Heightmap"
+			{
+				"Text" "ハイトマップ"
+				"Version" "1"
+			}
+			"Splatmap"
+			{
+				"Text" "スプラットマップ"
+				"Version" "1"
+			}
+			"Generic"
+			{
+				"Text" "変更"
+				"Version" "1"
+			}
+			"Field_Delta"
+			{
+				"Text" "\"{0}\" のフィールド \"{1}\" を \"{2}\" から \"{3}\" へ変更する"
+				"Version" "1"
+			}
+			"Property_Delta"
+			{
+				"Text" "\"{0}\" のプロパティ \"{1}\" を \"{2}\" から \"{3}\" へ変更する"
+				"Version" "1"
+			}
+			"Spawn"
+			{
+				"Text" "\"{0}\" をスポーン"
+				"Version" "1"
+			}
+			"Delete_Selection"
+			{
+				"Text" "選択中のアイテムを削除"
+				"Version" "1"
+			}
+			"Paste"
+			{
+				"Text" "貼り付け"
+				"Version" "1"
+			}
+			"Transform"
+			{
+				"Text" "変形"
+				"Version" "1"
+			}
+			"Translation"
+			{
+				"Text" "翻訳"
+				"Version" "1"
+			}
+		}
+		"Window"
+		{
+			"Asset_Browser"
+			{
+				"Title"
+				{
+					"Text" "アセット ブラウザ"
+					"Version" "1"
+				}
+			}
+			"Content_Browser"
+			{
+				"Title"
+				{
+					"Text" "コンテンツ ブラウザ"
+					"Version" "1"
+				}
+			}
+			"Foliage_Tool"
+			{
+				"Title"
+				{
+					"Text" "葉っぱツール"
+					"Version" "1"
+				}
+			}
+			"Hierarchy"
+			{
+				"Title"
+				{
+					"Text" "ヒエラルキー"
+					"Version" "1"
+				}
+			}
+			"Inspector"
+			{
+				"Title"
+				{
+					"Text" "インスペクター"
+					"Version" "1"
+				}
+				"Key"
+				{
+					"Text" "キー"
+					"Version" "1"
+				}
+				"Value"
+				{
+					"Text" "値"
+					"Version" "1"
+				}
+			}
+			"Layout"
+			{
+				"Title"
+				{
+					"Text" "レイアウト"
+					"Version" "1"
+				}
+				"Load"
+				{
+					"Text" "読み込み"
+					"Version" "1"
+				}
+				"Save"
+				{
+					"Text" "保存"
+					"Version" "1"
+				}
+			}
+			"Type_Browser"
+			{
+				"Title"
+				{
+					"Text" "タイプ ブラウザ"
+					"Version" "1"
+				}
+			}
+			"Save"
+			{
+				"Title"
+				{
+					"Text" "保存"
+					"Version" "1"
+				}
+				"Cancel"
+				{
+					"Text" "キャンセル"
+					"Version" "1"
+				}
+				"Submit"
+				{
+					"Text" "保存"
+					"Version" "1"
+				}
+			}
+			"Selection_Tool"
+			{
+				"Title"
+				{
+					"Text" "選択ツール"
+					"Version" "1"
+				}
+			}
+			"Landscape_Tool"
+			{
+				"Title"
+				{
+					"Text" "地形ツール"
+					"Version" "1"
+				}
+				"Heightmap_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "ハイトマップ [1]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "スプラットマップ [2]"
+						"Version" "1"
+					}
+				}
+				"Tile_Mode_Button"
+				{
+					"Label"
+					{
+						"Text" "タイル [3]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Adjust_Button"
+				{
+					"Label"
+					{
+						"Text" "合わせる [Q]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Flatten_Button"
+				{
+					"Label"
+					{
+						"Text" "平らにする [W]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Smooth_Button"
+				{
+					"Label"
+					{
+						"Text" "スムーズ [E]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Ramp_Button"
+				{
+					"Label"
+					{
+						"Text" "傾斜 [R]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Radius"
+				{
+					"Label"
+					{
+						"Text" "半径 [B]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Falloff"
+				{
+					"Label"
+					{
+						"Text" "減退 [F]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Brush_Strength"
+				{
+					"Label"
+					{
+						"Text" "強さ [V]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Flatten_Target"
+				{
+					"Label"
+					{
+						"Text" "ターゲットを平らに [Alt]"
+						"Version" "1"
+					}
+				}
+				"Heightmap_Smooth_Method"
+				{
+					"Label"
+					{
+						"Text" "スムーズ化方法"
+						"Version" "1"
+					}
+					"Brush_Average"
+					{
+						"Text" "ブラシ平均"
+						"Version" "1"
+					}
+					"Pixel_Average"
+					{
+						"Text" "ピクセル平均"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Radius"
+				{
+					"Label"
+					{
+						"Text" "範囲 [B]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Falloff"
+				{
+					"Label"
+					{
+						"Text" "減退 [F]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Brush_Strength"
+				{
+					"Label"
+					{
+						"Text" "強さ [V]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Use_Weight_Target"
+				{
+					"Label"
+					{
+						"Text" "ウェイトターゲットを使用 [Ctrl]"
+						"Version" "1"
+					}
+				}
+				"Splatmap_Weight_Target"
+				{
+					"Label"
+					{
+						"Text" "ウェイトターゲット [G]"
+						"Version" "1"
+					}
+				}
+				"Tile_Material_Set"
+				{
+					"Label"
+					{
+						"Text" "マテリアルセット"
+						"Version" "1"
+					}
+				}
+			}
+			"Transaction"
+			{
+				"Title"
+				{
+					"Text" "処理"
+					"Version" "1"
+				}
+				"Undo"
+				{
+					"Text" "元に戻す:"
+					"Version" "1"
+				}
+				"Redo"
+				{
+					"Text" "やり直し:"
+					"Version" "1"
+				}
+			}
+			"Translation"
+			{
+				"Title"
+				{
+					"Text" "翻訳"
+					"Version" "4"
+				}
+				"Edit_Origin"
+				{
+					"Text" "元の \"{0}\" を編集"
+					"Version" "3"
+				}
+				"Edit_Translation"
+				{
+					"Text" "翻訳 \"{0}\" を編集"
+					"Version" "2"
+				}
+				"Origin_Misses"
+				{
+					"Text" "元 \"{0}\" ミス"
+					"Version" "3"
+				}
+				"Origin_Translation_Delta"
+				{
+					"Text" "元 \"{0}\" -> 翻訳 \"{1}\" デルタ "
+					"Version" "2"
+				}
+				"Tree_Back"
+				{
+					"Text" "戻る"
+					"Version" "1"
+				}
+				"Tree_Add_Leaf"
+				{
+					"Text" "+リーフ"
+					"Version" "1"
+				}
+				"Tree_Add_Branch"
+				{
+					"Text" "+ブランチ"
+					"Version" "1"
+				}
+				"Clear_Misses"
+				{
+					"Text" "ミスをクリア"
+					"Version" "1"
+				}
+				"Refresh_Misses"
+				{
+					"Text" "ミスを更新"
+					"Version" "1"
+				}
+				"Refresh_Delta"
+				{
+					"Text" "デルタを更新"
+					"Version" "1"
+				}
+			}
+			"Load"
+			{
+				"Title"
+				{
+					"Text" "ロード"
+					"Version" "1"
+				}
+				"Cancel"
+				{
+					"Text" "キャンセル"
+					"Version" "1"
+				}
+				"Submit"
+				{
+					"Text" "ロード"
+					"Version" "1"
+				}
+			}
+			"File_Browser"
+			{
+				"Title"
+				{
+					"Text" "ファイルブラウザ"
+					"Version" "1"
+				}
+				"Cancel"
+				{
+					"Text" "キャンセル"
+					"Version" "1"
+				}
+				"Submit"
+				{
+					"Text" "選ぶ"
+					"Version" "1"
+				}
+			}
+			"UGC_Upload_Wizard"
+			{
+				"Title"
+				{
+					"Text" "UGC アップロードウィザード"
+					"Version" "1"
+				}
+				"Content_Path"
+				{
+					"Name"
+					{
+						"Text" "コンテンツのパス"
+						"Version" "1"
+					}
+				}
+				"Preview_Image_Path"
+				{
+					"Name"
+					{
+						"Text" "プレビューイメージのパス"
+						"Version" "1"
+					}
+				}
+				"Visibility"
+				{
+					"Name"
+					{
+						"Text" "公開範囲"
+						"Version" "1"
+					}
+				}
+				"Curated"
+				{
+					"Name"
+					{
+						"Text" "キュレーテッド"
+						"Version" "1"
+					}
+				}
+				"Legal"
+				{
+					"Label"
+					{
+						"Text" "法的合意"
+						"Version" "1"
+					}
+				}
+				"Upload"
+				{
+					"Label"
+					{
+						"Text" "新規作成"
+						"Version" "1"
+					}
+				}
+				"Item_Name"
+				{
+					"Name"
+					{
+						"Text" "アイテム名"
+						"Version" "1"
+					}
+				}
+				"Item_Desc"
+				{
+					"Name"
+					{
+						"Text" "アイテム詳細"
+						"Version" "1"
+					}
+				}
+				"Change_Note"
+				{
+					"Name"
+					{
+						"Text" "ノートを変更"
+						"Version" "1"
+					}
+				}
+				"Item_Type"
+				{
+					"Name"
+					{
+						"Text" "アイテムタイプ"
+						"Version" "1"
+					}
+				}
+				"Item_Tag"
+				{
+					"Name"
+					{
+						"Text" "アイテムタグ"
+						"Version" "1"
+					}
+				}
+			}
+				"UGC_Skin_Creator_Wizard"
+			{
+				"Title"
+				{
+					"Text" "スキン作成ウィザード"
+					"Version" "2"
+				}
+				"Item_ID"
+				{
+					"Name"
+					{
+						"Text" "アイテムID"
+						"Version" "1"
+					}
+				}
+				"Primary_Skin"
+				{
+					"Name"
+					{
+						"Text" "プライマリースキン"
+						"Version" "1"
+					}
+				}
+				"Albedo_Path"
+				{
+					"Name"
+					{
+						"Text" "Albedo パス"
+						"Version" "1"
+					}
+				}
+				"Metallic_Path"
+				{
+					"Name"
+					{
+						"Text" "Metallic パス"
+						"Version" "1"
+					}
+				}
+				"Emission_Path"
+				{
+					"Name"
+					{
+						"Text" "Emission パス"
+						"Version" "1"
+					}
+				}
+				"Secondary_Skins"
+				{
+					"Name"
+					{
+						"Text" "セカンダリスキン"
+						"Version" "1"
+					}
+				}
+				"Tertiary_Skin"
+				{
+					"Name"
+					{
+						"Text" "Tertiary スキン"
+						"Version" "1"
+					}
+				}
+				"Attachment_Skin"
+				{
+					"Name"
+					{
+						"Text" "Attachment スキン"
+						"Version" "1"
+					}
+				}
+				"Output_Path"
+				{
+					"Name"
+					{
+						"Text" "出力パス"
+						"Version" "1"
+					}
+				}
+				"Output"
+				{
+					"Label"
+					{
+						"Text" "エクスポート"
+						"Version" "2"
+					}
+				}
+			}
+			"UGC_Skin_Acceptor_Wizard"
+			{
+				"Title"
+				{
+					"Text" "スキン取り込みウィザード"
+					"Version" "1"
+				}
+				"Workshop_ID"
+				{
+					"Name"
+					{
+						"Text" "ワークショップID"
+						"Version" "1"
+					}
+				}
+				"Pattern_ID"
+				{
+					"Name"
+					{
+						"Text" "パターンID"
+						"Version" "1"
+					}
+				}
+				"Input"
+				{
+					"Label"
+					{
+						"Text" "インポート"
+						"Version" "1"
+					}
+				}
+				"Econ_Name"
+				{
+					"Name"
+					{
+						"Text" "エコノミー名"
+						"Version" "1"
+					}
+				}
+				"Econ_Desc"
+				{
+					"Name"
+					{
+						"Text" "エコノミー詳細"
+						"Version" "1"
+					}
+				}
+				"Econ_Type"
+				{
+					"Name"
+					{
+						"Text" "エコノミータイプ"
+						"Version" "1"
+					}
+				}
+				"Icon_Item_ID"
+				{
+					"Name"
+					{
+						"Text" "アイコン アイテムID"
+						"Version" "1"
+					}
+				}
+				"Icon_Skin_ID"
+				{
+					"Name"
+					{
+						"Text" "アイコン スキンID"
+						"Version" "1"
+					}
+				}
+				"Icon"
+				{
+					"Label"
+					{
+						"Text" "キャプチャアイコン"
+						"Version" "1"
+					}
+				}
+				"Icon_Econ_ID"
+				{
+					"Name"
+					{
+						"Text" "アイコン エコノミーID"
+						"Version" "1"
+					}
+				}
+			}
+			"Object_Browser"
+			{
+				"Title"
+				{
+					"Text" "オブジェクトブラウザ"
+					"Version" "1"
+				}
+			}
+			"Visibility"
+			{
+				"Title"
+				{
+					"Text" "可視範囲"
+					"Version" "1"
+				}
+			}
+		}
+		"Selection_Tool"
+		{
+			"Snap_Position"
+			{
+				"Text" "ポジションをスナップ"
+				"Version" "1"
+			}
+			"Snap_Rotation"
+			{
+				"Text" "回転をスナップ"
+				"Version" "1"
+			}
+			"Snap_Scale"
+			{
+				"Text" "倍率をスナップ"
+				"Version" "1"
+			}
+			"Surface_Offset"
+			{
+				"Text" "サーフェスのオフセット"
+				"Version" "1"
+			}
+			"Surface_Align"
+			{
+				"Text" "サーフェスの整列"
+				"Version" "1"
+			}
+			"Local_Space"
+			{
+				"Text" "ローカルスペース"
+				"Version" "1"
+			}
+			"Lock_Handles"
+			{
+				"Text" "ハンドルをロック"
+				"Version" "2"
+			}
+		}
+		"Foliage_Tool"
+		{
+			"Brush"
+			{
+				"Radius"
+				{
+					"Text" "半径"
+					"Version" "1"
+				}
+				"Falloff"
+				{
+					"Text" "フォールオフ"
+					"Version" "1"
+				}
+				"Strength"
+				{
+					"Text" "強さ"
+					"Version" "1"
+				}
+			}
+			"Density_Target"
+			{
+				"Text" "密度ターゲット"
+				"Version" "1"
+			}
+			"Max_Preview_Samples"
+			{
+				"Text" "最大プレビューサンプル"
+				"Version" "1"
+			}
+			"Surface_Mask"
+			{
+				"Text" "サーフェスマスク"
+				"Version" "1"
+			}
+			"Selection_Mask"
+			{
+				"Text" "選択範囲マスク"
+				"Version" "1"
+			}
+			"Bake"
+			{
+				"Instanced_Meshes"
+				{
+					"Text" "インスタンス化されたメッシュの生成"
+					"Version" "1"
+				}
+				"Resources"
+				{
+					"Text" "リソースの生成"
+					"Version" "1"
+				}
+				"Objects"
+				{
+					"Text" "オブジェクトの生成"
+					"Version" "1"
+				}
+				"Clear"
+				{
+					"Text" "生成されたアイテムをクリア"
+					"Version" "1"
+				}
+				"Apply_Scale"
+				{
+					"Text" "スケールを適用"
+					"Version" "1"
+				}
+			}
+		}
+		"Volumes"
+		{
+			"Kill"
+			{
+				"Players"
+				{
+					"Text" "キル (プレイヤー)"
+					"Version" "1"
+				}
+				"Zombies"
+				{
+					"Text" "キル (ゾンビ)"
+					"Version" "1"
+				}
+				"Animals"
+				{
+					"Text" "キル (動物)"
+					"Version" "1"
+				}
+				"Vehicles"
+				{
+					"Text" "キル (車両)"
+					"Version" "1"
+				}
+			}
+			"Death_Cause"
+			{
+				"Text" "死因"
+				"Version" "1"
+			}
+			"Ambiance"
+			{
+				"ID"
+				{
+					"Text" "ID"
+					"Version" "1"
+				}
+				"No_Water"
+				{
+					"Text" "水なし"
+					"Version" "1"
+				}
+				"No_Lighting"
+				{
+					"Text" "ライティングなし"
+					"Version" "1"
+				}
+				"Override_Fog"
+				{
+					"Text" "霧のオーバーライド"
+					"Version" "1"
+				}
+				"Fog_Color"
+				{
+					"Text" "霧の色"
+					"Version" "1"
+				}
+				"Fog_Height"
+				{
+					"Text" "霧の高さ"
+					"Version" "1"
+				}
+				"Can_Rain"
+				{
+					"Text" "雨の有無"
+					"Version" "1"
+				}
+				"Can_Snow"
+				{
+					"Text" "雪の有無"
+					"Version" "1"
+				}
+			}
+		}
+		"Water"
+		{
+			"Volume"
+			{
+				"Water_Type"
+				{
+					"Text" "水の種類"
+					"Version" "1"
+				}
+				"Is_Surface_Visible"
+				{
+					"Text" "表面が可視可能"
+					"Version" "1"
+				}
+				"Is_Reflection_Visible"
+				{
+					"Text" "反射が可視可能"
+					"Version" "1"
+				}
+				"Is_Sea_Level"
+				{
+					"Text" "海面か"
+					"Version" "1"
+				}
+			}
+		}
+		"Visibility"
+		{
+			"Group"
+			{
+				"Base"
+				{
+					"Internal_Name"
+					{
+						"Text" "内部名"
+						"Version" "1"
+					}
+					"Display_Name"
+					{
+						"Text" "表示名"
+						"Version" "1"
+					}
+					"Is_Visible"
+					{
+						"Text" "可視可能"
+						"Version" "1"
+					}
+				}
+				"Volume"
+				{
+					"Is_Wireframe_Visible"
+					{
+						"Text" "ワイヤーフレームが可視可能"
+						"Version" "1"
+					}
+					"Wireframe_Color"
+					{
+						"Text" "ワイヤーフレームの色"
+						"Version" "1"
+					}
+					"Wireframe_Depth"
+					{
+						"Text" "ワイヤーフレームの深さ"
+						"Version" "1"
+					}
+					"Is_Surface_Visible"
+					{
+						"Text" "表面が可視可能"
+						"Version" "1"
+					}
+					"Surface_Color"
+					{
+						"Text" "表面の色"
+						"Version" "1"
+					}
+					"Surface_Depth"
+					{
+						"Text" "表面の深さ"
+						"Version" "1"
+					}
+				}
+			}
+			"Foliage_Instanced_Meshes"
+			{
+				"Text" "草木のインスタンスメッシュ"
+				"Version" "1"
+			}
+			"Decal_Volumes"
+			{
+				"Text" "デカールのボリューム"
+				"Version" "1"
+			}
+			"Water_Volumes"
+			{
+				"Text" "水のボリューム"
+				"Version" "1"
+			}
+			"Landscape_Hole_Volumes"
+			{
+				"Text" "地面の穴のボリューム"
+				"Version" "1"
+			}
+			"Player_Clip_Volumes"
+			{
+				"Text" "プレイヤークリップのボリューム"
+				"Version" "1"
+			}
+			"Foliage_Volumes"
+			{
+				"Text" "草木のボリューム"
+				"Version" "1"
+			}
+			"Kill_Volumes"
+			{
+				"Text" "キルゾーンのボリューム"
+				"Version" "1"
+			}
+			"Spawnpoints"
+			{
+				"Text" "スポーンポイント"
+				"Version" "1"
+			}
+			"Effect_Volumes"
+			{
+				"Text" "エフェクトのボリューム"
+				"Version" "1"
+			}
+			"Nav_Clip_Volumes"
+			{
+				"Text" "Nav Clip Volumes"
+				"Version" "1"
+			}
+			"Ambiance_Volumes"
+			{
+				"Text" "アンビエンスのボリューム"
+				"Version" "1"
+			}
+			"Deadzone_Volumes"
+			{
+				"Text" "死の地帯のボリューム"
+				"Version" "1"
+			}
+		}
+	}
+	"Stereo_Songs"
+	{
+		"Unturned_Theme"
+		{
+			"Title"
+			{
+				"Text" "Unturned Theme"
+				"Version" "1"
+			}
+		}
+	}
+}

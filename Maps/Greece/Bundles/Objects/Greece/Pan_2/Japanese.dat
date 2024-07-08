@@ -1,0 +1,4 @@
+Name Pans #3
+
+//Interactability_Condition_0 Not Carrying any dishes.
+Interact Collect Large Pan[{0}]

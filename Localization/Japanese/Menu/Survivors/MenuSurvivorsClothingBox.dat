@@ -1,0 +1,25 @@
+Key_Text キー
+Key_Tooltip クリックしてストアページへ
+
+Unbox_Text 箱を開ける
+Unbox_Tooltip キーを使用します
+
+Unwrap_Text 包装を解く
+Unwrap_Tooltip 箱の包装を解きます
+
+Origin_Unbox 箱からアイテムを手に入れました！
+Origin_Unwrap 包装されていたアイテムを手に入れました！
+
+Region_Disabled {0}の地域では、開封が無効になっています。
+
+Overlay Steamオーバーレイを有効にする必要があります。 
+Exchange_Timed_Out Steam アイテムサーバーからの応答がありません。 更新時にアイテムが追加されます｡
+Exchange_Missing_Assets Unknown asset. アップデートすると、アイテムがインベントリに表示されるようになります。いつもと違うシナリオで申し訳ありません。
+Exchange_Not_In_Drops アイテムはボックスのアイテムリストにはありませんでしたが、更新されるとインベントリに入ります。いつもと違うシナリオで申し訳ありません。
+
+Rarity_Rare レア 出現確率: {0}%
+Rarity_Epic エピック 出現確率: {0}% 
+Rarity_Legendary レジェンダリ 出現確率: {0}%
+Rarity_Mythical ミシカル 出現確率: {0}%
+Rarity_Equalized Item Chances: 均等化
+Rarity_Bonus_Items Bonus Item Chance: {0}%

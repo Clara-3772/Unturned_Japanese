@@ -1,0 +1,4 @@
+Name 港の探索!
+Description <color=uncommon>スチュアート少尉</color>はとある場所を調べてみたいと言う｡ その場所とは Aouli Harbor だ。 大体の場合は多少のゾンビを倒し、他に何か災害が起きるかどうか調べるだけの仕事だ!
+
+Condition_0 Aouli Harbor の　<color=legendary>ホードビーコン</color> をクリアする {0}/{1}

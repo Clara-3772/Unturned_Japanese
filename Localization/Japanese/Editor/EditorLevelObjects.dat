@@ -1,0 +1,32 @@
+SelectionBoxLabelText 選択中:
+Search_Field_Hint オブジェクト名で検索
+Search 検索
+Search_Tooltip 検索
+
+SnapTransformLabelText 移動スナップ基準 [Ctrl+操作]
+SnapRotationLabelText 回転スナップ基準 [Ctrl+操作]
+
+LargeLabel 大きい
+MediumLabel 普通
+SmallLabel 小さい
+BarricadesLabel バリケード
+StructuresLabel 構造物
+NPCsLabel NPC
+
+TransformButtonText 移動 [{0}]
+TransformButtonTooltip 移動
+
+RotateButtonText 回転 [{0}]
+RotateButtonTooltip 回転
+
+ScaleButtonText 倍率 [{0}]
+ScaleButtonTooltip 倍率
+
+CoordinateButtonTextGlobal グローバル
+CoordinateButtonTextLocal ローカル
+CoordinateButtonTooltip 座標
+
+MaterialPaletteOverride_Label Material Palette GUID
+MaterialPaletteOverride_Tooltip Overrides asset's default material palette.
+MaterialIndexOverride_Label Material Index
+MaterialIndexOverride_Tooltip Overrides random index into material palette.

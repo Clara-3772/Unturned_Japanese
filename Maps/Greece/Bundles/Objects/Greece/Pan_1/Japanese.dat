@@ -1,0 +1,4 @@
+Name Pans #2
+
+//Interactability_Condition_0 Not Carrying any dishes.
+Interact Collect Sauce Pan[{0}]

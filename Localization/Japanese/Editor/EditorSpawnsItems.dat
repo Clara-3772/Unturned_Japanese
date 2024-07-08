@@ -1,0 +1,29 @@
+TableNameFieldLabelText 出現テーブル
+AddTableButtonText 追加
+AddTableButtonTooltip テーブルの作成
+RemoveTableButtonText 削除
+RemoveTableButtonTooltip テーブルの削除
+
+SelectionBoxLabelText 選択中:
+
+TableIDFieldLabelText スポーンID
+
+TierNameFieldLabelText 出現レベル(Tier)
+AddTierButtonText 追加
+AddTierButtonTooltip レベル追加
+RemoveTierButtonText 削除
+RemoveTierButtonTooltip レベル削除
+
+ItemIDFieldLabelText ID (アイテム)
+AddItemButtonText 追加
+AddItemButtonTooltip アイテム追加
+RemoveItemButtonText 削除
+RemoveItemButtonTooltip アイテム削除
+
+RadiusSliderLabelText 半径
+
+AddButtonText 追加 [{0}]
+AddButtonTooltip ポイント作成
+
+RemoveButtonText 削除 [{0}]
+RemoveButtonTooltip ポイント削除

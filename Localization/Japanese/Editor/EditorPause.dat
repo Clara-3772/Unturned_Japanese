@@ -1,0 +1,16 @@
+Save_Button 保存
+Save_Button_Tooltip 保存
+
+Map_Button 衛星写真生成
+Map_Button_Tooltip GPS用の画像を生成する
+
+Chart_Button 地図生成
+Chart_Button_Tooltip 地図を生成する
+
+Legacy_Spawns スポーン (旧)
+Legacy_Spawns_Tooltip 出現テーブル(旧) を生成
+Proxy_Spawns スポーン (プロクシ)
+Proxy_Spawns_Tooltip 出現テーブル(プロクシ) を生成
+
+Exit_Button 終了
+Exit_Button_Tooltip メインメニューに戻る

@@ -1,0 +1,4 @@
+Name 再補給 I
+Description <color=epic>ダフニー</color> は緑の輸送コンテナに入っている大きな肥料バッグの移動を手伝ってほしいそうだ｡
+
+Condition_0 肥料を運ぶ {0}/{1}

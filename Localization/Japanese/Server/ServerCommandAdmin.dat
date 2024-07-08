@@ -1,0 +1,8 @@
+NoPlayerErrorText {0}というユーザーが見つかりませんでした。
+NotRunningErrorText Failed to admin player while not running.
+
+AdminCommandText Admin
+AdminInfoText Admin [SteamID | Player]	
+AdminHelpText 管理者コマンドを使用できるユーザーのリストに指定したプレーヤーを追加します。
+
+AdminText {0}を管理者にできました!

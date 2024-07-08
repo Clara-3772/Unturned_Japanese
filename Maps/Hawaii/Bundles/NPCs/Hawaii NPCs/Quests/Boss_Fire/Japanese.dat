@@ -1,0 +1,4 @@
+Name <color=mythical>普段より暑いのは自分だけ?</color>
+Description <color=legendary>バーロウ司令官</color> の部隊が物資輸送のため空港を通る途中、ドラゴン…<br> ではなく火を噴くゾンビと遭遇したらしい｡ 彼はそのゾンビをどうにかして欲しいらしい｡ 火は危ないから!
+
+Condition_0 <color=mythical>火を噴くボス</color> を倒す　{0}/{1}

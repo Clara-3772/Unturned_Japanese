@@ -1,0 +1,16 @@
+Intent_Delete 本当に "{0}" を削除してもよろしいですか?
+Intent_Salvage 本当に "{0}" をサルベージしてもよろしいですか?
+Intent_Tag_Tool 本当に "{0}" を "{1}" に使用してもよろしいですか?
+Warning 元に戻すことは出来ません!
+Warning_UndoableWithTool If you change your mind it can be removed using a removal tool.
+Confirm "{0}" と入力して確認:
+Delete 削除
+Salvage サルベージ
+Quantity 任意の量の {0} 合計です:
+
+Yes はい
+Yes_Delete_Tooltip 恒久的にアイテムを削除
+Yes_Salvage_Tooltip アイテムを分解
+Yes_Tag_Tool_Tooltip 恒久的にアイテムを装備
+No いいえ
+No_Tooltip アイテムを保持

@@ -1,0 +1,4 @@
+Name Resupply I
+Description <color=uncommon>Farmer Pan</color> needs help carrying the large bags of fertilizer in from the supply depot.
+
+Condition_0 肥料を運ぶ {0}/{1}

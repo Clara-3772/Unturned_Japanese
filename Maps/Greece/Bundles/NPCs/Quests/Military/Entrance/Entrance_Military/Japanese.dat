@@ -1,0 +1,6 @@
+Name Hellenic Forces Right of Passage
+Description To join the Hellenic forces you'll have to prove your worth. A simple task, but seperates the strong from the weak. Find a spare uniform and gain some field experience.
+
+Condition_0 ユニフォームのシャツを探す {0}/{1}
+Condition_1 ユニフォームのズボンを探す {0}/{1}
+Condition_2 経験を積む {0}/{1}
