@@ -7,12 +7,12 @@ Zoom_Out_Button_Tooltip マップの縮尺を小さくする
 Center_Button 現在地
 Center_Button_Tooltip プレイヤーの位置を中心に表示する
 
-ShowMarkersToggle_Label Show Markers
-ShowMarkersToggle_Tooltip Toggle visibility of markers placed on the map.
-ShowPlayerNamesToggle_Label Show Player Names
-ShowPlayerNamesToggle_Tooltip Toggle visibility of other players' names.
-ShowPlayerAvatarsToggle_Label Show Player Avatars
-ShowPlayerAvatarsToggle_Tooltip Toggle visibility of other players' avatars.
+ShowMarkersToggle_Label マーカーを表示
+ShowMarkersToggle_Tooltip マップに置かれたマーカーの表示を切り替えます。
+ShowPlayerNamesToggle_Label プレイヤーネームを表示
+ShowPlayerNamesToggle_Tooltip 他プレイヤーの名前の表示を切り替えます。
+ShowPlayerAvatarsToggle_Label プレイヤーアバターの表示
+ShowPlayerAvatarsToggle_Tooltip 他プレイヤーのアバターの表示を切り替えます。
 
 Chart 地図
 Satellite 衛星写真
@@ -57,10 +57,10 @@ Group_Rank_Admin 管理者
 Group_Rank_Owner オーナー
 
 Streamer プレイヤー名非表示 (配信者モード)
-MuteVoiceChat_Label Mute Voice
-UnmuteVoiceChat_Label Unmute Voice
-MuteTextChat_Label Mute Chat
-UnmuteTextChat_Label Unmute Chat
+MuteVoiceChat_Label ボイスをミュート
+UnmuteVoiceChat_Label ボイスのミュートを解除
+MuteTextChat_Label チャットをミュート
+UnmuteTextChat_Label チャットのミュートを解除
 Mute_Tooltip Mute/Unmute
 Mute_On ミュート
 Mute_Off ミュート解除
