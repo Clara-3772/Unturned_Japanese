@@ -1,4 +1,4 @@
-Sensitivity_Field_Label マウス感度  [{0}]
+Sensitivity_Field_Label マウス感度
 Invert_Toggle_Label 上下の反転
 Invert_Flight_Toggle_Label 上下の反転(飛行時)
 Aiming_Label サイト覗き込み
@@ -7,15 +7,15 @@ Proning_Label 伏せ
 Sprinting_Label 走り
 Leaning_Label リーン(左右覗き込み)
 
-SensitivityScalingMode_Label Sensitivity Scaling Mode
+SensitivityScalingMode_Label 感度スケーリングモード
 SensitivityScalingMode_ProjectionRatio Focal Length
 SensitivityScalingMode_ProjectionRatio_Tooltip Scale by ratio between active FOV projected onto screen and configured FOV projected onto screen.
-SensitivityScalingMode_ZoomFactor Zoom Factor
-SensitivityScalingMode_ZoomFactor_Tooltip Multiply sensitivity according to scope/optic zoom. For example an 8x zoom has 1/8th sensitivity.
+SensitivityScalingMode_ZoomFactor ズーム倍率
+SensitivityScalingMode_ZoomFactor_Tooltip スコープ/光学ズームに応じて感度を掛ける。例えば8倍ズームは1/8の感度。SensitivityScalingMode_Legacy Legacy
 SensitivityScalingMode_Legacy Legacy
-SensitivityScalingMode_Legacy_Tooltip Preserve how sensitivity felt prior to 3.22.8.0 update.
+SensitivityScalingMode_Legacy_Tooltip 3.22.8.0アップデート前の感度を維持。
 SensitivityScalingMode_None Disabled
-SensitivityScalingMode_None_Tooltip Sensitivity is unmodified while aiming. Not recommended.
+SensitivityScalingMode_None_Tooltip 照準中の感度はそのまま。お勧めしない。
 
 ProjectionRatioCoefficient_Label Projection Ratio Coefficient
 ProjectionRatioCoefficient_Tooltip Multiplier for "Focal Length" sensitivity scaling.
@@ -31,13 +31,13 @@ Layout_4 コミュニケーション
 Layout_5 インターフェイス
 Layout_6 車両
 Layout_7 エディタ
-Layout_8 モッド/プラグイン
+Layout_8 Mod/プラグイン
 Layout_9 ホットバー
 
 Key_0_Button 左 [{0}]
 Key_1_Button 右 [{0}]
-Key_2_Button 上 [{0}]
-Key_3_Button 下 [{0}]
+Key_2_Button 前 [{0}]
+Key_3_Button 後 [{0}]
 Key_4_Button ジャンプ [{0}]
 Key_5_Button リーン (左) [{0}]
 Key_6_Button リーン (右) [{0}]

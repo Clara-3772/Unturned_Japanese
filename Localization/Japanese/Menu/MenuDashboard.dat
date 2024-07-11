@@ -21,13 +21,13 @@ ReadMore_Link_Off [ 閉じる ]
 Featured_Workshop_Link ワークショップのアイテムを見る
 Featured_Workshop_Sub 登録
 Featured_Workshop_Unsub 登録解除
-Subscribe_Tooltip Subscribe to {0}
-Unsubscribe_Tooltip Unsubscribe from {0}
+Subscribe_Tooltip {0} を登録します
+Unsubscribe_Tooltip {0} の登録を解除します
 Featured_Workshop_Stockpile_Link Stockpileで {0} を見る
 News_Author {0} - {1}
 News_Comments_Link コメントを見る
 
-Banned サーバーから追放されました。 {0} 理由: {1}
+Banned サーバーから追放されました。{0} 理由: {1}
 Kicked サーバーからキックされました。 理由: {0}
 Whitelisted ホワイトリストに追加されていません。 
 Password パスワードが間違っています。 
@@ -70,7 +70,7 @@ Auth_No_User アカウントと接続されていません。
 # https://support.smartlydressedgames.com/hc/en-us/articles/12233962470548
 Auth_Pub_Ban マルチプレイヤーサーバーから追放されました。(Public ban)
 
-Auth_Network_Identity_Failure Failed to authenticate because server Steam ID has changed. It may have been restarted or the Game Server Login Token may have changed. Refreshing the server list should fix this.
+Auth_Network_Identity_Failure サーバーのSteam IDが変更されたため、認証に失敗しました。サーバーが再起動されたか、Game Server Login Tokenが変更された可能性があります。サーバーリストを更新すると解決します。
 
 Auth_Econ_Serialize Steamエコノミー チケットのシリアル化に失敗しました｡
 Auth_Econ_Deserialize Steamエコノミー チケットのシリアル複合化に失敗しました｡
@@ -136,7 +136,7 @@ Master_Bundle_Hash アセットバンドルエラー: {0}
 Failure_Unknown 不明な不具合: {0} 理由: {1}
 Reject_Unknown 理由は不明だが拒否された: {0}
 Workshop_Download_Restriction サーバーは、{0} 制作者からコンテンツの使用を許可されていませんでした。
-Workshop_Advertisement_Mismatch Server was listed without workshop items, but requested workshop downloads.
+Workshop_Advertisement_Mismatch サーバーはワークショップのアイテムなしで表示されましたが、ワークショップのダウンロードを要求しました。
 
 # https://support.smartlydressedgames.com/hc/en-us/articles/12234373472660
 Late_Pending_Steam_Auth ゲームサーバーがSteam認証サーバーからの応答を受信しなかった。
@@ -161,23 +161,23 @@ Server_MaxPlayers_Advertisement_Mismatch Server advertised a different max playe
 Server_CameraMode_Advertisement_Mismatch Server advertised a different camera mode than what it is currently set to.
 Server_PvP_Advertisement_Mismatch Server advertised a different PvP or PvE combat mode than what it is currently set to.
 
-SteamNetworkingSockets_Unavailable_CannotTry Steamネットワーク認証の初期化ができない。
+SteamNetworkingSockets_Unavailable_CannotTry Steamネットワーク認証の初期化ができません。
 SteamNetworkingSockets_Unavailable_Failed Steamネットワーク認証の初期化に失敗しました。
-SteamNetworkingSockets_Unavailable_Previously Steamネットワーク認証の初期化が一時的にできない。
+SteamNetworkingSockets_Unavailable_Previously Steamネットワーク認証の初期化が一時的にできません。
 SteamNetworkingSockets_EndReason_App_1001 プレイヤーのスロット、キューのスロット、保留中の接続のスロットがすべて満杯です。
 SteamNetworkingSockets_EndReason_App_1002 サーバーが停止している状態です。
 SteamNetworkingSockets_EndReason_App_Unknown ゲームが原因不明の接続終了: {0}
-SteamNetworkingSockets_EndReason_AppException_Generic ゲームは異常な形で接続を終了した。
-SteamNetworkingSockets_EndReason_AppException_Unknown 不明な理由でゲームの接続が終了した: {0}
-SteamNetworkingSockets_EndReason_Local_OfflineMode オフラインモードで実行中に接続できない。
+SteamNetworkingSockets_EndReason_AppException_Generic ゲームは異常な形で接続を終了しました。
+SteamNetworkingSockets_EndReason_AppException_Unknown 不明な理由でゲームの接続が終了しました: {0}
+SteamNetworkingSockets_EndReason_Local_OfflineMode オフラインモードで実行中に接続できません。
 SteamNetworkingSockets_EndReason_Local_RelayConnectivity Steamリレーネットワークへの接続ができません。
 SteamNetworkingSockets_EndReason_Local_NetworkConfig Steamのネットワーク設定を取得できませんでした。
 SteamNetworkingSockets_EndReason_Local_Rights 権限が不足しているため、Steamに拒否されました。
 SteamNetworkingSockets_EndReason_Local_Unknown 不明なローカル接続エラー: {0}
 SteamNetworkingSockets_EndReason_Remote_Timeout ホストとの接続が切れました。
-SteamNetworkingSockets_EndReason_Remote_BadCrypt ホストとの暗号化の確立ができない。
+SteamNetworkingSockets_EndReason_Remote_BadCrypt ホストとの暗号化の確立ができません。
 SteamNetworkingSockets_EndReason_Remote_BadCert ホストの暗号化証明書を信頼できません。
-SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion ホストが別のSteamネットワークプロトコルを実行している。
+SteamNetworkingSockets_EndReason_Remote_BadProtocolVersion ホストが別のSteamネットワークプロトコルを実行しています。
 SteamNetworkingSockets_EndReason_Remote_Unknown 不明なリモート接続エラー: {0}
 SteamNetworkingSockets_EndReason_Misc_InternalError スチームネットワークの内部エラー.
 
@@ -200,11 +200,11 @@ Pro_Button_Tooltip Steamストアページ を開く
 BattlEye_Header 警告: BattlEye 無効
 BattlEye_Body BattlEye アンチチートが実行されていないため、BattlEyeに保護されたサーバーへ参加できません。 BattlEyeをアンインストールまたはインストールをしなかった場合、 Unturned/BattlEye フォルダにある Install_BattlEye.bat を実行することによって再インストールが可能です｡
 
-UpdateAvailable An update to version {0} is available! If you have automatic updates enabled it will download and install after you close the game.
+UpdateAvailable バージョン {0} へのアップデートが利用可能です！自動アップデートを有効にしている場合、ゲームを閉じた後にダウンロードとインストールが行われます。
 RollbackAvailable Sorry for the hassle, but a rollback to version {0} has been detected. Usually this means a game-breaking bug has been found and some time is needed to properly fix it.<br>If you have automatic updates enabled it will download and install after you close the game. Apologies again - precautions will be taken to avoid the same problem in the future!
 
 Overlay Steamオーバーレイを有効にする必要があります。 
 Dismiss_Notification_Label 確認
 Dismiss_Notification_Tooltip 通知を解除します。
-Copy_Notification_Label Copy to Clipboard
-Copy_Notification_Tooltip Copy message to system clipboard.
+Copy_Notification_Label コピーする
+Copy_Notification_Tooltip メッセージをクリップボードにコピーする。

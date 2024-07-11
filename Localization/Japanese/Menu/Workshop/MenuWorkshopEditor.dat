@@ -15,7 +15,7 @@ Edit_Button_Tooltip 選択しているマップを編集
 Edit2_Button エディタで開く (Devkit)
 Edit2_Button_Tooltip 開発中の Devkit を使用する
 
-BrowseFiles_Label Browse Files
+BrowseFiles_Label ファイルを閲覧
 
 Tiny とても小さい
 Small 小さい

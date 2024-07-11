@@ -1,8 +1,8 @@
-Ambient_Occlusion_Label 環境遮蔽
+Ambient_Occlusion_Label SSAO
 Ambient_Occlusion_Tooltip 角や接点付近にソフトな陰影を付けます。
 Bloom_Toggle_Label ブルーム効果
 Bloom_Tooltip 明るい光の周りにある光の輪をぼかします。
-Chromatic_Aberration_Toggle_Label クロマチック収差
+Chromatic_Aberration_Toggle_Label 色収差
 Chromatic_Aberration_Tooltip レンズの不完全さはスクリーンショットには有効かもしれません。
 Film_Grain_Toggle_Label フィルムグレイン
 Film_Grain_Tooltip 微妙な視覚ノイズを加えて、カラーバンディングを軽減する。
@@ -11,15 +11,15 @@ Blend_Toggle_Label 地域の境界色をブレンド
 Blend_Tooltip 基本的なリニアブレンドではなく、マテリアルごとのハイトマップに従って地形のテクスチャをブレンドします。
 Fog_Toggle_Label 霧の表示
 Nice_Foliage_Toggle_Label 草木のアニメーション
-Grass_Displacement_Toggle_Label 草の変位
-Grass_Displacement_Tooltip プレイヤーの足を中心とした基本的な頂点変位。
+Grass_Displacement_Toggle_Label 草の変形
+Grass_Displacement_Tooltip プレイヤーの足を中心として草が曲がる。
 Foliage_Focus_Toggle_Label スコープ内の草木
-Foliage_Focus_Tooltip 拡大した状態でフォーカルポイントの周囲に葉を流す。
+Foliage_Focus_Tooltip スコープ内に草を描画するかどうか。。
 Ragdolls_Toggle_Label ラグドール(死亡アニメーション)
-Ragdolls_Tooltip エンティティの死体を物理的にシミュレートします。
+Ragdolls_Tooltip 死体を物理的にシミュレートします。
 Debris_Toggle_Label デブリ
-Debris_Tooltip オブジェクトが破壊されたときのデブリの物理をシミュレートします。
-Blast_Toggle_Label ブラストマーク
+Debris_Tooltip ものが破壊されたときのデブリの物理をシミュレートします。
+Blast_Toggle_Label 爆発跡
 Blast_Toggle_Tooltip 爆発時に3Dデカールを生成します。パフォーマンスは、画面上で重なっているピクセルの数に影響されます。
 Puddle_Toggle_Label 水溜り
 Puddle_Tooltip 雨粒の水たまりや波紋の効果。
@@ -30,11 +30,11 @@ Triplanar_Tooltip 1ピクセルあたり1つのテクスチャではなく、3�
 Skybox_Reflection_Label スカイボックス反射
 Skybox_Reflection_Tooltip ダイナミックな空背景をキューブマップに描画し、環境光と反射を実現。
 Item_Icon_Anti_Aliasing_Label アイテム アイコン アンチ エイリアス
-Item_Icon_Anti_Aliasing_Tooltip インベントリアイコンのピクセルエッジのギザギザを防止します。
+Item_Icon_Anti_Aliasing_Tooltip インベントリアイコンがギザギザするのを防止します。
 
-Far_Clip_Slider_Label Max Draw Distance [{0}%]
-Distance_Slider_Label 付近 描画距離 [{0}%]
-Landmark_Slider_Label 遠距離の建物 描画距離 [{0}%]
+Far_Clip_Slider_Label 最大描画距離 [{0}%]
+Distance_Slider_Label 付近の描画距離 [{0}%]
+Landmark_Slider_Label ランドマークの描画距離 [{0}%]
 
 Anti_Aliasing_Button_Label アンチエイリアス
 Anti_Aliasing_Button_Tooltip ピクセルのギザギザを減少させます。
@@ -64,7 +64,7 @@ Wind_Button_Label 風エフェクトの品質
 Wind_Button_Tooltip 風の計算の細かさを変更します｡ 低 より高い場合エフェクトが強くなります。
 Tree_Mode_Button_Label 木の品質 [再起動必須]
 Tree_Mode_Button_Tooltip 使用する木のモデルを変更します｡ クライアントの再起動が必要です｡
-Render_Mode_Button_Label レンダーモード
+Render_Mode_Button_Label 描画モード
 Render_Mode_Button_Tooltip フォワード は古いビデオカードを使用している場合 パフォーマンスが向上するかもしれません｡ デファード はデカールや反射をサポートします。
 Landmark_Button_Label ランドマーク
 Landmark_Button_Tooltip 遠景用の低ディティールモデルの表示設定を変更します。
@@ -96,9 +96,9 @@ AF_Disabled 無効
 AF_Per_Texture テクスチャ毎
 AF_Forced_On 強制的に有効
 
-TM_Legacy 古い木のモデル [旧式]
-TM_SpeedTree_Fade_None 新しい木のモデル - ブレンディング オフ
-TM_SpeedTree_Fade_SpeedTree 新しい木のモデル - ブレンディング オン
+TM_Legacy 標準モデル
+TM_SpeedTree_Fade_None SpeedTrees
+TM_SpeedTree_Fade_SpeedTree Ultra SpeedTrees
 
 Forward フォワード [旧方式]
 Deferred デファード [推奨]

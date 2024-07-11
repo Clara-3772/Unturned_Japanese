@@ -1,5 +1,5 @@
 FOV_Slider_LabelV2_Name 視野の広さ
-FOV_Slider_LabelV2_Value 画角 (FOV) [{0}°]
+FOV_Slider_LabelV2_Value 視野角 (FOV) [{0}°]
 Debug_Toggle_Label FPS/レイテンシ表示
 Splashscreen_Toggle_Label 起動時のスプラッシュスクリーン
 Timer_Toggle_Label アリーナのタイマー警告
@@ -7,28 +7,28 @@ Physics_Toggle_Label 物理シミュレーション
 Gore_Toggle_Label 血痕の表示
 
 Filter_Toggle_Label 暴言フィルタを使用 [英語のみ]
-Filter_Toggle_Tooltip Note: hate speech is censored regardless of whether profanity filter is enabled.
+Filter_Toggle_Tooltip Note: ヘイトスピーチは、冒涜フィルターが有効になっているかどうかに関係なく検閲されます。
 
 Chat_Text_Toggle_Label テキストチャットを使用
 Chat_Voice_In_Toggle_Label 他人のボイスチャット音声
 Chat_Voice_Out_Toggle_Label 自分のボイスチャット音声
-VoiceAlwaysRecording_Label Keep Microphone Ready
+VoiceAlwaysRecording_Label 常時マイクオン
 VoiceAlwaysRecording_Tooltip Avoid hitches related to starting and stopping recording by muting rather than stopping.
 Hints_Toggle_Label ヒントを表示
 Streamer_Toggle_Label 配信者モード
 Featured_Workshop_Toggle_Label ワークショップ特集の表示
 Show_Hotbar_Toggle_Label ホットバーの表示
-Pause_When_Unfocused_Label Alt-Tabbing中の一時停止
-Nametag_Fade_Out_Label Fade Out Name Tags
-Nametag_Fade_Out_Tooltip Makes group member name labels more transparent near the center of your crosshair.
-ScreenshotSizeMultiplier_Label Screenshot Resolution Multiplier
-ScreenshotSizeMultiplier_Tooltip Higher values take significantly longer to render.
-ScreenshotSupersampling_Label Enable Screenshot Supersampling
-ScreenshotSupersampling_Tooltip Render screenshots with 2x supersampling to reduce aliasing.
-ScreenshotsWhileLoading_Label Show Screenshots on Loading Screen
-ScreenshotsWhileLoading_Tooltip Enable your own screenshots on the startup loading screen.
+Pause_When_Unfocused_Label バックグラウンド時の一時停止
+Nametag_Fade_Out_Label ネームタグのフェードアウト
+Nametag_Fade_Out_Tooltip グループメンバーのネームタグを画面中央付近で透明にします。
+ScreenshotSizeMultiplier_Label スクリーンショットの解像度倍率
+ScreenshotSizeMultiplier_Tooltip 値が大きいほど、レンダリングにかなり時間がかかります。
+ScreenshotSupersampling_Label スクリーンショットのSSAA
+ScreenshotSupersampling_Tooltip Render スクリーンショットを2xSSAAで描画し、エイリアシングを低減します。
+ScreenshotsWhileLoading_Label ロード画面にスクリーンショットを表示
+ScreenshotsWhileLoading_Tooltip 起動時のロード画面で、スクリーンショットを表示することができます。
 
-UseStaticCrosshair_Label Enable Custom Sized Crosshair
+UseStaticCrosshair_Label カスタムサイズのクロスヘアを有効にする
 UseStaticCrosshair_Tooltip Use custom crosshair size rather than size calculated from spread.
 StaticCrosshairSize_Label Custom Crosshair Size
 CrosshairShape_Line Line
@@ -38,29 +38,29 @@ CrosshairShape_Label Crosshair Shape
 Metric_On メートル (メートル法 )
 Metric_Off マイル (ヤードポンド法 )
 Metric_Tooltip 速度/重量単位
-Metric_Label Unit System
+Metric_Label 単位系
 
-Talk_On 会話を瞬時に表示
-Talk_Off 会話にアニメーションを使用
-Talk_Tooltip NPCテキストのアニメーション
-Talk_Label NPC Text Animation
+Talk_On インスタント
+Talk_Off アニメーション
+Talk_Tooltip インスタントは、ダイアログのポーズと文字ごとのアニメーションを無効にします。
+Talk_Label NPCテキストのアニメーション
 
 UI_Free 白いUI
 UI_Pro 黒いUI
-UI_Tooltip インターフェイスの色を変更します
-UI_Label Interface Theme
+UI_Tooltip インターフェイスの色を変更します。
+UI_Label インターフェース テーマ
 
 Hitmarker_Static 静的ヒットマーカー
 Hitmarker_Dynamic ダイナミックヒットマーカー
-Hitmarker_Tooltip ヒットマーカーの位置
-Hitmarker_Label Hitmarker Positioning
-HitmarkerStyle_Animated Animated
-HitmarkerStyle_Classic Classic
-HitmarkerStyle_Label Hitmarker Style
+Hitmarker_Tooltip スタティックは画面中央にヒットマーカーを配置するのに対し、ダイナミックでは3Dヒットを追跡します。
+Hitmarker_Label ヒットマーカーの位置
+HitmarkerStyle_Animated アニメーション
+HitmarkerStyle_Classic クラシック
+HitmarkerStyle_Label ヒットマーカーのスタイル
 
-VehicleThirdPersonCameraMode_RotationDetached Rotation Detached
-VehicleThirdPersonCameraMode_RotationAttached Rotation Attached
-VehicleThirdPersonCameraMode_Label Vehicle Third-Person Camera Style
+VehicleThirdPersonCameraMode_RotationDetached 傾き無効
+VehicleThirdPersonCameraMode_RotationAttached 傾き有効
+VehicleThirdPersonCameraMode_Label 車両用三人称カメラスタイル
 
 Crosshair_Box クロスヘアの色
 Hitmarker_Box ヒットマーカーの色

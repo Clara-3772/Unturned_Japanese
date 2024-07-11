@@ -1,8 +1,8 @@
 Header ワークショップのエラーログ:
 No_Errors 読み込まれたファイルに異常は見つかりませんでした｡
 
-BrowseLogs_Label Browse Log Files
-BrowseLogs_Tooltip Open logs folder.
+BrowseLogs_Label ログフォルダを閲覧
+BrowseLogs_Tooltip ログフォルダを開きます。
 
 Refresh リロード
 Refresh_Tooltip エラーログをリロードします

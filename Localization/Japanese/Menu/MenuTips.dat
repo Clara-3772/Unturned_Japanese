@@ -8,7 +8,7 @@ Quality レンジャー系の銃器やアタッチメントは同クラスの軍
 Umbrella 雨傘を使用して落下速度を低減したり、落下ダメージを無効化したりすることができる。
 Heal アイテムをもって右クリックすることで、他人の体力を回復できる。
 Rotate アイテム設置中に右マウスボタンを長押ししながらドラッグすることで、アイテムを回転させることができる。
-Base クラフティングに使う原料によって作成したアイテムの性能に差が生まれる。 順に: <color=epic>金属</color> -> <color=rare>マツ</color> -> <color=uncommon>カエデ</color> -> <color=common>シラカバ</color>。
+Base クラフティングに使う原料によって作成したアイテムの性能に差が生まれる。 順に: <color=rare>レンガ</color> -> <color=epic>金属</color> -> <color=rare>マツ</color> -> <color=uncommon>カエデ</color> -> <color=common>シラカバ</color>。
 Dequip インベントリで [{0}] を押すことで素早く装備しているアイテムを解除することができる。
 Nightvision [{0}] を押すことでナイトビジョンや装着型ランプのオン・オフを切り替えられる。
 Transfer [{0}] を長押ししながら 右クリック することでストレージからアイテムを素早く出し入れできる｡
@@ -26,7 +26,7 @@ Upgrade スキルツリーやクラフティングで [{0}] を長押ししな�
 Grab [{0}] を長押ししながらライフルラックを使用することで、素早くラックからアイテムを取ることができる｡
 Skycrane 車の上をホバリング中に [{0}] を押すことで <color=epic>スカイクレーン</color> の電磁石を使用することができる。
 Seat 車両に乗っている時に [F1-F12] を押すことでシートを移動できる。
-Rarity ドロップアイテムの価値の順は: <color=legendary>レジェンダリ</color> -> <color=epic>エピック</color> -> <color=rare>レア</color> -> <color=uncommon>アンコモン</color> -> <color=common>コモン</color>｡
+Rarity ドロップアイテムの価値の順は: <color=mythical>ミシカル</color> -> <color=legendary>レジェンダリ</color> -> <color=epic>エピック</color> -> <color=rare>レア</color> -> <color=uncommon>アンコモン</color> -> <color=common>コモン</color>｡
 Orientation インベントリで [{0}] を押すことでアイテムを回転させることができる。
 Red クリティカル時のクロスヘアの色はクリティカルヒットマーカーの設定に依存する。
 Steady スコープ覗き中に [{0}] を押すことで照準を安定させることができる｡ 弾の落下と着弾までの時間を忘れずに｡

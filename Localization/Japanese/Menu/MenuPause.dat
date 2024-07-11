@@ -4,10 +4,10 @@ Return_Button_Tooltip 前の画面に戻ります
 Exit_Button 終了
 Exit_Button_Tooltip ゲームを終了します
 
-Support_Label Support
-Support_Tooltip Troubleshooting, FAQs, reports, and more.
+Support_Label サポート
+Support_Tooltip トラブルシューティング、FAQs、バグ報告、その他
 
-Trello_Button Trello Roadmap
+Trello_Button Trello ロードマップ
 Trello_Button_Tooltip Trelloの開発ロードマップを開きます
 
 Twitter_Button  Twitter News
