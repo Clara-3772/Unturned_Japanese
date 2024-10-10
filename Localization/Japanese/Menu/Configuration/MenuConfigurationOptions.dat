@@ -61,6 +61,7 @@ HitmarkerStyle_Label ヒットマーカーのスタイル
 VehicleThirdPersonCameraMode_RotationDetached 傾き無効
 VehicleThirdPersonCameraMode_RotationAttached 傾き有効
 VehicleThirdPersonCameraMode_Label 車両用三人称カメラスタイル
+AircraftThirdPersonCameraMode_Label Aircraft Third-Person Camera Style
 
 Crosshair_Box クロスヘアの色
 Hitmarker_Box ヒットマーカーの色
@@ -71,3 +72,6 @@ Foreground_Box インターフェイスの色 (前面)
 Font_Box フォントの色
 Shadow_Box 影の色
 Bad_Color_Box Negative Color
+
+DontShowOnlineSafetyMenuAgain_Label Don't show Online Safety menu again
+DontShowOnlineSafetyMenuAgain_Tooltip If checked, the Online Safety menu won't be shown the next time you open multiplayer. (Unless you haven't opened it before.)

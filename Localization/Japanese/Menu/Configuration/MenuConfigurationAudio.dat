@@ -1,9 +1,11 @@
 Volume_Slider_Label 音量 [{0}]
 Game_Volume_Slider_Label ゲーム音量 [{0}]
 Unfocused_Volume_Slider_Label バックグラウンド音量 [{0}]
+Music_Master_Volume_Slider_Label Music Master Volume [{0}]
 Loading_Screen_Music_Volume_Slider_Label ローディング画面の音量 [{0}]
+Death_Music_Volume_Slider_Label Death Music Volume [{0}]
+Main_Menu_Music_Volume_Slider_Label Main Menu Music Volume [{0}]
+Ambient_Music_Volume_Slider_Label 日中/夜の環境音量 [{0}]
 Voice_Slider_Label 他人のボイスチャットボリューム [{0}]
-Music_Toggle_Label バックグラウンドの音楽
-Music_Toggle_Tooltip 音楽の「アンビエンス・ボリューム」にも影響する。
-Ambience_Toggle_Label 日中/夜の環境音
-Ambience_Toggle_Tooltip 背景の風、コオロギ、ざわめきなど。
+Atmosphere_Volume_Slider_Label Atmosphere Volume [{0}]
+Music_Header Music

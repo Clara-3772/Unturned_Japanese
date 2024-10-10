@@ -6,6 +6,7 @@ Crouching_Label しゃがみ
 Proning_Label 伏せ
 Sprinting_Label 走り
 Leaning_Label リーン(左右覗き込み)
+Voice_Mode_Label Voice Chat Mode
 
 SensitivityScalingMode_Label 感度スケーリングモード
 SensitivityScalingMode_ProjectionRatio Focal Length
