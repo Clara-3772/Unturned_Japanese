@@ -20,9 +20,9 @@ Child_Explosion_Armor_Multiplier Child Explosion Armor Multiplier
 Backstab_Multiplier Backstab Multiplier
 Armor_Lowtier_Multiplier 低Tireアーマーの倍率
 Armor_Hightier_Multiplier 高Tireアーマーの倍率
-Gun_Lowcal_Damage_Multiplier Gun Lowcal Damage Multiplier
-Gun_Highcal_Damage_Multiplier Gun Highcal Damage Multiplier
-Melee_Damage_Multiplier Melee Damage Multiplier
+Gun_Lowcal_Damage_Multiplier 小口径銃のダメージ倍率
+Gun_Highcal_Damage_Multiplier 大口径銃のダメージ倍率
+Melee_Damage_Multiplier 近接攻撃ダメージ倍率
 
 Max_Instances_Tiny インスタンス数 (とても小さい/Tiny)
 Max_Instances_Small インスタンス数 (小さい/Small)
@@ -60,7 +60,7 @@ Boss_Elver_Stomper_Chance Elver Stomper Boss Chance
 Respawn_Day_Time 日中のリスポーン時間
 Respawn_Night_Time 夜のリスポーン時間
 Respawn_Beacon_Time ビーコンのリスポーン時間
-Quest_Boss_Respawn_Interval Quest Boss Respawn Interval
+Quest_Boss_Respawn_Interval クエストボスのリスポーン間隔
 Beacon_Experience_Multiplier ビーコンの経験値倍率
 Full_Moon_Experience_Multiplier 満月時の経験値倍率
 Min_Drops ドロップ (最小)
@@ -111,14 +111,14 @@ Bleed_Regen_Ticks 出血の自然治癒までの周期 (Tick)
 
 Lose_Skills_PvP 死亡時のスキルペナルティ (対プレイヤー)
 Lose_Skills_PvE 死亡時のスキルペナルティ (PvE)
-Lose_Experience_PvP Lose Experience On Combat Death
-Lose_Experience_PvE Lose Experience On Environment Death
+Lose_Experience_PvP PvPで死亡時、経験値を失う
+Lose_Experience_PvE PvEで死亡時、経験値を失う
 Lose_Items_PvP 死亡時のアイテムペナルティ (対プレイヤー)
 Lose_Items_PvE 死亡時のアイテムペナルティ (PvE)
 Lose_Clothes_PvP 死亡時の服装ペナルティ　(対プレイヤー)
 Lose_Clothes_PvE 死亡時の服装ペナルティ　(PvE)
-Lose_Weapons_PvP Lose Weapons On Combat Death
-Lose_Weapons_PvE Lose Weapons On Environment Death
+Lose_Weapons_PvP PvPで死亡時、武器を失う
+Lose_Weapons_PvE PvEで死亡時、武器を失う
 
 Can_Hurt_Legs 足の怪我の有無
 Can_Break_Legs 骨折の有無
@@ -126,8 +126,8 @@ Can_Fix_Legs 骨折の自然治癒
 Can_Start_Bleeding 出血の有無
 Can_Stop_Bleeding 出血の自然治癒
 
-Spawn_With_Max_Skills Spawn With Max Skills
-Spawn_With_Stamina_Skills Spawn With Stamina Skills
+Spawn_With_Max_Skills スキルマックスでスポーン
+Spawn_With_Stamina_Skills スタミナスキルを持ってスポーン
 Allow_Instakill_Headshots Allow Instakill Headshots
 Allow_Per_Character_Saves Allow Per-Character Saves
 
@@ -141,14 +141,14 @@ Snow_Frequency_Max 雪の頻度 (最大)
 Snow_Duration_Min 降雪の長さ (最小)
 Snow_Duration_Max 降雪の長さ (最大)
 
-Weather_Frequency_Multiplier Weather Frequency Multiplier
-Weather_Duration_Multiplier Weather Duration Multiplier
+Weather_Frequency_Multiplier 天候の周期係数
+Weather_Duration_Multiplier 天候の間隔係数
 
 Binary_State_Reset_Multiplier バイナリステートリセット時間倍率
 Fuel_Reset_Multiplier 燃料 リスポーン時間倍率
 Water_Reset_Multiplier 水 リスポーン時間倍率
 Resource_Reset_Multiplier リソース リスポーン時間倍率
-Resource_Drops_Multiplier Resource Drops Multiplier
+Resource_Drops_Multiplier 資源ドロップの倍率
 Rubble_Reset_Multiplier 瓦礫 リスポーン時間倍率
 Allow_Holiday_Drops Allow Holiday Drops
 
@@ -186,7 +186,7 @@ Satellite GPS
 Compass コンパス
 Group_Map マップ上にグループを表示
 Group_HUD HUD上にグループを表示
-Group_Player_List Show Groups In Player List
+Group_Player_List プレーヤーリストにグループを表示
 Allow_Static_Groups 静的グループの許可
 Allow_Dynamic_Groups ダイナミックグループの許可
 Allow_Shoulder_Camera ショルダーカメラの許可
@@ -204,10 +204,10 @@ Max_Group_Members 最大グループ数
 Default デフォルトへ戻す
 Default_Tooltip 設定を初期状態に戻す
 
-Allow_Item_Placement_On_Vehicle Allow Item Placement On Vehicle
-Allow_Trap_Placement_On_Vehicle Allow Trap Placement On Vehicle
-Max_Item_Distance_From_Hull Max Item Distance From Hull
-Max_Trap_Distance_From_Hull Max Trap Distance From Hull
+Allow_Item_Placement_On_Vehicle 車両へのアイテム装着を許可する
+Allow_Trap_Placement_On_Vehicle 車両へのトラップ設置を許可する
+Max_Item_Distance_From_Hull 車体に置けるアイテムの最大距離
+Max_Trap_Distance_From_Hull 車体に置けるトラップの最大距離
 
 ThirdPerson_RecoilMultiplier Third-Person Recoil Multiplier
 ThirdPerson_SpreadMultiplier Third-Person Spread Multiplier

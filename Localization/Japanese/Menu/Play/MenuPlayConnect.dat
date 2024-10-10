@@ -18,12 +18,12 @@ Full サーバーが満員です｡
 Timed_Out サーバーが見つかりませんでした｡ 
 
 Address_Loopback_Label This Machine
-Address_Loopback_Tooltip This address refers to a server on your computer.
+Address_Loopback_Tooltip このアドレスは、あなたのコンピューター上のサーバーを指します。
 Address_LocalPrivate_Label LAN
-Address_LocalPrivate_Tooltip This address refers to a server on your local network.
+Address_LocalPrivate_Tooltip このアドレスは、ローカルネットワーク上のサーバーを指します。
 
 ServerCode_Valid_Label Server Code
 ServerCode_Valid_Tooltip This code refers to a game server.
 ServerCode_Invalid_Label Invalid Server Code
 ServerCode_Invalid_Tooltip This appears to be a server code, but does not refer to a game server.
-ServerCode_Friend_Tooltip This is a Steam friend code, not a server code.
+ServerCode_Friend_Tooltip これはサーバーコードではなく、Steamのフレンドコードです。
