@@ -2,15 +2,15 @@ ConnectButtonText 直接接続
 ConnectButtonTooltip アドレス指定でサーバーに接続する
 ServersButtonText サーバー検索
 ServersButtonTooltip サーバーリストで接続する
-ServerBookmarksButtonText Bookmarks
-ServerBookmarksButtonTooltip Browse bookmarked multiplayer servers.
+ServerBookmarksButtonText ブックマーク
+ServerBookmarksButtonTooltip ブックマークされたサーバーを閲覧。
 SingleplayerButtonText シングルプレイ
 SingleplayerButtonTooltip 一人で遊ぶ
-LobbiesButtonText Lobby
-LobbiesButtonTooltip Form a party with your friends to join the same server as a group.
+LobbiesButtonText ロビー
+LobbiesButtonTooltip フレンドとパーティーを組み、同じサーバーにグループとして参加。
 TutorialButtonText チュートリアル
 TutorialButtonTooltip プレイの基本を学ぶ
-Tutorial_Confirm_Label Play
-Tutorial_Confirm_Tooltip Proceed with opening the tutorial.
-Tutorial_Deny_Label Cancel
-Tutorial_Deny_Tooltip Cancel opening the tutorial.
+Tutorial_Confirm_Label プレイ
+Tutorial_Confirm_Tooltip チュートリアルを開く。
+Tutorial_Deny_Label キャンセル
+Tutorial_Deny_Tooltip チュートリアルをキャンセル。

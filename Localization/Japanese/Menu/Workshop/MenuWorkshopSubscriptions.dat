@@ -5,11 +5,11 @@ No_Subscriptions どのファイルにも登録されていません。
 Manage_Label Steam オーバーレイで見る
 Manage_Tooltip Steam Workshopの管理画面に移動します。
 
-BrowseFiles_Label Browse Files
-BrowseFiles_Tooltip Open {0} install folder.
-NotInstalledLabel Not Installed
+BrowseFiles_Label ファイルを閲覧
+BrowseFiles_Tooltip {0} のインストールフォルダを開く
+NotInstalledLabel インストールされていません
 
-ItemState_NeedsUpdate Needs Update
+ItemState_NeedsUpdate アップデートが必要
 
 LocalTimestampLabel Local Timestamp
 RemoteTimestampLabel Remote Timestamp

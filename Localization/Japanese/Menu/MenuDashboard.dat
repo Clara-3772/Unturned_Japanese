@@ -40,9 +40,9 @@ Hash_Level このサーバーはカスタムされたマップを使用してい
 Hash_Assembly このサーバーはカスタムされたコードを使用しています。 
 
 # https://support.smartlydressedgames.com/hc/en-us/articles/20343153432468
-Hash_Resources Built-in resources mismatch. Verifying game files should repair this.
+Hash_Resources 内蔵リソースの不一致。ゲームファイルの整合性を検証すると、この問題が解決されます。
 
-SkinColorWithinThresholdOfTerrainColor Your character's skin color is too similar to one of the level's terrain colors. Please change your character's skin color or switch to a different character.
+SkinColorWithinThresholdOfTerrainColor キャラクターの肌の色が、レベルの地形の色の1つと似すぎています。肌の色を変更するか、別のキャラクターに変更してください。
 
 Version このサーバーは別バージョンのゲームを使用しています。 
 Pro_Server このサーバーに接続するにはゴールドアカウントが必要です｡
@@ -102,7 +102,7 @@ Name_Character_Number 数字だけのキャラクター名ではプレイでき�
 Timed_Out 接続がタイムアウトしました。 
 
 # https://support.smartlydressedgames.com/hc/en-us/articles/12236323445396
-Timed_Out_Login This server did not respond after accepting you from the queue. Probably either a server/plugin bug or a network issue.
+Timed_Out_Login このサーバーはキューに受け付けた後、応答しませんでした。おそらくサーバーかプラグインのバグかネットワークの問題でしょう。
 
 # https://support.smartlydressedgames.com/hc/en-us/articles/12230327880980
 Map このサーバーはカスタムマップを使用しています。 
@@ -154,12 +154,12 @@ Name_Private_Invalid 友達限定のプライベートなニックネームに�
 
 Name_Private_Number 友達限定のプライベートニックネームは、単なる数字ではありません。
 
-Server_Map_Advertisement_Mismatch Server advertised a different map than the one it requested to load.
-Server_VAC_Advertisement_Mismatch Server advertised a different VAC-protected status than what is currently active.
-Server_BattlEye_Advertisement_Mismatch Server advertised a different BattlEye-protected status than what is currently active.
-Server_MaxPlayers_Advertisement_Mismatch Server advertised a different max player count than what it is currently set to.
-Server_CameraMode_Advertisement_Mismatch Server advertised a different camera mode than what it is currently set to.
-Server_PvP_Advertisement_Mismatch Server advertised a different PvP or PvE combat mode than what it is currently set to.
+Server_Map_Advertisement_Mismatch サーバーが、ロードを要求したマップとは異なるマップを示した。
+Server_VAC_Advertisement_Mismatch サーバーは、現在有効なものとは異なるVAC保護ステータスを示した。
+Server_BattlEye_Advertisement_Mismatch サーバーが、現在有効なものとは異なるBattlEye保護ステータスを示した。
+Server_MaxPlayers_Advertisement_Mismatch サーバーが、現在設定されている最大プレイヤー数とは異なるプレイヤー数を示した。
+Server_CameraMode_Advertisement_Mismatch サーバーが現在設定されているものとは異なるカメラモードを示した。
+Server_PvP_Advertisement_Mismatch サーバーが、現在設定されているものとは異なるPvPまたはPvEの戦闘モードを示した。
 
 SteamNetworkingSockets_Unavailable_CannotTry Steamネットワーク認証の初期化ができません。
 SteamNetworkingSockets_Unavailable_Failed Steamネットワーク認証の初期化に失敗しました。
@@ -188,10 +188,10 @@ SteamNetworkingSockets_EndReason_Misc_SteamConnectivity Steamに接続の問題�
 SteamNetworkingSockets_EndReason_Misc_Unknown 不明な雑多な接続エラー: {0}
 SteamNetworkingSockets_EndReason_Unknown 原因不明の接続終了: {0}
 
-UGC_NeedsToAcceptWorkshopLegalAgreement Failed to create or update item because you need to accept the newest Steam Workshop legal agreement.
-UGC_UnknownResult Failed to create or update item. Steam error code: {0}
-UGC_IOError Failed to create or update item because of an unknown I/O issue.
-UGC_Success Successfully submitted to Steam!
+UGC_NeedsToAcceptWorkshopLegalAgreement 最新の Steam Workshop 法的同意に同意する必要があるため、アイテムの作成または更新に失敗しました。
+UGC_UnknownResult アイテムの作成または更新に失敗しました。 Steam error code: {0}
+UGC_IOError 不明な I/O 問題のため、アイテムの作成または更新に失敗しました。
+UGC_Success Steamへの投稿に成功しました
 
 Pro_Title ゴールドアカウントアップグレード
 Pro_Button ゴールドアカウントへアップグレードしてキャラクタースロットや専用カスタマイズ、プレミアムサーバー使用権を手に入れましょう! [ここをクリックしてストアページへ]
@@ -201,7 +201,7 @@ BattlEye_Header 警告: BattlEye 無効
 BattlEye_Body BattlEye アンチチートが実行されていないため、BattlEyeに保護されたサーバーへ参加できません。 BattlEyeをアンインストールまたはインストールをしなかった場合、 Unturned/BattlEye フォルダにある Install_BattlEye.bat を実行することによって再インストールが可能です｡
 
 UpdateAvailable バージョン {0} へのアップデートが利用可能です！自動アップデートを有効にしている場合、ゲームを閉じた後にダウンロードとインストールが行われます。
-RollbackAvailable Sorry for the hassle, but a rollback to version {0} has been detected. Usually this means a game-breaking bug has been found and some time is needed to properly fix it.<br>If you have automatic updates enabled it will download and install after you close the game. Apologies again - precautions will be taken to avoid the same problem in the future!
+RollbackAvailable お手数をおかけして申し訳ありませんが、バージョン{0}へのロールバックが検出されました。通常、これはゲームを破壊するバグが発見されたことを意味し、それを適切に修正するには時間が必要です。自動アップデートを有効にしている場合は、ゲームを閉じた後にダウンロードとインストールが行われます。重ねてお詫び申し上げます。今後同じ問題が発生しないよう、予防措置を講じます！
 
 Overlay Steamオーバーレイを有効にする必要があります。 
 Dismiss_Notification_Label 確認

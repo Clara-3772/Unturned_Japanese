@@ -24,7 +24,7 @@ Remove_Table_Button_Tooltip テーブルを削除
 Apply_Weights_Button 確率を設定
 Apply_Weights_Button_Tooltip 確率を計算
 
-ID_Field_Hint ID or GUID
+ID_Field_Hint ID または GUID
 
 Roots_Box {0} - 親テーブルID
 Roots_Box_Tooltip 親のスポーンテーブル

@@ -59,51 +59,51 @@ Vehicle_Type_Boat ボート
 Vehicle_Type_Train 列車
 
 Skin_Type_Generic_Pattern 汎用
-Skin_Type_Ace エース
-Skin_Type_Augewehr アウゲヴェーア
-Skin_Type_Avenger アヴェンジャー
-Skin_Type_Bluntforce ブラントフォース
-Skin_Type_Bulldog ブルドッグ
-Skin_Type_Butterfly_Knife バタフライナイフ
-Skin_Type_Calling_Card コーリングカード
-Skin_Type_Cobra コブラ
-Skin_Type_Colt コルト
-Skin_Type_Compound_Bow コンパウンドボウ
-Skin_Type_Crossbow クロスボウ
-Skin_Type_Desert_Falcon デザートファルコン
-Skin_Type_Dragonfang ドラゴンファング
-Skin_Type_Eaglefire イーグルファイア
-Skin_Type_Ekho エコー
-Skin_Type_Fusilaut フューシラート
-Skin_Type_Grizzly グリズリー
-Skin_Type_Hawkhound ホークハウンド
-Skin_Type_Heartbreaker ハートブレイカー
-Skin_Type_Hell_Fury ヘルズ フューリー
-Skin_Type_Honeybadger ハニーバジャー
-Skin_Type_Katana 刀
-Skin_Type_Kryzkarek クリズカレック
-Skin_Type_Machete マシェット
-Skin_Type_Maplestrike メイプルストライク
+Skin_Type_Ace Ace
+Skin_Type_Augewehr Augewehr
+Skin_Type_Avenger Avenger
+Skin_Type_Bluntforce Bluntforce
+Skin_Type_Bulldog Bulldog
+Skin_Type_Butterfly_Knife Butterfly Knife
+Skin_Type_Calling_Card Calling Card
+Skin_Type_Cobra Cobra
+Skin_Type_Colt Colt
+Skin_Type_Compound_Bow Compound Bow
+Skin_Type_Crossbow Crossbow
+Skin_Type_Desert_Falcon Desert Falcon
+Skin_Type_Dragonfang Dragonfang
+Skin_Type_Eaglefire Eaglefire
+Skin_Type_Ekho Ekho
+Skin_Type_Fusilaut Fusilaut
+Skin_Type_Grizzly Grizzly
+Skin_Type_Hawkhound Hawkhound
+Skin_Type_Heartbreaker Heartbreaker
+Skin_Type_Hell_Fury Hell's Fury
+Skin_Type_Honeybadger Honeybadger
+Skin_Type_Katana Katana
+Skin_Type_Kryzkarek Kryzkarek
+Skin_Type_Machete Machete
+Skin_Type_Maplestrike Maplestrike
 Skin_Type_Maschinengewehr Maschinengewehr
-Skin_Type_Masterkey マスターキー
+Skin_Type_Masterkey Masterkey
 Skin_Type_Matamorez Matamorez
-Skin_Type_Military_Knife ミリタリーナイフ
-Skin_Type_Nightraider ナイトレイダー
-Skin_Type_Nykorev ナイコレフ
-Skin_Type_Peacemaker ピースメーカー
-Skin_Type_Rocket_Launcher ロケットランチャー
-Skin_Type_Sabertooth セイバートゥース
-Skin_Type_Scalar スカラー
-Skin_Type_Schofield スコフィールド
-Skin_Type_Shadowstalker シャドーストーカー
-Skin_Type_Snayperskya スナイパースカヤ
-Skin_Type_Sportshot スポートショット
-Skin_Type_Timberwolf ティンバーウルフ
-Skin_Type_Teklowvka テクロフカ
-Skin_Type_Viper ヴァイパー
-Skin_Type_Vonya ヴォンヤ
-Skin_Type_Yuri ユリ
-Skin_Type_Zubeknakov ズベツナコフ
+Skin_Type_Military_Knife Military Knife
+Skin_Type_Nightraider Nightraider
+Skin_Type_Nykorev Nykorev
+Skin_Type_Peacemaker Peacemaker
+Skin_Type_Rocket_Launcher Rocket Launcher
+Skin_Type_Sabertooth Sabertooth
+Skin_Type_Scalar Scalar
+Skin_Type_Schofield Schofield
+Skin_Type_Shadowstalker Shadowstalker
+Skin_Type_Snayperskya Snayperskya
+Skin_Type_Sportshot Sportshot
+Skin_Type_Timberwolf Timberwolf
+Skin_Type_Teklowvka Teklowvka
+Skin_Type_Viper Viper
+Skin_Type_Vonya Vonya
+Skin_Type_Yuri Yuri
+Skin_Type_Zubeknakov Zubeknakov
 
 Object_Type_Model モデル
 Object_Type_Resource リソース
@@ -116,7 +116,7 @@ Private 非公開
 Unlisted 未発表
 
 Community Ready-To-Use
-Review キュレーテッド
+Review Curated
 
 Overlay Steamオーバーレイを有効にする必要があります。 
 
