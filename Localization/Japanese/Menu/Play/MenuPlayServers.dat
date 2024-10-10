@@ -27,7 +27,7 @@ DeletePreset_Deny_Label No
 DeletePreset_Deny_Tooltip Keep your preset.
 
 Name_Filter_Label Server Name Filter
-Name_Filter_Hint Example: My Server
+Name_Filter_Toggle_Tooltip Toggle server name filter visibility.
 Name_Filter_Tooltip Only show servers with a name containing this text.\nParsed as a Regular Expression when prefixed with "regex:"
 Name_Filter_Hint Example: My Server Name
 
