@@ -8,6 +8,12 @@ TotalPrice_Label 推定合計:
 StartPurchase_Label 決済に進む
 StartPurchase_Tooltip Steamオーバーレイでの購入を開始.
 
+InspectListedItems_Text Inspect Listed Items
+InspectListedItems_Tooltip Preview how each item mentioned in the description looks.
+
+ListedItemsHeader_Box Each {0} contains one of these {1} items:
+ListedItemsHeader_Bundle The {0} contains all {1} of these items:
+
 PurchaseResult_UnableToInitialize 購入手続きを開始できません
 PurchaseResult_Denied 購入を拒否されました。
 PurchaseResult_Authorized 購入を許可されました！
@@ -22,3 +28,8 @@ FilterNewButton_Label 新規
 FilterNewButton_Tooltip 新着アイテムを見る
 FilterFeaturedButton_Label 特集
 FilterFeaturedButton_Tooltip 人気アイテムを見る
+
+FilterShowOwned_Label Include Owned
+
+DefaultSaleTitle Stockpile Sale
+SaleWindowFormat {0} through {1}

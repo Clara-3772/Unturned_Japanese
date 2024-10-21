@@ -58,9 +58,13 @@ Craft_Ragdoll_Effect_Removal_Tool <color=#909090>ラグドール・エフェク�
 Craft_ProgressPridePin <color=rare>Progress Pride Pin</color> (Pride Month)
 Craft_ProgressPrideJersey <color=rare>Progress Pride Jersey</color> (Pride Month)
 Craft_AnniversaryTophat <color=gold>10th Anniversary Mystery Tophat</color>
+Craft_CandyBag <color=gold>Halloween Candy Bag</color>
 
 Origin_Craft アイテムを作製しました!
 Origin_Purchase 購入成功!
+
+PreviewOnCharacterLabel Preview on Character
+PreviewSoloLabel Solo
 
 No_Items Steam インベントリの応答を待っています...
 

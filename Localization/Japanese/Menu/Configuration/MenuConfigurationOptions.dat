@@ -62,6 +62,13 @@ VehicleThirdPersonCameraMode_RotationDetached 傾き無効
 VehicleThirdPersonCameraMode_RotationAttached 傾き有効
 VehicleThirdPersonCameraMode_Label 車両用三人称カメラスタイル
 AircraftThirdPersonCameraMode_Label Aircraft Third-Person Camera Style
+FlashbangBrightness_Label Flashbang Intensity [{0}]
+CameraShakeIntensity_Label Explosion Camera Shake Intensity [{0}]
+
+DamageFlinchMode_RollOnly Roll-Only
+DamageFlinchMode_Directional Directional
+DamageFlinchMode_Label Flinch Mode
+DamageFlinchIntensity_Label Flinch Intensity [{0}]
 
 Crosshair_Box クロスヘアの色
 Hitmarker_Box ヒットマーカーの色

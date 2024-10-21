@@ -44,6 +44,9 @@ Hash_Resources 内蔵リソースの不一致。ゲームファイルの整合�
 
 SkinColorWithinThresholdOfTerrainColor キャラクターの肌の色が、レベルの地形の色の1つと似すぎています。肌の色を変更するか、別のキャラクターに変更してください。
 
+Steam_ID_Mismatch Your Steam account doesn't match the one used to connect to the server.
+Connect_Rate_Limiting Received too many join requests, sorry! Please try again in a few minutes.
+
 Version このサーバーは別バージョンのゲームを使用しています。 
 Pro_Server このサーバーに接続するにはゴールドアカウントが必要です｡
 Pro_Character 有効なキャラクターを選択してください｡

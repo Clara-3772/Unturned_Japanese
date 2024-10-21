@@ -10,8 +10,8 @@ Support_Tooltip トラブルシューティング、FAQs、バグ報告、その
 Trello_Button Trello ロードマップ
 Trello_Button_Tooltip Trelloの開発ロードマップを開きます
 
-Twitter_Button  Twitter News
-Twitter_Button_Tooltip 開発者のツイッターを開きます
+Bsky_Button Bluesky News
+Bsky_Button_Tooltip Development info and update alerts.
 
 Steam_Button Steam ニュース
 Steam_Button_Tooltip Steam上のリリースノート及びコメントを開きます

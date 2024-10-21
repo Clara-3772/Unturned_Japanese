@@ -13,6 +13,8 @@ Fog_Toggle_Label 霧の表示
 Nice_Foliage_Toggle_Label 草木のアニメーション
 Grass_Displacement_Toggle_Label 草の変形
 Grass_Displacement_Tooltip プレイヤーの足を中心として草が曲がる。
+Wind_Toggle_Label Wind Effects
+Wind_Tooltip Vertex animation for objects affected by wind.
 Foliage_Focus_Toggle_Label スコープ内の草木
 Foliage_Focus_Tooltip スコープ内に草を描画するかどうか。。
 Ragdolls_Toggle_Label ラグドール(死亡アニメーション)
