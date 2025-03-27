@@ -5,18 +5,18 @@ Bloom_Tooltip 明るい光の周りにある光の輪をぼかします。
 Chromatic_Aberration_Toggle_Label 色収差
 Chromatic_Aberration_Tooltip レンズの不完全さはスクリーンショットには有効かもしれません。
 Film_Grain_Toggle_Label フィルムグレイン
-Film_Grain_Tooltip 微妙な視覚ノイズを加えて、カラーバンディングを軽減する。
+Film_Grain_Tooltip 微妙な視覚ノイズを加えて、カラーバンディングを軽減します。
 Terrain_Toggle_Label マップ外の地形
 Blend_Toggle_Label 地域の境界色をブレンド
 Blend_Tooltip 基本的なリニアブレンドではなく、マテリアルごとのハイトマップに従って地形のテクスチャをブレンドします。
 Fog_Toggle_Label 霧の表示
 Nice_Foliage_Toggle_Label 草木のアニメーション
 Grass_Displacement_Toggle_Label 草の変形
-Grass_Displacement_Tooltip プレイヤーの足を中心として草が曲がる。
-Wind_Toggle_Label Wind Effects
-Wind_Tooltip Vertex animation for objects affected by wind.
+Grass_Displacement_Tooltip プレイヤーの足を中心に草が曲がります。
+Wind_Toggle_Label 風のエフェクト
+Wind_Tooltip 風の影響を受けるオブジェクトのアニメーション。
 Foliage_Focus_Toggle_Label スコープ内の草木
-Foliage_Focus_Tooltip スコープ内に草を描画するかどうか。。
+Foliage_Focus_Tooltip スコープ内に草を描画するかどうか。
 Ragdolls_Toggle_Label ラグドール(死亡アニメーション)
 Ragdolls_Tooltip 死体を物理的にシミュレートします。
 Debris_Toggle_Label デブリ
