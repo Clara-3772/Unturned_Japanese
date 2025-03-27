@@ -19,6 +19,7 @@ Object オブジェクト
 Item アイテム
 Vehicle 車両
 Skin スキン
+ServerCuration Server Curation
 
 Map_Type_Survival サバイバル
 Map_Type_Horde ホード
@@ -139,3 +140,4 @@ PreviewFieldNotification_Empty 空にはできません。
 PreviewFieldNotification_MissingFile 指定されたファイルが存在しません。
 PreviewFieldNotification_Extension 画像は、.pngまたは.jpgを使用してください。
 PreviewFieldNotification_FileSize 画像のファイルサイズが大きすぎます。
+PreviewFieldNotification_FileSize_V2 Image file size ({0}) is larger than limit ({1}).

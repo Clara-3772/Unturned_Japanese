@@ -13,13 +13,7 @@ Speciality_0_Skill_0_Level_6 +43% パンチ/打撃ダメージ
 Speciality_0_Skill_0_Level_7 +50% パンチ/打撃ダメージ
 Speciality_0_Skill_1 シャープシューター (Sharpshooter)
 Speciality_0_Skill_1_Tooltip 射撃のリコイルを緩和し精度を向上させる。 
-Speciality_0_Skill_1_Level_1 +7% リコイル緩和/精度
-Speciality_0_Skill_1_Level_2 +14% リコイル緩和/精度
-Speciality_0_Skill_1_Level_3 +21% リコイル緩和/精度
-Speciality_0_Skill_1_Level_4 +29% リコイル緩和/精度
-Speciality_0_Skill_1_Level_5 +36% リコイル緩和/精度
-Speciality_0_Skill_1_Level_6 +43% リコイル緩和/精度
-Speciality_0_Skill_1_Level_7 +50% リコイル緩和/精度
+Speciality_0_Skill_1_Levels_V2 +{0} リコイル緩和, +{0} 精度向上
 Speciality_0_Skill_2 デクステリティ (Dexterity)
 Speciality_0_Skill_2_Tooltip リロード速度を向上させる。
 Speciality_0_Skill_2_Level_1 +10% リロード/打ち金の速度

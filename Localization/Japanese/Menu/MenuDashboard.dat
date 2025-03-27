@@ -46,6 +46,7 @@ SkinColorWithinThresholdOfTerrainColor キャラクターの肌の色が、レ�
 
 Steam_ID_Mismatch Your Steam account doesn't match the one used to connect to the server.
 Connect_Rate_Limiting Received too many join requests, sorry! Please try again in a few minutes.
+Bad_Packet_Rate_Limiting Something went wrong with your connection, sorry! Please try again in a few minutes.
 
 Version このサーバーは別バージョンのゲームを使用しています。 
 Pro_Server このサーバーに接続するにはゴールドアカウントが必要です｡
@@ -163,6 +164,8 @@ Server_BattlEye_Advertisement_Mismatch サーバーが、現在有効なもの�
 Server_MaxPlayers_Advertisement_Mismatch サーバーが、現在設定されている最大プレイヤー数とは異なるプレイヤー数を示した。
 Server_CameraMode_Advertisement_Mismatch サーバーが現在設定されているものとは異なるカメラモードを示した。
 Server_PvP_Advertisement_Mismatch サーバーが、現在設定されているものとは異なるPvPまたはPvEの戦闘モードを示した。
+
+HWID_Modified Hardware ID (HWID) spoofer detected.
 
 SteamNetworkingSockets_Unavailable_CannotTry Steamネットワーク認証の初期化ができません。
 SteamNetworkingSockets_Unavailable_Failed Steamネットワーク認証の初期化に失敗しました。

@@ -14,6 +14,8 @@ Chat_Voice_In_Toggle_Label 他人のボイスチャット音声
 Chat_Voice_Out_Toggle_Label 自分のボイスチャット音声
 VoiceAlwaysRecording_Label 常時マイクオン
 VoiceAlwaysRecording_Tooltip Avoid hitches related to starting and stopping recording by muting rather than stopping.
+ShowOutboundVoiceChatOffHint_Label Show Outbound Voice Off Hint
+ShowOutboundVoiceChatOffHint_Tooltip Shows a muted icon in HUD when outbound voice chat is off.
 Hints_Toggle_Label ヒントを表示
 Streamer_Toggle_Label 配信者モード
 Featured_Workshop_Toggle_Label ワークショップ特集の表示

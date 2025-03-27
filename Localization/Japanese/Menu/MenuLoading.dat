@@ -23,6 +23,8 @@ Queue_Position 接続待ち: #{0} 番目
 Queue_Cancel キャンセル
 Queue_Cancel_Tooltip 接続キューをキャンセルします
 
+PingMismatchWarning Warning: the in-game ping ({0} ms) is higher than the server browser ping ({1} ms), likely due to a DDoS protection mechanism. High ping may cause laggier gameplay than expected.
+
 Creators 製作者:
 Collaborators 協力:
 Thanks 協賛:

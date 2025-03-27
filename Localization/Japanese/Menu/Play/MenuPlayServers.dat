@@ -40,7 +40,7 @@ MapFilter_ResetButton_Tooltip Change filter back to all maps.
 Map_Filter_Label Map Name Filter
 Map_Filter_Toggle_Tooltip Toggle map filter visibility.
 
-Refresh_Label カテゴリー検索:
+Refresh_Label Refresh
 Refresh_Tooltip Search for servers matching filters.
 Refresh_Cancel_Label Cancel
 Refresh_Cancel_Tooltip Cancel ongoing search.
@@ -64,6 +64,8 @@ MaxPing_Filter_Tooltip If non-zero, servers with a higher network latency (ms) w
 
 HostingButtonText ホスト
 HostingButtonTooltip サーバー・ホストの説明書を読む。
+CurationButtonText Curation
+CurationButtonTooltip Manage quality and moderation lists.
 
 ViewPresetsButton_Open_Label Open Presets
 ViewPresetsButton_Close_Label Close Presets
@@ -189,6 +191,7 @@ Monetization_Filter_NonGameplay_Tooltip Only show servers that either sell conte
 
 No_Servers バージョン {0} のサーバーが見つかりませんでした。 
 No_Servers_Hint もしかしたら、あなたのフィルターが特殊すぎるのかもしれません。
+No_Servers_CuratorsHint Curators blocked {0} servers. Perhaps one is blocking too many?
 Reset_Filters フィルターをリセット
 Reset_Filters_Tooltip フィルタの設定を初期値に戻します。
 
@@ -285,3 +288,5 @@ Plugins_Column_Unknown_Tooltip This server uses an unknown plugin framework.
 
 Favorite_On_Button_Tooltip お気に入りに追加
 Favorite_Off_Button_Tooltip お気に入りから削除
+
+BlockedByCurator_Tooltip {0}: {1}

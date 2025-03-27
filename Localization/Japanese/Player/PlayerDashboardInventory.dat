@@ -180,6 +180,7 @@ ItemDescription_Farmable_AffectedByAgricultureSkill Yield is affected by your Ag
 ItemDescription_Farmable_AffectedByRain Growth can be expedited by rainy weather.
 ItemDescription_Trap_BreaksBones Trap breaks bones.
 ItemDescription_Trap_DamagesTires Trap pierces tires.
+ItemDescription_Trap_RequiresPower Trap requires electricity.
 ItemDescription_Trap_PlayerDamage Player Damage: {0}
 ItemDescription_Trap_ZombieDamage Zombie Damage: {0}
 ItemDescription_Trap_AnimalDamage Animal Damage: {0}
@@ -196,6 +197,8 @@ ItemDescription_FuelCapacity Fuel Capacity: {0}
 ItemDescription_WaterCapacity Water Capacity: {0}
 ItemDescription_FuelBurnRate Fuel Burned: {0}/hour
 ItemDescription_FuelMaxRuntime Max Runtime: {0} hour(s)
+ItemDescription_AmmoConsumptionProbability Ammo Decrease Chance: {0}
+ItemDescription_QualityConsumptionProbability Quality Decrease Chance: {0}
 
 Equip_Button 装備する
 Equip_Button_Tooltip アイテムを手に装備する
@@ -217,6 +220,13 @@ Salvage_Button 分解
 Salvage_Button_Tooltip アイテムをクラフティング材料に分解する
 Refill_Button 再装填
 Refill_Button_Tooltip 弾薬を再装填する
+Stack_Button Stack
+Stack_Button_Tooltip Consolidate items into a bundle.
+Unstack_Button Unstack
+Unstack_Button_Tooltip Separate bundle into individual items.
+
+ActionBlueprint_SkipCraftingTooltip Skip Crafting Menu [{0}]
+ActionBlueprint_CraftAllTooltip Craft All [{0}]
 
 Attachments_Button 取り外す
 Attachments_Button_Tooltip アタッチメントを取り外す

@@ -5,8 +5,8 @@ TargetFrameRate_Field_Label 最大フレームレート
 UseUnfocusedTargetFrameRate_Toggle_Label バックグラウンド時のフレームレート制限
 UnfocusedTargetFrameRate_Field_Label バックグラウンド時の最大フレームレート
 
-Fullscreen_Mode_Label フルスクリーンモード
+Fullscreen_Mode_Label ウィンドウモード
 Fullscreen_Mode_Tooltip 画面の表示方法
-Fullscreen_Mode_Exclusive 排他表示
-Fullscreen_Mode_Borderless フチなし
+Fullscreen_Mode_Exclusive フルスクリーン
+Fullscreen_Mode_Borderless ウィンドウ (枠無し)
 Fullscreen_Mode_Windowed ウィンドウ

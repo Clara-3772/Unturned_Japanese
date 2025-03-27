@@ -31,3 +31,4 @@ Orientation インベントリで [{0}] を押すことでアイテムを回転�
 Red クリティカル時のクロスヘアの色はクリティカルヒットマーカーの設定に依存する。
 Steady スコープ覗き中に [{0}] を押すことで照準を安定させることができる｡ 弾の落下と着弾までの時間を忘れずに｡
 Streamer StreamerNames.json を変更することによって、配信者モードで表示されるプレイヤー名を変更することが出来る。
+SkipActionCraftingMenu You can skip the crafting menu when performing an action in an item's context menu by holding [{0}] while clicking it.
