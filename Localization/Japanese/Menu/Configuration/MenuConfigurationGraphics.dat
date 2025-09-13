@@ -33,6 +33,8 @@ Skybox_Reflection_Label スカイボックス反射
 Skybox_Reflection_Tooltip ダイナミックな空背景をキューブマップに描画し、環境光と反射を実現。
 Item_Icon_Anti_Aliasing_Label アイテム アイコン アンチ エイリアス
 Item_Icon_Anti_Aliasing_Tooltip インベントリアイコンがギザギザするのを防止します。
+Clutter_Label マップ詳細化
+Clutter_Tooltip ゲームプレイに影響しない小さなビジュアル詳細を読み込みます。変更を反映するにはレベルを再読み込みする必要があります。マップ開発者がこれをサポートする必要があります。
 
 Far_Clip_Slider_Label 最大描画距離 [{0}%]
 Distance_Slider_Label 付近の描画距離 [{0}%]
@@ -58,14 +60,12 @@ Water_Button_Label 水の品質
 Water_Button_Tooltip 水の透明度、形、波や反射の品質を変更します。
 Scope_Button_Label スコープの解像度
 Scope_Button_Tooltip スコープ内の解像度を変更します。
+DarkScopePeripheral_Label スコープ視野外の黒塗り
+DarkScopePeripheral_Tooltip スコープ外視野をぼかす代わりに黒く塗りつぶす。
 Outline_Button_Label アウトラインの品質
 Outline_Button_Tooltip ハイライト（アウトライン）の解像度とブラー効果を変更します。
 Terrain_Button_Label 地形の品質
 Terrain_Button_Tooltip 地形ジオメトリの解像度を変更します。
-Wind_Button_Label 風エフェクトの品質
-Wind_Button_Tooltip 風の計算の細かさを変更します｡ 低 より高い場合エフェクトが強くなります。
-Tree_Mode_Button_Label 木の品質 [再起動必須]
-Tree_Mode_Button_Tooltip 使用する木のモデルを変更します｡ クライアントの再起動が必要です｡
 Render_Mode_Button_Label 描画モード
 Render_Mode_Button_Tooltip フォワード は古いビデオカードを使用している場合 パフォーマンスが向上するかもしれません｡ デファード はデカールや反射をサポートします。
 Landmark_Button_Label ランドマーク
@@ -78,9 +78,6 @@ Planar_Reflection_Low {0}: 風景のみ
 Planar_Reflection_Medium {0}: 空, 木, 構造物, 大きいオブジェクト
 Planar_Reflection_High {0}: 車両, バリケード, オブジェクト
 Planar_Reflection_Ultra {0}: プレイヤー, AI, エフェクト
-
-Wind_Low {0}: 通常の風
-Wind_Medium {0}+: 
 
 Landmark_Low {0}: オフ
 Landmark_Medium {0}: 重要な物のみ
@@ -98,10 +95,6 @@ AF_Disabled 無効
 AF_Per_Texture テクスチャ毎
 AF_Forced_On 強制的に有効
 
-TM_Legacy 標準モデル
-TM_SpeedTree_Fade_None SpeedTrees
-TM_SpeedTree_Fade_SpeedTree Ultra SpeedTrees
-
 Forward フォワード [旧方式]
 Deferred デファード [推奨]
 
@@ -113,5 +106,4 @@ Ultra 最高
 
 Perf_Foliage_Instancing_Not_Supported お使いのGPUは、木の葉のインスタンス化をサポートしていません。これはパフォーマンスに大きく影響します。
 Perf_Water_Reflections Ultraは平面的な反射を可能にします。この場合、シーンを上下逆に描き直す必要があり、パフォーマンスが半減します。
-Perf_Dual_Render_Scope デュアルレンダースコープでは、拡大した状態で再度シーンを描く必要があり、パフォーマンスが半減します。
-Perf_SpeedTrees SpeedTreeはパフォーマンスに大きく影響します。ほとんどのハードウェアにはベーシックモデルを推奨します。
+Perf_Dual_Render_Scope 二重描画スコープでは、スコープ内外を別描画する必要があり、パフォーマンスが半減します。

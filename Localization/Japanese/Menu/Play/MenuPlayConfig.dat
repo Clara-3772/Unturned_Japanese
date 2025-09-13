@@ -9,6 +9,8 @@ Objects オブジェクト
 Events イベント
 Gameplay ゲームプレイ
 
+Override_Tooltip Override
+
 Spawn_Chance 出現確率 [0-1]
 Respawn_Time リスポーン時間
 Unlocked_After_Seconds_In_Safezone セーフゾーン効果無効までの時間
@@ -111,6 +113,8 @@ Bleed_Regen_Ticks 出血の自然治癒までの周期 (Tick)
 
 Lose_Skills_PvP 死亡時のスキルペナルティ (対プレイヤー)
 Lose_Skills_PvE 死亡時のスキルペナルティ (PvE)
+Lose_Skills_PvP Lost Skill Lvls On Combat Death
+Lose_Skills_PvE Lost Skill Lvls On Environment Death
 Lose_Experience_PvP PvPで死亡時、経験値を失う
 Lose_Experience_PvE PvEで死亡時、経験値を失う
 Lose_Items_PvP 死亡時のアイテムペナルティ (対プレイヤー)
@@ -209,5 +213,12 @@ Allow_Trap_Placement_On_Vehicle 車両へのトラップ設置を許可する
 Max_Item_Distance_From_Hull 車体に置けるアイテムの最大距離
 Max_Trap_Distance_From_Hull 車体に置けるトラップの最大距離
 
-ThirdPerson_RecoilMultiplier Third-Person Recoil Multiplier
-ThirdPerson_SpreadMultiplier Third-Person Spread Multiplier
+FirstPerson_RecoilMultiplier 一人称視点の反動倍率
+FirstPerson_AimingRecoilMultiplier 一人称視点の照準時反動乗数
+FirstPerson_AimingZoomRecoilReduction 一人称視点の照準ズーム時の反動低減
+
+ThirdPerson_RecoilMultiplier 三人称視点の反動倍率
+ThirdPerson_SpreadMultiplier 三人称視点の拡散乗数
+
+Viewmodel_AimingJumpLandMultiplier Viewmodel Aiming Jump/Land Shake Multiplier
+Viewmodel_AimingMisalignmentMultiplier Viewmodel Aiming Misalignment Multiplier

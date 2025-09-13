@@ -44,9 +44,10 @@ Hash_Resources 内蔵リソースの不一致。ゲームファイルの整合�
 
 SkinColorWithinThresholdOfTerrainColor キャラクターの肌の色が、レベルの地形の色の1つと似すぎています。肌の色を変更するか、別のキャラクターに変更してください。
 
-Steam_ID_Mismatch Your Steam account doesn't match the one used to connect to the server.
-Connect_Rate_Limiting Received too many join requests, sorry! Please try again in a few minutes.
-Bad_Packet_Rate_Limiting Something went wrong with your connection, sorry! Please try again in a few minutes.
+Steam_ID_Mismatch あなたのSteamアカウントと、サーバーに接続するために使用したアカウントが一致しません。
+Connect_Rate_Limiting 参加リクエストが多すぎます！数分後に再度お試しください。
+Bad_Packet_Rate_Limiting 接続に問題が発生しました！数分後に再度お試しください。
+Too_Many_Clients_With_Same_IP_Address お使いのIPアドレスからのプレイヤー数に制限に達しました！数分後に再度お試しください。
 
 Version このサーバーは別バージョンのゲームを使用しています。 
 Pro_Server このサーバーに接続するにはゴールドアカウントが必要です｡
@@ -214,3 +215,5 @@ Dismiss_Notification_Label 確認
 Dismiss_Notification_Tooltip 通知を解除します。
 Copy_Notification_Label コピーする
 Copy_Notification_Tooltip メッセージをクリップボードにコピーする。
+MarkContentCorrupt_Label 更新の確認とファイルの修復を強制実行
+MarkContentCorrupt_Tooltip ゲームを終了し、Steamでゲームファイルの検証をしてください。

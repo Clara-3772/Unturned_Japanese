@@ -1,4 +1,7 @@
 SelectionBoxLabelText 選択中:
+SelectedAsset_Label Selected Asset
+OnlyUsedAssets_Label Only In-use Assets
+SearchHint Name Filter
 
 WidthFieldLabelText 横
 HeightFieldLabelText 縦
@@ -13,7 +16,15 @@ OffsetFieldLabelText オフセット
 IgnoreTerrainToggleLabelText 地形を無視
 LoopToggleLabelText ループ
 RoadIndexLabelText 道ID
+RoadAsset_Label Road Asset
+RoadAsset_Tooltip Optional asset to load materials and properties from.
 
 Mirror ミラー
 Aligned 整列
 Free フリー
+
+ListMode_Legacy_Label Legacy
+ListMode_Legacy_Tooltip Browse per-level Roads.unity3d bundle.
+ListMode_RoadAssets_Label Road Assets
+ListMode_RoadAssets_Tooltip Browse global/shared road assets.
+ListMode_Label List Mode

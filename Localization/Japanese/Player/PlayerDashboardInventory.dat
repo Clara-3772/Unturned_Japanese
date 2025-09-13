@@ -81,14 +81,14 @@ ItemDescription_Clothing_Armor アーマー: {0}
 ItemDescription_Clothing_Earpiece Listens to radio chatter.
 ItemDescription_Clothing_ExplosionArmor 対爆アーマー: {0}
 ItemDescription_Clothing_FireProof 爆発から身を守ります。
-ItemDescription_Clothing_RadiationProof Protects against radiation.
-ItemDescription_Clothing_FallingBoneBreakingProof Protects against breaking bones from long falls.
-ItemDescription_ClothingMovementSpeedModifier Wearing Movement Speed: {0}
-ItemDescription_FallingDamageModifier Falling Damage: {0}
+ItemDescription_Clothing_RadiationProof 放射線から身を守ります。
+ItemDescription_Clothing_FallingBoneBreakingProof 長距離落下からの骨折を防ぎます。
+ItemDescription_ClothingMovementSpeedModifier 移動速度: {0}
+ItemDescription_FallingDamageModifier 落下ダメージ: {0}
 ItemDescription_FilterDegradationRateMultiplier Filter Degradation: {0}
 ItemDescription_EquipableMovementSpeedModifier Equipped Movement Speed: {0}
 ItemDescription_PelletCount Pellets: {0}
-ItemDescription_BulletDamageModifier Bullet Damage: {0}
+ItemDescription_BulletDamageModifier 弾薬ダメージ
 ItemDescription_RecoilModifier_X 水平反動: {0}
 ItemDescription_RecoilModifier_Y 垂直反動: {0}
 ItemDescription_RecoilModifier_Aiming Aiming Recoil Control: {0}
@@ -96,7 +96,7 @@ ItemDescription_AimDurationModifier 照準速度: {0}
 ItemDescription_AimingMovementSpeedModifier 照準時の足の速さ: {0}
 ItemDescription_SpreadModifier 精度: {0}
 ItemDescription_SwayModifier Scope Sway: {0}
-ItemDescription_AimingSpreadModifier Aiming Accuracy: {0}
+ItemDescription_AimingSpreadModifier 照準精度: {0}
 ItemDescription_ZoomFactor 倍率: {0}x
 ItemDescription_ThirdPersonZoomFactor 倍率 (三人称視点): {0}x
 ItemDescription_BulletGravityModifier Bullet Gravity: {0}
@@ -115,15 +115,15 @@ ItemDescription_Consumeable_StaminaNegative Depletes Stamina: {0}
 ItemDescription_Consumeable_OxygenPositive Restores Oxygen: {0}
 ItemDescription_Consumeable_OxygenNegative Depletes Oxygen: {0}
 ItemDescription_Consumeable_WarmthPositive Provides Warmth: {0}
-ItemDescription_ConsumeableBleeding_Heal Stops bleeding.
-ItemDescription_ConsumeableBleeding_Cut Causes bleeding.
-ItemDescription_ConsumeableBones_Heal Fixes bones.
-ItemDescription_ConsumeableBones_Break Breaks bones.
+ItemDescription_ConsumeableBleeding_Heal 出血を止める。
+ItemDescription_ConsumeableBleeding_Cut 出血を起こす。
+ItemDescription_ConsumeableBones_Heal 骨を治す。
+ItemDescription_ConsumeableBones_Break 骨を折る。
 ItemDescription_ConsumeableMoldy Low quality indicates spoiling/mold and will hurt immunity.
 ItemDescription_Firerate 発射レート: 毎分 {0} 発
-ItemDescription_Spread Spread (Hipfire): {0} °
-ItemDescription_Spread_Aim Spread (Aiming): {0} °
-ItemDescription_DamageFalloff Damage falloff begins at {0} down to {2} at {1}.
+ItemDescription_Spread 拡散 (腰撃ち): {0} °
+ItemDescription_Spread_Aim 拡散 (照準時): {0} °
+ItemDescription_DamageFalloff ダメージは {0} から下がり始め、{1} では {2} になる。
 ItemDescription_WeaponRange Range: {0}
 ItemDescription_WeaponDamage_Player_Head 対人ヘッドダメージ: {0}
 ItemDescription_WeaponDamage_Player_Body 対人ボディダメージ: {0}
@@ -141,10 +141,10 @@ ItemDescription_WeaponBleeding_Always Damage always causes bleeding.
 ItemDescription_WeaponBleeding_Heal Impact stops bleeding.
 ItemDescription_WeaponBones_Always Damage breaks bones.
 ItemDescription_WeaponBones_Heal Impact fixes bones.
-ItemDescription_WeaponDamage_Zombie_Head Zombie Headshot Damage: {0}
-ItemDescription_WeaponDamage_Zombie_Body Zombie Body Damage: {0}
-ItemDescription_WeaponDamage_Zombie_Arm Zombie Arm Damage: {0}
-ItemDescription_WeaponDamage_Zombie_Leg Zombie Leg Damage: {0}
+ItemDescription_WeaponDamage_Zombie_Head ゾンビヘッドダメージ: {0}
+ItemDescription_WeaponDamage_Zombie_Body ゾンビボディダメージ: {0}
+ItemDescription_WeaponDamage_Zombie_Arm ゾンビアームダメージ: {0}
+ItemDescription_WeaponDamage_Zombie_Leg ゾンビレッグダメージ: {0}
 ItemDescription_WeaponDamage_Animal_Head Animal Headshot Damage: {0}
 ItemDescription_WeaponDamage_Animal_Body Animal Body Damage: {0}
 ItemDescription_WeaponDamage_Animal_Limb Animal Limb Damage: {0}
@@ -199,6 +199,8 @@ ItemDescription_FuelBurnRate Fuel Burned: {0}/hour
 ItemDescription_FuelMaxRuntime Max Runtime: {0} hour(s)
 ItemDescription_AmmoConsumptionProbability Ammo Decrease Chance: {0}
 ItemDescription_QualityConsumptionProbability Quality Decrease Chance: {0}
+ItemDescription_ProvidesCraftingTags Crafting Capabilities:
+ItemDescription_ListItem • {0}
 
 Equip_Button 装備する
 Equip_Button_Tooltip アイテムを手に装備する

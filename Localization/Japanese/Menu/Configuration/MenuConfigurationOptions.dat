@@ -17,7 +17,13 @@ VoiceAlwaysRecording_Tooltip Avoid hitches related to starting and stopping reco
 ShowOutboundVoiceChatOffHint_Label Show Outbound Voice Off Hint
 ShowOutboundVoiceChatOffHint_Tooltip Shows a muted icon in HUD when outbound voice chat is off.
 Hints_Toggle_Label ヒントを表示
+ClickBlueprintToCraft_Label Click Blueprint to Craft
+ClickBlueprintToCraft_Tooltip クラフトメニューの詳細パネルを表示しません。
 Streamer_Toggle_Label 配信者モード
+AnonymizeMultiplayerDetails_Label マルチプレイヤーの詳細匿名化
+AnonymizeMultiplayerDetails_Tooltip ライブストリーマーがストリームスナイピングを防ぐのに役立つ。
+HideRichPresence_Label Steam Rich Presence の非表示
+HideRichPresence_Tooltip ステータスメッセージを非表示にし、他プレイヤーがあなたと合流するのを防ぎます。
 Featured_Workshop_Toggle_Label ワークショップ特集の表示
 Show_Hotbar_Toggle_Label ホットバーの表示
 Pause_When_Unfocused_Label バックグラウンド時の一時停止
@@ -32,10 +38,10 @@ ScreenshotsWhileLoading_Tooltip 起動時のロード画面で、スクリーン
 
 UseStaticCrosshair_Label カスタムサイズのクロスヘアを有効にする
 UseStaticCrosshair_Tooltip 拡散によって計算されたサイズではなく、カスタムサイズのクロスヘアを使用する。
-StaticCrosshairSize_Label Custom Crosshair Size
-CrosshairShape_Line Line
-CrosshairShape_Classic Classic
-CrosshairShape_Label Crosshair Shape
+StaticCrosshairSize_Label カスタムクロスヘアサイズ
+CrosshairShape_Line 線
+CrosshairShape_Classic クラシック
+CrosshairShape_Label クロスヘア形状
 
 Metric_On メートル (メートル法 )
 Metric_Off マイル (ヤードポンド法 )
@@ -66,6 +72,8 @@ VehicleThirdPersonCameraMode_Label 車両用三人称カメラスタイル
 AircraftThirdPersonCameraMode_Label 航空機用三人称カメラスタイル
 FlashbangBrightness_Label Flashbang Intensity [{0}]
 CameraShakeIntensity_Label 爆発時のカメラ揺れの強さ [{0}]
+SprintFovBoostIntensity_Label 走行時の視野拡大 [{0}]
+ViewmodelBobScale_Label 一人称視点時の腕の揺れ [{0}]
 
 DamageFlinchMode_RollOnly Roll-Only
 DamageFlinchMode_Directional Directional

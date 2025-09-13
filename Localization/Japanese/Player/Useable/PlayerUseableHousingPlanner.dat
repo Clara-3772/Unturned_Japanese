@@ -3,3 +3,6 @@ Roofs 屋根
 Walls 壁
 Pillars 柱
 NoItems 見つかりませんでした
+
+AvailableAmount Available: {0}
+CraftableAmount Craftable: {0}

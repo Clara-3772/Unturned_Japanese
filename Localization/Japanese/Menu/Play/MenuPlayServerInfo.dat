@@ -15,6 +15,9 @@ Bookmark_On_Button Add Bookmark
 Bookmark_Off_Button Remove Bookmark
 Bookmark_Button_Tooltip Toggle bookmark for quickly joining from Bookmarks menu.
 
+CopyServerCode_Label サーバーコードをコピー
+CopyServerCode_Tooltip 友達がこのコードを使ってサーバーに直接接続できます。
+
 Players プレイヤー数: {0}/{1}
 Details 詳細
 Map マップ: {0}

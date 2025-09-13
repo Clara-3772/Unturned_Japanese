@@ -1,23 +1,85 @@
-Type_0_Tooltip ツール
-Type_1_Tooltip 衣類
-Type_2_Tooltip 医療/素材
-Type_3_Tooltip 装備
-Type_4_Tooltip 弾薬
-Type_5_Tooltip バリケード
-Type_6_Tooltip 建物
-Type_7_Tooltip ユーティリティー
-Type_8_Tooltip 家具
-Type_9_Tooltip 修理
+Requirements_Label 必須: {0}
+Requirements_Separator ", "
+Requirements_Skill {0} レベル {1}
 
-Skill_1 必要スキル: クラフティング {0}
-Skill_2 必要スキル: クッキング {0} + 熱源
-Skill_3 必要スキル: エンジニア {0}
+BlueprintAmountLabel {0} / {1}
+BlueprintAmountLabel_Missing {0} / {1} {2}
+MissingAmount (あと {0} 個)
+
+BlueprintCategoryLabel カテゴリー: {0}
+
+BlueprintTitle_ItemSeparator " + "
+BlueprintTitle_ToolItem (Tool)
+BlueprintTitle_OutputSeparator " = "
+BlueprintTitle_OperationRepair {0} を {2} で {1} 修理
+BlueprintTitle_OperationFill {0} に {2} を {1} 個追加
+
+Details_RepairTitle {0} を修理
+Details_RepairDescription 耐久値 +{0} ({1} -> {2})
+Details_FillTitle {0} を埋める
+Details_FillDescription 総計 +{0} (x{1} -> x{2})
+Details_SalvageTitle {0} を解体
+Details_CraftTitle {0} を作成
+Details_TargetItem Target
+Details_InputItems 素材
+Details_ToolItems Tools
+Details_OutputItems 成果
+Details_RequiredSkills 要求スキル
+Details_RequiredTags 要求設備
+Details_Conditions Conditions
+Details_Rewards Provides
+Details_TagMissing (missing)
 
 Search_Field_Hint アイテム名…
 Search 検索
 Search_Tooltip アイテム名で作成できる物を検索
 Hide_Uncraftable_Toggle_Label 作成不可のアイテムを非表示
-No_Blueprints 作成できるアイテムが見つかりません｡ 
+Hide_Uncraftable_Toggle_Tooltip Exclude blueprints you can't currently craft.
+Show_Ignored_Toggle_Label Show Ignored
+Show_Ignored_Toggle_Tooltip Include blueprints you've blocked.
+No_Blueprints No blueprints available matching these filters.
+NoBlueprints_ZeroAvailableItems You have no items to craft with.
+NoBlueprints_HasAvailableItems No blueprints use the items you have.
+Favorites_Label Favorites
+Favorites_Tooltip Find blueprints you've starred.
+
+Header_Categories カテゴリー
+Header_TagProviders ワークステーション
+Header_AvailableTags 設備
+
+FilteringDescription_Format Filtering blueprints {0}:
+FilteringDescription_Separator " and "
+FilteringDescription_Favorites_Format you {0}
+FilteringDescription_Favorites_Label Favorited
+FilteringDescription_Name mentioning "{0}"
+FilteringDescription_TagProvider using {0}
+FilteringDescription_Tag requiring {0}
+FilteringDescription_Category in {0} category
+FilteringDescription_Category_Multiple in {0} categories
+FilteringDescription_Category_Separator ", "
+
+TagProvider_Tooltip {0} capabilities:
+
+ResetFilters_Label Reset Filters
+ResetFilters_Tooltip Show blueprints craftable with your available items. (default)
+
+// Nelson 2025-05-16: renaming Visibility to Preferences.
+VisibilityButton_Visible_Label Default
+VisibilityButton_Visible_Tooltip Shown and allowed to craft. Click to ignore or favorite this blueprint.
+VisibilityButton_Hidden_Label Ignored
+VisibilityButton_Hidden_Tooltip Hidden and blocked from crafting. Click to unblock this blueprint.
+PreferencesButton_Favorited_Label Favorited
+PreferencesButton_Favorited_Tooltip Included in your Favorites. Click to unfavorite this blueprint.
+
+CombineFiltersTooltip Combine Filters [{0}]
+InvertSkipCraftingTooltip Toggle Details Panel [{0}]
 
 Craft クラフト
-Craft_All すべてクラフト
+
+NotCraftable_Header Not currently craftable because:
+NotCraftable_LineItemPrefix "• "
+NotCraftable_MissingInputItem Missing {0}
+NotCraftable_MissingSkill Requires Skill
+NotCraftable_MissingCraftingTag Requires {0}
+NotCraftable_UnmetConditions Conditions Unmet
+NotCraftable_Ignored You marked this blueprint Ignored

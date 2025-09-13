@@ -54,22 +54,22 @@ Power 電源がありません
 Use 使う [{0}]
 Salvage 取り壊す [長押し {0}]
 Tutorial_Move やあ! 生きてるかい? [{0}, {1}, {2}, {3}] キーで動いて、ちょっと体を温めよう!
-Tutorial_Look オッケー! 試しに角にあるカメラを見てくれないかな? [マウスで視点を移動]<br>(見たら先へ進もう)
+Tutorial_Look オッケー! 試しに角にあるカメラを見てくれないかな? [マウスで視点を移動] (見たら先へ進もう)
 Tutorial_Jump 目の前にある障害物をジャンプ [{0}] で乗り越えてみよう!
 Tutorial_Perspective とても良いじゃないか! [{0}] で視点を切り替えてみよう｡
 Tutorial_Run [{0}] で走ってみよう｡ 襲撃から逃げるにはベストだからね!
-Tutorial_Inventory 似合う衣服を用意しておいたよ!<br>[{0}] で自動的に装備して、持ち歩けるアイテムを増やせるよ｡
-Tutorial_Survival 生活に必要な基本なアイテム!<br>インベントリ [{0}] からアイテムを装備したり落としたり出来るよ｡
+Tutorial_Inventory 似合う衣服を用意しておいたよ! [{0}] で自動的に装備して、持ち歩けるアイテムを増やせるよ｡
+Tutorial_Survival 生活に必要な基本なアイテム!< インベントリ [{0}] からアイテムを装備したり落としたり出来るよ｡
 Tutorial_Gun お待ちかねの銃火器! ゾンビを [{0}] で狙って [{1}] で撃って倒してみよう｡ 
-Tutorial_Ladder ナイスシューティング! 梯子を上るにはそのまま直進してみよう｡
-Tutorial_Craft [{0}] でマガジンを外して、そして クラフティング [{1}] で弾薬を補充してみよう｡
+Tutorial_Ladder ナイスキル! そのまま直進してハシゴを登ろう｡
+Tutorial_Craft [{0}] でマガジンを外して、そして クラフティング [{1}] で弾薬を補充しよう｡
 Tutorial_Skills ゾンビを倒して得た経験値でスキル [{0}] をレベルアップしよう!
 Tutorial_Swim 水中を泳いで逆側に行ってみよう｡  [{0} で浮く]
 Tutorial_Medical もしケガをしたら、医療品を使おう! 注：私は医療品でケガをしても責任を負いません｡
-Tutorial_Vehicle 右奥にある燃料タンクから、手前の燃料缶を使って車に燃料を入れよう｡<br>そして車を走らせて逆側まで行ってみよう!
+Tutorial_Vehicle 右奥にある燃料タンクから、手前の燃料缶を使って車に燃料を入れよう｡ そして車を走らせて逆側まで行ってみよう!
 Tutorial_Crouch しゃがむ [{0}] と小さい隙間を通ったりできるよ!
 Tutorial_Prone 伏せる [{0}] とさらに小さい隙間を通れるし、見つかりづらくなるよ!
-Tutorial_Educated 基本のトレーニングはこれで終わり!<br>ポーズ [{0}] でチュートリアルを終了できるよ!
+Tutorial_Educated 基本のトレーニングはこれで終わり! ポーズ [{0}] でチュートリアルを終了できるよ!
 Tutorial_Harvest 木の実を摘んで、木を切って、動物を狩って生き残ろう!
 Tutorial_Fish 釣りは忍耐と深い水が必要｡ 糸を垂らして浮きが沈んだらリールを巻いてみよう｡
 Tutorial_Build 基地を作ることは生き残るための鍵｡ 手作りの車両も作れる!
@@ -79,6 +79,7 @@ Tutorial_Sirens サイレン[{0}] で盗賊共をビビらせてやろう!
 Tutorial_Farm 栽培は持続的に食料を得られる｡
 Tutorial_Power 発電機は対ゾンビ機器やライトなどの電化製品を動かせる｡
 Tutorial_Fire キャンプファイアは寒さをしのいだり調理に使用できる｡
+Tutorial_Workstation 一部のアイテムの製作 [{0}] には、作業台が近くにある必要があります。
 Claim エリア確保済み
 Underwater 水中では使えません
 Nav 町から遠すぎます
@@ -107,9 +108,9 @@ Cannot_Build_While_Seated 座ったままでは組み立てられない
 Climb Climb [{0}]
 HousingPlannerTutorial Select Item [{0}]
 PlacementObstructedBy Blocked by: {0}
-PlacementObstructedByGround Cannot Build Underground
-FreeformBuildableNotAllowed Freeform Buildables Not Allowed
-NotPaintable Not Paintable
+PlacementObstructedByGround 地下には建築できません
+FreeformBuildableNotAllowed 自由に建築することは許可されていません
+NotPaintable 塗装不可
 
 VehicleGear_Reverse R
 VehicleGear_Neutral N

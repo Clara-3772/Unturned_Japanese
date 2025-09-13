@@ -24,6 +24,9 @@ Suicide_Button_Deny いいえ
 Suicide_Button_Deny_Tooltip 自殺しない
 Suicide_Disabled 無効
 
+InviteFriends_Label フレンドを招待
+InviteFriends_Tooltip Steamオーバーレイを開き、このサーバーに招待するフレンドを選択してください。
+
 Spy_Refresh_Button_Text スパイ
 Spy_Refresh_Button_Tooltip 更新
 Spy_Slay_Button_Text Slay
@@ -35,7 +38,7 @@ VAC_Insecure VAC保護 無効
 BattlEye_Secure BattlEye 有効
 BattlEye_Insecure BattlEye 無効
 Streamer 配信者モード
-Offline Offline
+Offline オフライン
 
 Favorite_On_Button_Text お気に入りに追加する
 Favorite_Off_Button_Text お気に入りから削除する

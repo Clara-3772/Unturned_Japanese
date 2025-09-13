@@ -8,4 +8,5 @@ Main_Menu_Music_Volume_Slider_Label メインメニューの音量 [{0}]
 Ambient_Music_Volume_Slider_Label 環境/ゲーム内の音楽ボリューム [{0}]
 Voice_Slider_Label ボイスチャット音量 [{0}]
 Atmosphere_Volume_Slider_Label 環境音量 [{0}]
-Music_Header Music
+Zombie_Footsteps_Volume_Slider_Label ゾンビの足音 [{0}]
+Music_Header 音楽
